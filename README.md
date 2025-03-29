@@ -1,6 +1,8 @@
 # NITJ Chatbot
 
-<img src="https://github.com/user-attachments/assets/89b64d00-3a5a-4197-a580-963d51c20f0d" width="50%" />
+<img src="https://github.com/user-attachments/assets/89b64d00-3a5a-4197-a580-963d51c20f0d" width="10%" />
+
+
 ## Setup
 pip install torch transformers numpy nltk python-dotenv
 python -m nltk.downloader punkt
