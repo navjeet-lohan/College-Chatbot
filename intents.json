@@ -41,6 +41,223 @@
         "CSAB counselling."
       ]
     },
+     {
+      "tag": "faculty_info",
+      "patterns": [
+        "how to contact teachers",
+        "dean office location",
+        "who is the HOD of CSE",
+        "faculty email",
+        "meet professors",
+        "teacher availability",
+        "dean contact number",
+        "class coordinator"
+      ],
+      "responses": [
+        "You can find faculty contacts on the college website under 'Faculty Directory'.",
+        "Dean's office is located on the 3rd floor of the Admin Block.",
+        "For department HOD details, visit the department office or check the notice board.",
+        "Faculty emails follow the format: name@college.edu.",
+        "Professor office hours are displayed outside their cabins."
+      ]
+    },
+    {
+      "tag": "first_year_orientation",
+      "patterns": [
+        "What is freshers' orientation?",
+        "When is the first-year orientation program?",
+        "What happens during orientation week?",
+        "Is orientation compulsory for freshers?",
+        "How to register for orientation?",
+        "What should I bring to orientation?",
+        "Who conducts the freshers' orientation?",
+        "Is there a virtual orientation option?",
+        "What are the ice-breaking activities?",
+        "Where is the orientation venue?",
+        "freshers orientation",
+        "orientation schedule",
+        "first year welcome program",
+        "new student orientation"
+      ],
+      "responses": [
+        "Information reguarding the freshers' orientation will be provided by the respective department. Attendance is mandatory. Check your email for the schedule.",
+        "Orientation includes campus tours, faculty introductions, and club inductions."
+      ]
+    },
+    {
+      "tag": "buddy_system",
+      "patterns": [
+        "Is there a buddy system for freshers?",
+        "How are mentors assigned to first-year students?",
+        "Can I change my mentor?",
+        "Who is my student mentor?",
+        "What does a mentor help with?",
+        "How to contact my mentor?",
+        "Are there peer guides for freshers?",
+        "first year mentor",
+        "student guide program",
+        "buddy program",
+        "how to find my mentor",
+        "mentor assignment"
+      ],
+      "responses": [
+        "Information reguarding the mentor will be provided by the faculty of one's respective department. They guide you on academics, clubs, and campus life.",
+        "Contact your mentor via the student portal or email."
+      ]
+    },
+    {
+      "tag": "first_year_timetable",
+      "patterns": [
+        "Where can I find my class timetable?",
+        "How are first-year classes scheduled?",
+        "Are there weekend classes?",
+        "When do classes start for freshers?",
+        "First year timetable",
+        "BTech schedule",
+        "class schedule",
+        "lecture timetable",
+        "daily routine",
+        "when do classes end",
+        "free periods",
+        "lab schedule",
+        "tutorial timings"
+      ],
+      "responses": [
+        "Your timetable will be available on the ERP portal  before classes begin.",
+        "Timings for classes and labs will be provided in the timetable itself."
+      ]
+    },
+    {
+      "tag": "study_materials",
+      "patterns": [
+        "Where to get first year books?",
+        "Is there a book bank?",
+        "How to access study materials?",
+        "Where to find lecture notes?",
+        "study material for freshers",
+        "first year syllabus books",
+        "reference books",
+        "PDF notes",
+        "previous year notes",
+        "where to buy textbooks",
+        "second hand books",
+        "library books availability"
+      ],
+      "responses": [
+        "Check the library for course books. Senior students often share notes - join your department groups.",
+        "Book bank operates in Central Library. Submit ID proof to borrow books for the semester."
+      ]
+    },
+    {
+      "tag": "department_specific",
+      "patterns": [
+        "What is my department HOD's name?",
+        "Where is CSE department office?",
+        "first year department",
+        "who is my department head",
+        "department faculty list",
+        "department notice board",
+        "department events",
+        "department clubs",
+        "when are department meetings",
+        "department lab locations"
+      ],
+      "responses": [
+        "Department offices are located in their respective blocks. HOD details are on the college website.",
+        "Check your department notice board for faculty lists and events."
+      ]
+    },
+    {
+      "tag": "transport_facility",
+      "patterns": [
+        "Is there college bus facility?",
+        "What are the bus routes?",
+        "How to get bus pass?",
+        "transport facility",
+        "college buses",
+        "bus timings",
+        "bus fees",
+        "last bus time",
+        "bus stops",
+        "city bus routes",
+        "public transport",
+        "auto stands near college"
+      ],
+      "responses": [
+        "College provide bus facility for dayscholar students. Bus passes can be issued  from the Store department ,2nd floor Central building .",
+        
+      ]
+    },
+    {
+      "tag": "first_year_projects",
+      "patterns": [
+        "Are there projects in first year?",
+        "How to join research projects?",
+        "first year research",
+        "mini projects",
+        "minor projects",
+        "project groups",
+        "project submissions",
+        "project guidelines",
+        "where to find project ideas",
+        "project mentors",
+        "department projects"
+      ],
+      "responses": [
+        "Minor-projects starts from  5th semester ends at 6th semester. Consult your subject professors for guidance.",
+        "Research projects can be joined through faculty members or department notices."
+      ]
+    },
+      {
+      "tag": "senior_interaction",
+      "patterns": [
+        "How to connect with seniors?",
+        "Are there any senior-fresher meets?",
+        "senior guidance",
+        "connect with seniors",
+        "department seniors",
+        "hostel seniors",
+        "senior help",
+        "avoid ragging",
+        "formal senior interaction"
+      ],
+      "responses": [
+        "Attend clubs orientation to meet seniors and connect with them.",
+        "Join official college groups/clubs to interact with seniors safely."
+      ]
+    },
+    {
+      "tag": "elective_choices",
+      "patterns": [
+        "how to choose electives",
+        "change my elective course",
+        "best electives for CSE",
+        "elective registration deadline",
+        "open elective vs department elective",
+        "drop an elective",
+        "elective syllabus"
+      ],
+      "responses": [
+        "Elective registration opens in ERP Portal before the semester registration. Consult your academic advisor/mentor/seniors before choosing.",
+        "Elective changes allowed till via ERP portal > Academics > Course Registration."
+      ]
+    },
+    {
+      "tag": "mental_health",
+      "patterns": [
+        "counseling for homesickness",
+        "stress management workshop",
+        "mental health support",
+        "anxiety about studies",
+        "depression help campus",
+        "student therapist",
+        "confidential counseling"
+      ],
+      "responses": [
+        "I have no information regarding on the given context.",
+        
+      ]
+    },
     {
       "tag": "extracurricular",
       "patterns": [
