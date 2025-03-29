@@ -1,6 +1,6 @@
 # NITJ Chatbot
 
-<img src="https://github.com/user-attachments/assets/89b64d00-3a5a-4197-a580-963d51c20f0d" width="25%" />
+<img src="https://github.com/user-attachments/assets/89b64d00-3a5a-4197-a580-963d51c20f0d" width="35%" />
 
 
 ## Setup
