@@ -1,3 +1,4 @@
+# NITJ Chatbot
 
 ## Setup
 pip install torch transformers numpy nltk python-dotenv
@@ -10,5 +11,5 @@ python augment_intents.py
 
 ## Running
 python chatbot.py  # Interactive
-# OR
+### OR
 python app.py  # Web server
