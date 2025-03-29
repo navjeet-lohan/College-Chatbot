@@ -1,11 +1,14 @@
-# NITJ Chatbot
-
-## Features
-- Answers queries about NIT Jalandhar
-- Handles admissions, academics, and campus life questions
-- Provides links to official resources
 
 ## Setup
-```bash
-pip install -r requirements.txt
-python flask_app.py
+pip install torch transformers numpy nltk python-dotenv
+python -m nltk.downloader punkt
+pip install scikit-learn
+
+## Training
+python train_bert.py 
+python augment_intents.py 
+
+## Running
+python chatbot.py  # Interactive
+# OR
+python app.py  # Web server
