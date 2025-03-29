@@ -1,5 +1,7 @@
 # NITJ Chatbot
 
+![image](https://github.com/user-attachments/assets/89b64d00-3a5a-4197-a580-963d51c20f0d)
+
 ## Setup
 pip install torch transformers numpy nltk python-dotenv
 python -m nltk.downloader punkt
@@ -17,4 +19,4 @@ python app.py  # Web server
 ## Handling errors
 change self.confidence threshold in chatbot.py
 
-![image](https://github.com/user-attachments/assets/3de35874-cf96-4026-b6ec-fcbf9a56d7fa)
+
