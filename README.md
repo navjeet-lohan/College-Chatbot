@@ -6,7 +6,7 @@ python -m nltk.downloader punkt
 pip install scikit-learn
 
 ## Training
-python augment_intents.py 
+python augment_intents.py <br>
 python train_bert.py 
 
 ## Running
