@@ -1,0 +1,305 @@
+/* Reset default styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background: #fef6f6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    line-height: 1.5;
+}
+
+/* Center the chatbot container */
+.chatbox {
+    width: 400px;
+    height: 600px;
+    background: white;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
+    border-radius: 16px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: all 0.3s ease;
+    /* New frame gradient border */
+    border: 8px solid transparent;
+    background-clip: padding-box;
+    position: relative;
+}
+
+.chatbox::before {
+    content: '';
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    right: -8px;
+    bottom: -8px;
+    z-index: -1;
+    background: linear-gradient(135deg, 
+        rgba(255, 255, 255, 0.8) 0%, 
+        rgba(50, 20, 82, 0.9) 50%, 
+        rgba(203, 187, 255, 0.8) 100%);
+    border-radius: 20px; /* Slightly larger to account for border */
+    box-shadow: 0 4px 20px rgba(124, 77, 255, 0.3);
+}
+
+.chatbox:hover {
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+}
+
+.chatbox:hover::before {
+    background: linear-gradient(135deg, 
+        rgba(124, 77, 255, 0.9) 0%, 
+        rgba(67, 31, 105, 1) 50%, 
+        rgba(203, 187, 255, 0.9) 100%);
+    box-shadow: 0 6px 24px rgba(124, 77, 255, 0.4);
+}
+/* Remove floating chat button */
+.chatbox__button {
+    display: none;
+}
+
+/* Chatbox support window */
+.chatbox__support {
+    background: #f9f9f9;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Header */
+/* Header - Professional blue/gray gradient */
+.chatbox__header {
+    background: linear-gradient(to right, #228B22, #76ff8f); 
+   
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 20px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+.chatbox__image--header {
+    margin-right: 12px;
+}
+
+.chatbox__heading--header {
+    font-size: 1.3rem;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.chatbox__description--header {
+    font-size: 0.85rem;
+    color: rgba(255, 255, 255, 0.8);
+    font-weight: 400;
+}
+
+/* Chat messages area */
+.chatbox__messages {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column-reverse;
+    background: #f9f9f9;
+}
+
+/* Message bubbles */
+.messages__item {
+    margin-top: 12px;
+    padding: 12px 16px;
+    max-width: 80%;
+    border-radius: 18px;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    position: relative;
+    word-wrap: break-word;
+}
+
+/* Message bubbles - REVERSED COLORS */
+.messages__item--visitor {
+    background: #431f69;
+    color: #fff;
+    align-self: flex-end;
+    border-bottom-right-radius: 4px;
+}
+
+.messages__item--operator {
+    background: #ffffff;
+    color: #333;
+    align-self: flex-start;
+    border-bottom-left-radius: 4px;
+    border: 1px solid #eee;
+}
+
+/* Timestamp for messages */
+.message__timestamp {
+    display: block;
+    font-size: 0.7rem;
+    opacity: 0.7;
+    margin-top: 4px;
+}
+
+/* Footer - Slightly lighter version for visual hierarchy */
+.chatbox__footer {
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    .chatbox__footer {
+    background: linear-gradient(to right, #98FB98, #3CB371);        /* Existing properties remain: padding, flex, border-radius, etc. */
+    }
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* Hover effect for footer */
+.chatbox__footer:hover {
+    background: linear-gradient(to right, #228B22, #76ff8f);
+}
+
+/* Update text colors for better contrast */
+.chatbox__heading--header,
+.chatbox__description--header {
+    color: white;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+
+
+
+
+
+
+.chatbox__footer input {
+    flex-grow: 1;
+    border: none;
+    padding: 12px 16px;
+    border-radius: 24px;
+    font-size: 0.95rem;
+    background: rgba(255, 255, 255, 0.9);
+    transition: all 0.3s ease;
+}
+
+.chatbox__footer input:focus {
+    outline: none;
+    background: white;
+    box-shadow: 0 0 0 2px rgba(124, 77, 255, 0.2);
+}
+
+.chatbox__send--footer {
+    background: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-left: 12px;
+    border-radius: 50%;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chatbox__send--footer:hover {
+    transform: scale(1.05);
+    background: #f5f5f5;
+}
+
+.chatbox__send--footer svg {
+    width: 20px;
+    height: 20px;
+    fill: #431f69;
+}
+
+/* Links styling */
+.chat-link {
+    color: #7c4dff;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.chat-link:hover {
+    color: #431f69;
+    text-decoration: underline;
+}
+
+.messages__item--operator a {
+    color: #7c4dff;
+    text-decoration: underline;
+}
+
+.messages__item--visitor a {
+    color: #bb9bff;
+}
+
+/* Images inside chat */
+.chat-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    margin-top: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Scrollbar styling */
+.chatbox__messages::-webkit-scrollbar {
+    width: 6px;
+}
+
+.chatbox__messages::-webkit-scrollbar-track {
+    background: rgba(0, 0, 0, 0.05);
+}
+
+.chatbox__messages::-webkit-scrollbar-thumb {
+    background: rgba(124, 77, 255, 0.3);
+    border-radius: 3px;
+}
+
+.chatbox__messages::-webkit-scrollbar-thumb:hover {
+    background: rgba(124, 77, 255, 0.5);
+}
+
+/* Typography enhancements */
+.messages__item--visitor {
+    font-weight: 500;
+}
+
+.messages__item--operator {
+    font-weight: 400;
+}
+
+/* Animation for new messages */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.messages__item {
+    animation: fadeIn 0.3s ease-out;
+}
