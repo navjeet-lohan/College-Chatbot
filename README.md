@@ -4,9 +4,9 @@
 
 
 ## Setup
-pip install torch transformers numpy nltk python-dotenv
-python -m nltk.downloader punkt
-pip install scikit-learn
+pip install torch transformers numpy nltk python-dotenv <br>
+python -m nltk.downloader punkt <br>
+pip install scikit-learn 
 
 ## Training
 python augment_intents.py <br>
