@@ -2,6 +2,9 @@
 
 <img src="https://github.com/user-attachments/assets/89b64d00-3a5a-4197-a580-963d51c20f0d" width="35%" />
 
+## Clone repository
+git clone https://github.com/navjeet-lohan/College-Chatbot.git <br>
+cd College-Chatbot
 
 ## Setup
 pip install torch transformers numpy nltk python-dotenv <br>
