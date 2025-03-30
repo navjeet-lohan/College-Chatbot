@@ -42,6 +42,188 @@
       ]
     },
     {
+  "tag": "Canteen_facilities",
+  "patterns": [
+    "What are the canteen facilities?",
+    "Is there a canteen in campus?",
+    "Food options in college",
+    "Canteen services",
+    "Where to eat in college?",
+    "Food court availability",
+    "Cafeteria options",
+    "Eating places in campus",
+    "What food is available in canteen?",
+    "Canteen timings",
+    "Are there multiple canteens?",
+    "Canteen menu",
+    "Food quality in canteen"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "The campus has multiple canteens offering a variety of food options:\n- Campus Cafe near Lecture Theater\n- Night canteen\n- The Snackers\n-Food options include North Indian, South Indian, Chinese and fast food items.
+    }
+  ]
+},
+    {
+  "tag": "Laundry_facilities",
+  "patterns": [
+    "Laundry services in campus",
+    "Where can I wash clothes?",
+    "Laundry facilities",
+    "Washing machine availability",
+    "Is there laundry service?",
+    "Clothes washing options",
+    "Laundromat in college",
+    "How to do laundry in hostel?",
+    "Laundry timings",
+    "Laundry charges",
+    "Automatic washing machines",
+    "Dry cleaning services"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "Laundry facilities available:\n- Common washing machines in each hostel block,two on each floor.\n- 
+    }
+  ]
+},
+    {
+  "tag": "Hostel_facilities",
+  "patterns": [
+    "What hostel facilities are available?",
+    "Hostel amenities",
+    "Living facilities in hostel",
+    "Hostel infrastructure",
+    "What's provided in hostel?",
+    "Hostel water filter",
+    "Hostel geyser availability",
+    "Wifi in hostels",
+    "Hostel washing machine",
+    "Hostel room facilities",
+    "Hostel common room",
+    "Hostel recreation facilities",
+    "Hostel maintenance"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "Hostel facilities include:\n- 24/7 water purifiers on each floor\n- Geysers in bathrooms\n- Common washing machines\n- High-speed wifi\n- Reading rooms\n- Common TV room\n- Indoor games facilities\n- 24/7 electricity and security",
+      
+    }
+  ]
+},
+    {
+  "tag": "Department_info",
+  "patterns": [
+    "Tell me about CSE department",
+    "Computer Science department",
+    "Mechanical Engineering department",
+    "Civil department info",
+    "Electrical department facilities",
+    "ECE department",
+    "Chemical Engineering department",
+    "IT department",
+    "Biotech department",
+    "Instrumentation department",
+    "Textile department",
+    "Industrial Engineering department",
+    "Data Science department"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "Each department has:\n- Well-equipped labs \n- Seminar halls\n- Faculty cabins\n- Research facilities\n- Project labs\n\nFor specific department information, please visit: [Department section in the college website]",
+      
+    }
+  ]
+},
+    {
+  "tag": "Campus_shops",
+  "patterns": [
+    "Shops in campus",
+    "What shops are available?",
+    "Stationery shop",
+    "Photocopy center",
+    "Grocery store in college",
+    "Medical store",
+    "Book shop",
+    "College stores",
+    "Shopping options in campus",
+    "Essentials shop",
+    "Convenience stores",
+    "Where to buy daily needs?"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "Available shops in campus:\n- Stationery and photocopy center\n- College co-operative store\n- Medical store\n- Fruit and juice stalls\n- Snack shops\n- Book store \n\nTimings: 9:00 AM to 8:00 PM",
+    
+    }
+  ]
+},
+    {
+  "tag": "Exam_information",
+  "patterns": [
+    "When are the semester exams?",
+    "Exam schedule",
+    "When will end-sem exams start?",
+    "Mid-sem exam dates",
+    "Exam timetable",
+    "How are exams conducted?",
+    "Exam pattern for first year",
+    "Grading system",
+    "What is the passing criteria?",
+    "Back paper system",
+    "Re-exam process",
+    "How to prepare for semester exams?",
+    "Exam rules and regulations",
+    "What if I miss an exam?",
+    "Exam hall rules",
+    "How many exams per semester?",
+    "Practical exam schedule",
+    "Viva preparation",
+    "Study material for exams",
+    "Previous year question papers"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "Exam Information for First Year Students:\n\n- Two main exams per semester: Mid-semester  and End-semester \n- Passing criteria: Minimum 40% in theory and practical separately\n- Grading system: 10-point scale (S=10, A=9, B=8, etc.)\n- Back papers: Can reappear in next semester if failed\n- Exam pattern: 3-hour written papers + practicals/vivas\n\nExam schedules are displayed on notice boards 3 weeks prior. Previous year papers available in central library.",
+      "url": "https://www.nitj.ac.in/template/index.html?id=64a532c5e7b4137ef2d3e7d0?category=academics"
+    },
+    {
+  "tag": "Grading_system",
+  "patterns": [
+    "How does the grading system work?",
+    "What is the CGPA system?",
+    "Grading scale in college",
+    "How are grades calculated?",
+    "What is a good CGPA?",
+    "How to calculate SGPA?",
+    "Passing marks criteria",
+    "What if I get a D grade?",
+    "Backlog grading system",
+    "How to improve CGPA?",
+    "What is the minimum passing grade?",
+    "Grade points explanation",
+    "Difference between SGPA and CGPA",
+    "How are internal marks added?",
+    "Grading policy for BTech",
+    "What percentage is a B grade?",
+    "How to convert CGPA to percentage?",
+    "Fail grade consequences",
+    "Revaluation process for grades",
+    "How are practical exams graded?"
+  ],
+  "responses": [
+    {
+      "type": "text",
+      "text": "**Grading System at NITJ (BTech Programs):**\n\n- **10-Point Scale:**\n  - The detailed information regarding the grading system,CGPA and SGPA is provided in the acedemics section of the college website,please visit it".
+      
+    },
+
+    {
       "tag": "extracurricular",
       "patterns": [
         "extracurricular",
