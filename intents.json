@@ -114,12 +114,11 @@
         "B.Tech admission contact",
         "What are the required documents for B.Tech admission?"
       ],
-      "responses": [
-        " Admission Process for the B.Tech programme:",
-        "1. Admission through JoSAA: \n Admission to the B.Tech. programmes of the Institute are carried out each year on the basis of performance of the students in the Joint Entrance Examination (JEE-Main) by common counselling through Joint Seat Allocation Authority (JoSAA). For admission to the B. Tech. and B. Arch. Programmes, the Institute shall follow the reservation policy as notified by MHRD, Govt. of India from time to time",
-        "2. Admission under DASA programme: \n Direct Admission Student who are Foreign nationals either residing in India or abroad or Indian nationals residing abroad may be admitted to UG programme under the Direct Admission Students Abroad (DASA) scheme according to the policy guidelines laid down by the MHRD Govt. of India from time to time. A few admissions are also given through the Ministry of External Affairs based on self- financing scheme as decided by the MHRD Govt. of India from time to time.",
-        "3. Admission under Cultural Exchange Programme(ICCR):\n A few admissions are offered under the Cultural Exchange Fellowship Programme of the Government of India, administered by the Indian Council of Cultural Relations (ICCR), New Delhi through the Ministry of External Affairs as decided by the MHRD Govt. of India from time to time. For these admissions, the candidates are required to apply through the Indian High Commission/Embassy in their respective countries.",
-        "4. Admission under Study in India Programme(SII):\n A few admissions are offered under the Study in India Programme for the foreign students under Government of India Scheme to Study in India."
+      "responses": [{
+        "type":"text",
+        "text": "Admission Pcess for the B.Tech programme:1. Admission through JoSAA: \n Admission to the B.Tech. programmes of the Institute are carried out each year on the basis of performance of the students in the Joint Entrance Examination (JEE-Main) by common counselling through Joint Seat Allocation Authority (JoSAA). For admission to the B. Tech. and B. Arch. Programmes, the Institute shall follow the reservation policy as notified by MHRD, Govt. of India from time to time 2. Admission under DASA programme: \n Direct Admission Student who are Foreign nationals either residing in India or abroad or Indian nationals residing abroad may be admitted to UG programme under the Direct Admission Students Abroad (DASA) scheme according to the policy guidelines laid down by the MHRD Govt. of India from time to time. A few admissions are also given through the Ministry of External Affairs based on self- financing scheme as decided by the MHRD Govt. of India from time to time.3. Admission under Cultural Exchange Programme(ICCR):\n A few admissions are offered under the Cultural Exchange Fellowship Programme of the Government of India, administered by the Indian Council of Cultural Relations (ICCR), New Delhi through the Ministry of External Affairs as decided by the MHRD Govt. of India from time to time. For these admissions, the candidates are required to apply through the Indian High Commission/Embassy in their respective countries 4. Admission under Study in India Programme(SII):\n A few admissions are offered under the Study in India Programme for the foreign students under Government of India Scheme to Study in India.Below given is the link of list of all documents required at the time of admission",
+        "url" : "https://nitj.ac.in/files/1721812697605-List%20of%20Documents%20to%20be%20Submitted%20at%20the%20time%20of%20Physical%20Reporting.pdf"
+      }
       ]
     },
     {
@@ -244,12 +243,10 @@
         "MBA admission contact"
       ],
       "responses": [
-        " Admission Process for MBA programme is as follows: Admissions shall be made on All India Basis. Reservation rules of Govt. of India will be followed.",
-        "1. Admissions will be made on the basis of CAT/GMAT/CMAT/MAT/Institute test (70% weightage), Group Discussion (15% weightage), and Interview (15% weightage). The weightage for the percentile for CAT/GMAT/CMAT/MAT is given below. Percentile Scores below 40 will not be considered for admission.",
-        "2. Equivalent Marks for CAT/GMAT/CMAT/MAT exam percentile Percentile 40-49 50-59 60-69 70-79 80-89 90 & above CAT/GMAT 40 45 50 60 65 70 MAT/CMAT 35 40 45 55 60 70.",
-        "4. The Shortlisted candidates with valid CAT/GMAT/CMAT/MAT score will directly appear in for group discussion and personal interview. At first, the seats will be filled from CAT/GMAT/CMAT/MAT Marks+GD+PI Score. Remaining vacant seats will be filled from Institute’s Test Marks+GD+PI Score. All admissions will be provisional till these are confirmed subject to medical fitness, payment of all the fees, fulfilment of eligibility conditions, and verifications of certificates by the Academic Section of the Institute. The candidates whose result will be awaited as on date of counselling must have to submit the result (original/revaluation) immediately after its, failing which the admission may be cancelled.",
-        "5. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M. Sc. Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director.",
-        "6. Regarding all matters concerning selection of candidates, the decision of the Chairman Senate or his nominee will be final. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M.B.A Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director."
+        {  "type":"text",
+          "text":" Admission Process for MBA programme is as follows: Admissions shall be made on All India Basis. Reservation rules of Govt. of India will be followed.1. Admissions will be made on the basis of CAT/GMAT/CMAT/MAT/Institute test (70% weightage), Group Discussion (15% weightage), and Interview (15% weightage). The weightage for the percentile for CAT/GMAT/CMAT/MAT is given below. Percentile Scores below 40 will not be considered for admission.2. Equivalent Marks for CAT/GMAT/CMAT/MAT exam percentile Percentile 40-49 50-59 60-69 70-79 80-89 90 & above CAT/GMAT 40 45 50 60 65 70 MAT/CMAT 35 40 45 55 60 70.4. The Shortlisted candidates with valid CAT/GMAT/CMAT/MAT score will directly appear in for group discussion and personal interview. At first, the seats will be filled from CAT/GMAT/CMAT/MAT Marks+GD+PI Score. Remaining vacant seats will be filled from Institute’s Test Marks+GD+PI Score. All admissions will be provisional till these are confirmed subject to medical fitness, payment of all the fees, fulfilment of eligibility conditions, and verifications of certificates by the Academic Section of the Institute. The candidates whose result will be awaited as on date of counselling must have to submit the result (original/revaluation) immediately after its, failing which the admission may be cancelled.5. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M. Sc. Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director.6. Regarding all matters concerning selection of candidates, the decision of the Chairman Senate or his nominee will be final. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M.B.A Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director."
+           
+        }
       ]
     },
     {
@@ -499,16 +496,7 @@
         "Is the mess open on holidays?",
         "Mess closed on holidays",
         "Mess food during holidays",
-        "Holiday mess menu"
-      ],
-      "responses": [
-        "We take mess food quality seriously. If you have any concerns or complaints regarding the food, menu, timings, or any other mess-related issue, please contact the mess committee or the mess warden. ",
-        "You can also provide feedback through the designated feedback system or directly to the mess staff. Your feedback is valuable and helps us improve the mess services."
-      ]
-    },
-    {
-      "tag": "mess_timings",
-      "patterns": [
+        "Holiday mess menu",
         "Mess timings",
         "What are the mess timings?",
         "When is the mess open?",
@@ -531,9 +519,14 @@
         "Mess timings during exams"
       ],
       "responses": [
+        "We take mess food quality seriously. If you have any concerns or complaints regarding the food, menu, timings, or any other mess-related issue, please contact the mess committee or the mess warden. ",
+        "You can also provide feedback through the designated feedback system or directly to the mess staff. Your feedback is valuable and helps us improve the mess services.",
+        "The mess timings are generally posted in the mess hall and sometimes on the student portal. \n Typically, breakfast, lunch, and dinner are served during specific hours.  If you have any questions regarding the mess timings, particularly during holidays, exams, or special events, please contact the mess staff or check the notice boards in your hostel. ",
         "The mess timings are generally posted in the mess hall and sometimes on the student portal. \n Typically, breakfast, lunch, and dinner are served during specific hours.  If you have any questions regarding the mess timings, particularly during holidays, exams, or special events, please contact the mess staff or check the notice boards in your hostel. "
       ]
     },
+    
+    
     {
       "tag": "PLACEMENT: placement_support",
       "patterns": [
@@ -608,9 +601,11 @@
         "DASA admissions",
         "dasa"
       ],
-      "responses": [
-        "International students can apply for scholarships. Please check our website for specific details and eligibility criteria.  For General Queries: diia@nitj.ac.in ."
-      
+      "responses": [{
+        "type":"text",
+        "text":"International students can apply for scholarships. Please check our website for specific details and eligibility criteria.  For General Queries: diia@nitj.ac.in.Below is the link provided for the ISC(International Students Cell) please visit the link for further information",
+        "url": "https://nitj.ac.in/diia_U/template.html?id=6776bab1e7fb3208bfbfdc2a&category=newsPage"
+        }
       ]
     },
     {
@@ -629,6 +624,10 @@
         "Cultural events",
         "Academic societies",
         "Volunteer opportunities",
+        "list of clubs of nitj",
+        "number of clubs",
+        "list of cultural clubs",
+        "list of techincal clubs",
         "Arts and crafts clubs",
         "Music clubs",
         "Drama clubs",
@@ -723,74 +722,8 @@
           "The college has a diverse range of clubs, including technical clubs like APOGEE, GDSC, SOME, StrataBiz, Vortex, Website Development & Management, and SARC, and cultural clubs such as Photography and Movie, Social Works & Rural Activity, Yodha, Yoga & Meditation, Aarogya, Chetna, Dance, Ek Bharat Shrestha Bharat, Fashion & Modelling, Finance Society NITJ, Fine Art Society, Food & Flavour, Green, Media Cell, Music, NCC, Regional Language, and Sanskriti. For more information, reach out to the club offices or check the college website."
       ]
     },
-    {
-      "tag": "Clubs",
-      "patterns": [
-          "How many clubs are there in the college?",
-          "What are the clubs in the college?",
-          "List of clubs in NITJ",
-          "Tell me about college clubs",
-          "What clubs can I join?",
-          "Clubs available in college",
-          "Number of clubs in NITJ",
-          "Technical clubs in college",
-          "Cultural clubs in college",
-          "What are the technical clubs?",
-          "What are the cultural clubs?",
-          "Club activities in NITJ",
-          "Student clubs in college",
-          "How many technical clubs are there?",
-          "How many cultural clubs are there?",
-          "Names of technical clubs",
-          "Names of cultural clubs",
-          "Club membership details",
-          "How to join college clubs",
-          "Club registration process",
-          "Are there any technical clubs?",
-          "Are there any cultural clubs?",
-          "What is APOGEE club?",
-          "What is GDSC club?",
-          "What does SOME club do?",
-          "Tell me about StrataBiz",
-          "What is Vortex club?",
-          "Photography club details",
-          "Movie club in college",
-          "Social work clubs",
-          "Website development club",
-          "Yodha club details",
-          "Yoga and meditation club",
-          "Aarogya club activities",
-          "Chetna club in NITJ",
-          "Dance club details",
-          "Ek Bharat Shrestha Bharat club",
-          "Fashion and modelling club",
-          "Finance Society NITJ",
-          "Fine Art Society details",
-          "Food and Flavour club",
-          "Green club activities",
-          "Media cell in college",
-          "Music club details",
-          "NCC in NITJ",
-          "Regional Language club",
-          "Sanskriti club activities",
-          "SARC club details",
-          "Club events in college",
-          "How to participate in club activities",
-          "Club contact details",
-          "Club office location",
-          "Club membership fees",
-          "Club joining deadline",
-          "Club selection process",
-          "Benefits of joining clubs"
-      ],
-      "responses": [
-          "NITJ offers a variety of clubs for students to join",
-          "There are several technical and cultural clubs. The technical clubs include APOGEE, GDSC - Google Developer Student Club, SOME, StrataBiz, Vortex, Website Development & Management, SARC",
-          "Cultural Clubs: Photography and Movie, Social Works & Rural Activity, Yodha, Yoga & Meditation, Aarogya, Chetna, Dance, Ek Bharat Shrestha Bharat, Fashion & Modelling, Finance Society NITJ, Fine Art Society, Food & Flavour, Green, Media Cell, Music, NCC, Regional Language, Sanskriti.",
-          "You can join these clubs by registering during the club recruitment drives, usually held at the start of the academic year. Contact the respective club coordinators for more details on membership and activities.",
-          "The college has a diverse range of clubs, including technical clubs like APOGEE, GDSC, SOME, StrataBiz, Vortex, Website Development & Management, and SARC, and cultural clubs such as Photography and Movie, Social Works & Rural Activity, Yodha, Yoga & Meditation, Aarogya, Chetna, Dance, Ek Bharat Shrestha Bharat, Fashion & Modelling, Finance Society NITJ, Fine Art Society, Food & Flavour, Green, Media Cell, Music, NCC, Regional Language, and Sanskriti. For more information, reach out to the club offices or check the college website."
-      ]
-  },
+
+  
     {
       "tag": "ALUMNI : alumni_network",
       "patterns": [
@@ -824,9 +757,11 @@
         "Seniors",
         "Passouts"
       ],
-      "responses": [
-        "Our alumni network is strong and active, providing valuable connections and mentoring opportunities for current students.",
-        "You can connect with our alumni through various networking events and the alumni portal on our website."
+      "responses": [{
+        "type":"text",
+        "text":"Our alumni network is strong and active, providing valuable connections and mentoring opportunities for current students.You can connect with our alumni through various networking events and the alumni portal on our website.Below is the link provided for the NITJAA(NITJ ALUMNI ASSOCIATION) feel free to visit the given link",
+        "url" :"https://www.nitj.ac.in/alumni/alumni.html"
+      }
       ]
     },
     {
@@ -952,9 +887,12 @@
           "Found a lost item, what to do?"
       ],
       "responses": [
-          "The Lost and Found department at NITJ is located in the Administrative Block, Ground Floor, near the Student Welfare Office. To report a lost item, visit the office or contact them via email at lostandfound@nitj.ac.in or call the office at [insert phone number]. Found items can be submitted at the same office. The department maintains a record of lost and found items, and you can check for your lost belongings during office hours (9 AM to 5 PM, Monday to Friday). Items are typically held for 30 days before being disposed of or donated.",
-          "If you’ve lost or found an item on campus, visit the Lost and Found department in the Administrative Block or contact them at lostandfound@nitj.ac.in. To report a lost item, provide details like the item description, date, and location of loss. For found items, hand them over to the office. You can claim your lost item by verifying ownership. The office operates from 9 AM to 5 PM, Monday to Friday, and unclaimed items are retained for 30 days."
+        {
+          "type":"text",
+          "text": "The Lost and Found department at NITJ is located in the Administrative Block, Ground Floor, near the Student Welfare Office. To report a lost item, visit the office or contact them via email at lostandfound@nitj.ac.in or call the office at [insert phone number]. Found items can be submitted at the same office. The department maintains a record of lost and found items, and you can check for your lost belongings during office hours (9 AM to 5 PM, Monday to Friday). Items are typically held for 30 days before being disposed of or donated. If you’ve lost or found an item on campus, visit the Lost and Found department in the Administrative Block or contact them at lostandfound@nitj.ac.in. To report a lost item, provide details like the item description, date, and location of loss. For found items, hand them over to the office. You can claim your lost item by verifying ownership. The office operates from 9 AM to 5 PM, Monday to Friday, and unclaimed items are retained for 30 days."
+        }
       ]
+
   },
    
 
@@ -1389,6 +1327,7 @@
         "Cultural events",
         "College fests",
         "Cultural fests",
+        "cultural programs",
         "Campus events",
         "Upcoming cultural events",
         "Upcoming college fests",
@@ -1653,15 +1592,7 @@
         "What are the attendance rules?",
         "How much attendance is required?",
         "What happens if I miss class?",
-        "What is the penalty for low attendance?"
-      ],
-      "responses": [
-        "The attendance policy requires students to maintain a minimum of 75% attendance. Medical leave can be granted with proper documentation. Visit the official website for more details on the policy."
-      ]
-    },
-    {
-      "tag": "low_attendance",
-      "patterns": [
+        "What is the penalty for low attendance?",
         "Low attendance",
         "less than 75% attendance in a subject?",
         "Attendance shortage",
@@ -1690,9 +1621,12 @@
         "Attendance calculation"
       ],
       "responses": [
+        "The attendance policy requires students to maintain a minimum of 75% attendance. Medical leave can be granted with proper documentation. Visit the official website for more details on the policy.",
         "If you have less than 75% attendance, you may be debarred from appearing for the exam."
       ]
+      
     },
+
     {
       "tag": "ACADEMICS: past_exam_papers_lecture_notes",
       "patterns": [
@@ -1720,8 +1654,11 @@
         "Identity card lost",
         "Lost ID card"
       ],
-      "responses": [
-        "If you lose your student ID card, file a FIR, report it to the administration office and apply for a replacement."
+      "responses": [{
+        "type":"text",
+        "text":"If you lose your student ID card, file a FIR, report it to the administration office and apply for a replacement.Below is the link provided for the document that is to be flled when applying for replacement",
+        "url":"http://lib.nitj.ac.in/images/Application%20for%20Duplicate%20ICard.pdf"
+      }
       ]
     },
     {
@@ -1737,8 +1674,11 @@
         "someone is harassing me what to do?",
         "Anti ragging committee"
       ],
-      "responses": [
-        "Ragging incidents can be reported to the student welfare office or the anti-ragging committee. Counseling services are available through the student counseling center. Visit the official website for more details."
+      "responses": [{
+        "type":"text",
+        "text":"Ragging incidents can be reported to the student welfare office or the anti-ragging committee. Counseling services are available through the student counseling center. Visit the official website for more details.A link is provided below for the Anti Ragging cell please feel free to visit in such cases.",
+        "url" :"https://www.nitj.ac.in/admissions/antiRagging.html"
+      }
       ]
     },
     {
@@ -1848,8 +1788,11 @@
         "public transport",
         "auto stands near college"
       ],
-      "responses": [
-        "College provide bus facility for day scholar students. Bus passes can be issued from the Store department, 2nd floor Central building ."
+      "responses": [{
+        "type":"text",
+        "text":"College provide bus facility for day scholar students. Bus passes can be issued from the Store department, 2nd floor Central building. Below is the link provided for the bus facilites and the timings.",
+        "url":"https://nitj.ac.in/files/1723121804917-Bus%20timings.pdf"
+      }
 
       ]
     },
@@ -1916,7 +1859,11 @@
         "anxiety about studies",
         "depression help campus",
         "student therapist",
-        "confidential counseling"
+        "confidential counseling",
+        "stress management",
+        "academic stress",
+        "tension",
+        "tension of low marks"
       ],
       "responses": [
         "NIT Jalandhar, through its Aarogya Club and other initiatives, promotes mental health and well-being through counseling, workshops, and awareness programs, aiming to foster a culture of physical fitness and mental resilience. "
