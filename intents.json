@@ -5,159 +5,80 @@
       "patterns": [
         "B.Tech admissions",
         "btech admission",
-        "How can I apply for Btech?",
+        "apply for Btech?",
         "B.Tech application process",
         "B.Tech admission procedure",
         "B.Tech application steps",
         "What is the admission process for BTech?",
         "How do I apply for Btech?",
         "What are the steps for admission in Btech?",
-        "Admission to B.Tech",
-        "B.Tech cut-off",
-        "B.Tech counseling",
-        "B.Tech seat allotment",
-        "B.Tech admission confirmation",
-        "B.Tech admission documents",
-        "B.Tech application fee",
-        "B.Tech admission portal",
-        "B.Tech application website",
-        "B.Tech admission office",
-        "btech admissions",
-        "B.Tech admission contact",
-        "What are the required documents for B.Tech admission?"
+        "Admission to B.Tech"
       ],
-      "responses": [{
-        "type":"text",
-        "text": "Admission Pcess for the B.Tech programme:1. Admission through JoSAA: \n Admission to the B.Tech. programmes of the Institute are carried out each year on the basis of performance of the students in the Joint Entrance Examination (JEE-Main) by common counselling through Joint Seat Allocation Authority (JoSAA). For admission to the B. Tech. and B. Arch. Programmes, the Institute shall follow the reservation policy as notified by MHRD, Govt. of India from time to time 2. Admission under DASA programme: \n Direct Admission Student who are Foreign nationals either residing in India or abroad or Indian nationals residing abroad may be admitted to UG programme under the Direct Admission Students Abroad (DASA) scheme according to the policy guidelines laid down by the MHRD Govt. of India from time to time. A few admissions are also given through the Ministry of External Affairs based on self- financing scheme as decided by the MHRD Govt. of India from time to time.3. Admission under Cultural Exchange Programme(ICCR):\n A few admissions are offered under the Cultural Exchange Fellowship Programme of the Government of India, administered by the Indian Council of Cultural Relations (ICCR), New Delhi through the Ministry of External Affairs as decided by the MHRD Govt. of India from time to time. For these admissions, the candidates are required to apply through the Indian High Commission/Embassy in their respective countries 4. Admission under Study in India Programme(SII):\n A few admissions are offered under the Study in India Programme for the foreign students under Government of India Scheme to Study in India.Below given is the link of list of all documents required at the time of admission",
-        "url" : "https://nitj.ac.in/files/1721812697605-List%20of%20Documents%20to%20be%20Submitted%20at%20the%20time%20of%20Physical%20Reporting.pdf"
-      }
+      "responses": [
+        {
+          "type": "text",
+          "text": "Admission Process for the B.Tech programme:\n 1. Admission through JoSAA: \n Admission to the B.Tech. programmes of the Institute are carried out each year On the basis of performance of the students in the Joint Entrance Examination (JEE-Main) by common counselling through Joint Seat Allocation Authority (JoSAA).\n 2. Admission under DASA programme \n 3. Admission under Cultural Exchange Programme(ICCR) \n 4. Admission under Study in India Programme(SII)",
+          "url": "https://www.nitj.ac.in/admissions/index.html#btech"
+        }
       ]
     },
     {
       "tag": "M tech admissions",
       "patterns": [
-        "How can I apply for Mtech?",
-        "What is the admission process for MTech?",
-        "How do I apply for Mtech?",
-        "What are the steps for admission in Mtech?",
         "M.Tech admissions",
         "mtech admission",
-        "How to apply for M.Tech?",
-        "What is the admission process for M.Tech?",
-        "How do I apply for M.Tech?",
-        "What are the steps for admission in M.Tech?",
+        "apply for mtech?",
         "M.Tech application process",
         "M.Tech admission procedure",
         "M.Tech application steps",
-        "Applying for M.Tech",
-        "Admission to M.Tech",
-        "M.Tech entrance exam",
-        "M.Tech eligibility criteria",
-        "M.Tech application form",
-        "M.Tech application deadline",
-        "M.Tech admission requirements",
-        "M.Tech selection process",
-        "M.Tech cut-off",
-        "M.Tech counseling",
-        "M.Tech seat allotment",
-        "M.Tech admission confirmation",
-        "M.Tech admission documents",
-        "M.Tech application fee",
-        "M.Tech admission portal",
-        "M.Tech application website"
+        "What is the admission process for MTech?",
+        "How do I apply for Mtech?",
+        "What are the steps for admission in Mtech?",
+        "Admission to M.Tech"
       ],
       "responses": [
-        "Admission Process for M Tech programme is as follows:",
-        "1. Admissions to M. Tech. programme of the Institute shall be carried out through Centralized Counselling for M. Tech./M. Arch./M. Plan. Admissions (CCMT) jointly conducted by various NIT’s.",
-        "2. The Board of Governors of the Institute on the recommendations of the Institute Senate will decide on the number of seats for various Departments/Centers/specializations. The reservations of seats for the reserved category candidates will be as per the Govt. of India norms provided the candidates have valid GATE score and satisfy other Senate requirements.",
-        "3.  For each programme, eligibility is defined based on certain combinations of degree disciplines and GATE paper. The students are advised to visit the CCMT website for the seat matrix and eligibility matrix, which provides number of seats available under different category in each programme. The selected candidates should satisfy all the admission requirements as stipulated on the CCMT website and the Institute M. Tech. Regulations and only then they will be admitted to M. Tech. Programme after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, the Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director-cum-Chairman Senate."
+        "Admission Process for M Tech programme is as follows: \n 1. Admissions to M. Tech. programme of the Institute shall be carried out through Centralized Counselling for M. Tech./M. Arch./M. Plan. Admissions (CCMT) jointly conducted by various NIT’s. For each programme, eligibility is define base GATE paper."
       ]
     },
     {
       "tag": "M Sc admissions",
       "patterns": [
-        "Msc admission process",
-        "How can I apply for M Sc?",
-        "What is the admission process for MSc?",
-        "How do I apply for M.Sc.?",
-        "What are the steps for admission in M.Sc.?",
-        "M.Sc. admissions",
-        "msc admission process",
+        "M Sc admissions",
+        "M Sc",
         "msc admission",
-        "How to apply for M.Sc.?",
-        "What is the admission process for M.Sc.?",
-        "How do I apply for M.Sc.?",
-        "What are the steps for admission in M.Sc.?",
+        "apply for msc?",
         "MSC application process",
-        "M.Sc. admission procedure",
-        "M.Sc. application steps",
-        "Applying for M.Sc.",
-        "Admission to M.Sc.",
-        "M.Sc. entrance exam",
-        "M.Sc. eligibility criteria",
-        "M.Sc. application form",
-        "M.Sc. application deadline",
-        "M.Sc. admission requirements",
-        "M.Sc. selection process",
-        "M.Sc. cut-off",
-        "M.Sc. counseling",
-        "M.Sc. seat allotment",
-        "M.Sc. admission confirmation",
-        "M.Sc. admission documents",
-        "M.Sc. application fee",
-        "M.Sc. admission portal",
-        "M.Sc. application website",
-        "M.Sc. admission office",
-        "M.Sc. admission contact"
+        "M Sc admission procedure",
+        "M.Tech application steps",
+        "What is the admission process for M SC?",
+        "How do I apply for MSC?",
+        "What are the steps for admission in Msc?",
+        "Admission to msc"
       ],
       "responses": [
-        "1. Admission to the Institute M. Sc. programmes shall be conducted at centralized level through Centralized Counselling for M. Sc./M. Sc. (Tech) CCMN based on the performance of the candidates in the Joint Admission Test for M. Sc. (JAM) each year",
-        "2. The Board of Governors of the Institute on the recommendations of the Institute Senate will decide on the number of seats for various Departments/Centers/ specializations. The reservations of seats for the reserved categories candidates will be as per the Govt. of India norms.",
-        "3. Dean (Academic) will recommend to the Chairman Senate regarding the operational aspects of the Programme including selection of candidates, the academic calendar and other regular activities regarding the conduct of the programme. If there are any vacancies after the admission date is over, the filling of such vacancies will be decided by the Chairman of the Senate.",
-        "4. Regarding all matters concerning selection of candidates, the decision of the Chairman Senate or his nominee will be final.",
-        "5. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M. Sc. Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director."
+        "Admission to the Institute M. Sc. programmes is conducted at centralized level through Centralized Counselling for M. Sc./M. Sc. (Tech) CCMN based on the performance of the candidates in the Joint Admission Test for M. Sc. (JAM) each year"
       ]
     },
     {
       "tag": "MBA admissions",
       "patterns": [
-        "MBA admission process",
-        "How can I apply for MBA?",
-        "What is the admission process for MBA?",
-        "How do I apply for MBA?",
-        "What are the steps for admission in MBA?",
         "MBA admissions",
         "mba admission",
-        "How to apply for MBA?",
+        "MBA",
+        "apply for mba?",
+        "mba application process",
+        "MBA admission procedure",
+        "MBA application steps",
         "What is the admission process for MBA?",
         "How do I apply for MBA?",
         "What are the steps for admission in MBA?",
-        "MBA application process",
-        "MBA admission procedure",
-        "MBA application steps",
-        "Applying for MBA",
-        "Admission to MBA",
-        "MBA entrance exam",
-        "MBA eligibility criteria",
-        "MBA application form",
-        "MBA application deadline",
-        "MBA admission requirements",
-        "MBA selection process",
-        "MBA cut-off",
-        "MBA counseling",
-        "MBA seat allotment",
-        "MBA admission confirmation",
-        "MBA admission documents",
-        "MBA application fee",
-        "MBA admission portal",
-        "MBA admission website",
-        "MBA admission office",
-        "MBA admission contact"
+        "Admission to Mba"
       ],
       "responses": [
-        {  "type":"text",
-          "text":" Admission Process for MBA programme is as follows: Admissions shall be made on All India Basis. Reservation rules of Govt. of India will be followed.1. Admissions will be made on the basis of CAT/GMAT/CMAT/MAT/Institute test (70% weightage), Group Discussion (15% weightage), and Interview (15% weightage). The weightage for the percentile for CAT/GMAT/CMAT/MAT is given below. Percentile Scores below 40 will not be considered for admission.2. Equivalent Marks for CAT/GMAT/CMAT/MAT exam percentile Percentile 40-49 50-59 60-69 70-79 80-89 90 & above CAT/GMAT 40 45 50 60 65 70 MAT/CMAT 35 40 45 55 60 70.4. The Shortlisted candidates with valid CAT/GMAT/CMAT/MAT score will directly appear in for group discussion and personal interview. At first, the seats will be filled from CAT/GMAT/CMAT/MAT Marks+GD+PI Score. Remaining vacant seats will be filled from Institute’s Test Marks+GD+PI Score. All admissions will be provisional till these are confirmed subject to medical fitness, payment of all the fees, fulfilment of eligibility conditions, and verifications of certificates by the Academic Section of the Institute. The candidates whose result will be awaited as on date of counselling must have to submit the result (original/revaluation) immediately after its, failing which the admission may be cancelled.5. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M. Sc. Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director.6. Regarding all matters concerning selection of candidates, the decision of the Chairman Senate or his nominee will be final. The selected candidates should satisfy all other admission requirements stipulated in the letter of offer of admission and only then they will be admitted to M.B.A Programmes after payment of the prescribed fee and other charges. If at any subsequent time, it is found that the candidates do not fulfill any of the stipulated requirements, Dean (Academic) may revoke his/her admission to the programme, with the approval of the Director."
-           
+        {
+          "type": "text",
+          "text": " Admission Process for MBA programme is as follows: \n 1. Admissions will be made on the basis of CAT/GMAT/CMAT/MAT/Institute test (70% weightage), Group Discussion (15% weightage), and Interview (15% weightage). At first, the seats will be filled from CAT/GMAT/CMAT/MAT Marks+GD+PI Score. Remaining vacant seats will be filled from Institute’s Test Marks+GD+PI Score.",
+          "url": "https://www.nitj.ac.in/admissions/index.html"
         }
       ]
     },
@@ -166,28 +87,19 @@
       "patterns": [
         "Btech courses",
         "Btech programmes",
-        "What courses do you offer in B.Tech?",
-        "What programs are available in Btech?",
-        "What are the available undergraduate courses?",
+        "What courses are available in B.Tech?",
         "Undergraduate courses",
-        "B.Tech courses",
-        "B.Tech programs",
-        "Departments in Btech",
-        "Bachelor of Technology courses",
-        "What undergraduate courses are offered?",
-        "What B.Tech courses are available?",
-        "What programs are offered in B.Tech?",
-        "What are the available undergraduate courses?",
-        "List of undergraduate programs",
-        "List of B.Tech programs",
-        "B.Tech specializations",
-        "Undergraduate specializations",
-        "Engineering programs"
+        "M.Tech programs",
+        "Mtech courses",
+        "Mtech programmes",
+        "What courses are available in M.Tech?",
+        "Postgraduate courses",
+        "M.Tech programs",
+        "Phd programs"
       ],
       "responses": [
         {
           "type": "text",
-          "text": "Four years Bachelor of Technology (B.Tech) Programmes \n: Bio Technology\n Chemical Engineering\n Civil Engineering\n Computer Science and Engineering\n Data Science and Engineering\n Electrical Engineering\n Electronics and Communication Engineering\n Electronics and VLSI Engineering\n Industrial and Production Engineering\n Information Technology\n Instrumentation and Control Engineering\n Mechanical Engineering\n Textile Technology",
           "url": "https://www.nitj.ac.in/template/index.html?id=64a532c5e7b4137ef2d3e7d0?category=newpage"
         }
       ]
@@ -195,18 +107,232 @@
     {
       "tag": "Admission_Process",
       "patterns": [
-        "admission process start",
+        "admission process start date",
         "admission process",
         "admission procedure",
-        "admisison process starting",
+        "admission process starting",
         "admission procedure",
-        "when will admission process"
+        "when will admission process starts"
       ],
       "responses": [
         {
           "type": "text",
-          "text": "",
           "url": "https://nitj.ac.in/admissions/index.html"
+        }
+      ]
+    },
+    {
+      "tag": "Institute_reporting_Process",
+      "patterns": [
+        "institute reporting documents needed",
+        "documents required for reporting",
+        "documents required for admission",
+        "institute reporting for admission",
+        "campus reporting documents",
+        "documents required"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Following documents are required for institute reporting for admission",
+          "url": "https://v1.nitj.ac.in/nitj_files/links/list_of_documents_required_-_M_36693.pdf"
+        }
+      ]
+    },
+    {
+      "tag": "ADMISSION : international_students",
+      "patterns": [
+        "international students admission",
+        "What is the process for international admissions?",
+        "Are there scholarships for international students?",
+        "International admissions",
+        "International students",
+        "Admissions for international students",
+        "DASA admissions",
+        "dasa"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "International students can apply for scholarships. Please check our website for specific details and eligibility criteria. For queries write to isac@nitj.ac.in",
+          "url": "https://nitj.ac.in/diia_U/template.html?id=6776bab1e7fb3208bfbfdc2a&category=newsPage"
+        }
+      ]
+    },
+    {
+      "tag": "NIRF_ranking",
+      "patterns": [
+        "NIRF ranking",
+        "NIRF ranking of NITJ",
+        "NIRF ranking",
+        "ranking of NIT Jalandhar",
+        "NITJ rankings",
+        "NITJ rankings and awards",
+        "NIT Jalandhar rankings"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "NIT Jalandhar is ranked 58th by NIRF 2024 under the Engineering category. For latest ranking please visit",
+          "url": "https://www.nitj.ac.in/admin/ranking.html"
+        }
+      ]
+    },
+    {
+      "tag": "certificates_application",
+      "patterns": [
+        "Application for transcripts and other certificates",
+        "transcripts",
+        "bonafide certificate",
+        "certificate",
+        "degree issue",
+        "duplicate degree",
+        "Migration Certificate",
+        "provisional degree certificate",
+        "issue of certificate",
+        "issue of character certificate",
+        "bonafide certificate issue"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "For Online Application for Transcripts and Other Certificate  :",
+          "url": "https://www.nitj.ac.in/admin/OATC.html"
+        }
+      ]
+    },
+    {
+      "tag": "Time_Table",
+      "patterns": [
+        "time table",
+        "time table for courses",
+        "time table for classes",
+        "ranking of NIT Jalandhar",
+        "students time table",
+        "Time table"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "url": "https://xceed.nitj.ac.in/timetable"
+        }
+      ]
+    },
+    {
+      "tag": "josaa_csab_overview",
+      "patterns": [
+        "JOSAA counselling.",
+        "CSAB counselling.",
+        "jee main rank",
+        "Admission process for Btech after JEE Main",
+        "Admission through JOSSA",
+        "How to apply for B.Tech through JOSAA",
+        "JOSAA counselling process",
+        "What is CSAB?",
+        "CSAB special round",
+        "Difference between JOSAA and CSAB",
+        "Eligibility for JOSAA",
+        "Eligibility for CSAB",
+        "cutoff for CSAB",
+        "CSAB 2025 schedule",
+        "CSAB dates",
+        "CSAB schedule",
+        "CSAB 2025 schedule",
+        "CSAB counselling dates",
+        "CSAB counselling schedule",
+        "When does CSAB counselling start?",
+        "When does CSAB registration start?",
+        "When is the CSAB seat allotment?",
+        "CSAB seat allotment dates",
+        "CSAB special round dates",
+        "Important dates for special rounds",
+        "CSAB round 1 dates",
+        "CSAB round 2 dates",
+        "CSAB round 3 dates",
+        "CSAB super round dates",
+        "CSAB spot round dates",
+        "CSAB admission dates",
+        "CSAB important dates",
+        "CSAB key dates",
+        "CSAB timeline",
+        "CSAB calendar",
+        "CSAB counselling process",
+        "CSAB registration process",
+        "CSAB seat allotment process",
+        "CSAB special round process",
+        "CSAB admission process",
+        "CSAB eligibility criteria",
+        "CSAB participating institutes",
+        "CSAB cut-off",
+        "CSAB previous year cut-off",
+        "CSAB counselling procedure",
+        "When does CSAB counselling start?",
+        "Documents needed for CSAB",
+        "CSAB",
+        "CSAB qualification criteria",
+        "Eligibility for special rounds",
+        "CSAB eligibility",
+        "CSAB eligibility criteria",
+        "CSAB qualification",
+        "CSAB qualification criteria",
+        "Who can apply for CSAB?",
+        "eligible for CSAB?",
+        "Eligibility for CSAB counselling",
+        "Eligibility for CSAB special rounds",
+        "CSAB special round eligibility",
+        "CSAB eligibility requirements",
+        "CSAB eligibility conditions",
+        "CSAB eligibility criteria 2025",
+        "CSAB qualification requirements",
+        "CSAB qualifying criteria",
+        "CSAB admission criteria",
+        "CSAB admission requirements",
+        "CSAB eligibility for",
+        "Eligibility for CSAB",
+        "CSAB round 1 eligibility",
+        "CSAB round 2 eligibility",
+        "CSAB round 3 eligibility",
+        "CSAB super round eligibility",
+        "CSAB spot round eligibility",
+        "JEE main ranking"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "JOSAA conducts several rounds of counselling for seat allocation. For detailed information on the process, eligibility, important dates, and more.",
+          "url": "https://josaa.nic.in/"
+        },
+        {
+          "type": "text",
+          "text": "\n CSAB conducts special rounds of counselling for vacant seats after the JOSAA rounds are completed. For details about eligibility, participating institutes, and the counselling process.",
+          "url": "https://csab.nic.in/"
+        }
+      ]
+    },
+    {
+      "tag": "Opening rank_Closing rank",
+      "patterns": [
+        "opening rank for college",
+        "closing rank for college",
+        "opening and closing rank for branch",
+        "OR and CR cutoff for branch CS",
+        "OR and CR cutoff for branch IT",
+        "OR and CR cutoff for branch EC",
+        "opening rank",
+        "closing rank",
+        "opening cutoff rank",
+        "closing cutoff rank",
+        "rank for admission",
+        "jossa round rank",
+        "jossa round cutoff",
+        "cutoff for jossa round",
+        "JOSSA round",
+        "JOSSA round process"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "url": "https://josaa.nic.in/or-cr/"
         }
       ]
     },
@@ -242,13 +368,13 @@
         "Fee related queries"
       ],
       "responses": [
-        "Tuition fees for different programs are listed on our website student corner. \n Students have to pay their semester fee only through online mode (using Netbanking, Debit/Credit Card) by login to NITJ ERP System."
+        "NIT Jalandhar BTech fees is INR 5 lakh. This is the tuition fee for all the BTech specialisations. Apart from the tuition fees, candidates also have to pay Hostel Charges and One-time Payable Security Fees. Candidates are advised to visit the official website for more details about fees. \n Students have to pay their semester fee only through online mode (using Netbanking, Debit/Credit Card) by login to NITJ ERP System."
       ]
     },
     {
       "tag": "scholarships",
       "patterns": [
-        "Are there any scholarships available?",
+        "any scholarships available?",
         "How can I get a scholarship?",
         "What are the scholarship options?",
         "Is financial aid available?",
@@ -270,62 +396,18 @@
         "Scholarships for [specific program/department]",
         "Scholarships for international students",
         "Scholarship application",
-        "How to apply for scholarships",
+        "apply for scholarships",
         "Scholarship requirements",
         "Scholarship eligibility",
         "Scholarship criteria",
-        "Required documents for scholarships",
-        "Scholarship deadlines",
-        "When to apply for scholarships",
-        "Scholarship application process",
-        "Scholarship application form",
-        "Scholarship portal",
-        "Scholarship website",
-        "Scholarship office",
-        "Scholarship contact",
         "Scholarship details",
         "Types of scholarships"
       ],
       "responses": [
-        "Scholarships are available for students with outstanding academic performance or those in financial need. For more queries contact Office e-mail ID : scholarshipsection@nitj.ac.in "
-      ]
-    },
-    {
-      "tag": "campus_facilities",
-      "patterns": [
-        "What facilities are available on campus?",
-        "Tell me about the campus facilities.",
-        "What amenities does the college provide?",
-        "What resources are available for students?",
-        "facilities",
-        "Campus facilities",
-        "Campus amenities",
-        "Student facilities",
-        "Student amenities",
-        "Facilities on campus",
-        "Amenities on campus",
-        "What facilities are available on campus?",
-        "What amenities are available on campus?",
-        "Tell me about the campus facilities.",
-        "Tell me about the campus amenities.",
-        "What does the college provide?",
-        "What amenities does the college provide?",
-        "What resources are available for students?",
-        "What services are available for students?",
-        "facilities",
-        "amenities",
-        "resources",
-        "What activities are there on campus?",
-        "NIT Jalandhar facilities",
-        "NITJ facilities",
-        "NIT Jalandhar amenities",
-        "NITJ amenities"
-      ],
-      "responses": [
         {
           "type": "text",
-          "text": "Our campus offers Cultural clubs, technical clubs, banks ATMs, daily commute, canteens ,shops ,accomodation, health care services, sports and gymnasium",
-          "url": "https://www.nitj.ac.in/template/index.html?id=64a532c5e7b4137ef2d3e7d0?category=newpage"
+          "text": "Scholarships are available for students with outstanding academic performance or those in financial need. For more queries contact Office e-mail ID : scholarshipsection@nitj.ac.in ",
+          "url": "https://www.nitj.ac.in/template/index.html?id=0?category=scholarship"
         }
       ]
     },
@@ -357,15 +439,17 @@
         "Hostel rooms"
       ],
       "responses": [
-        "Hostel accommodation is available for students. You can apply for it during the admission process. There are Ten Boys Hostels and Three Girls Hostels. ",
-        "The facilities of reading room, indoor games, washing machines etc. are available in each hostel. Internet facility is provided in most of the hostels. Other facilities like geysers, water purifiers and water coolers are provided in all the hostels. Each hostel has a guest room with all basic amenities that can be booked by students for their parents/guests through hostel clerk on the recommendation of warden of the hostel."
+        {
+          "type": "text",
+          "text": "Hostel accommodation is available for students. \n First year - shared room of 4 students \n Second and third year - shared room of 2 students \n Final year - Single room based on availability on first come first serve basis.  \n The facilities of internet, reading room, indoor games, washing machines, fans, washing machines, geyser, water cooler etc. are available in every hostel. Each hostel has a guest room with all basic amenities that can be booked by students for their parents/guests through hostel clerk on the recommendation of warden of the hostel.",
+          "url": "https://www.nitj.ac.in/lifeAtNitj/hostel.html"
+        }
       ]
     },
     {
       "tag": "mess_food_quality",
       "patterns": [
         "Mess food",
-        "Food quality in mess",
         "How is the mess food?",
         "Is the mess food good?",
         "Mess food review",
@@ -373,17 +457,12 @@
         "Complaints about mess food",
         "Problems with mess food",
         "Mess food issues",
-        "Where can I complain about the mess food?",
-        "Mess feedback",
-        "Food feedback",
-        "Mess committee",
         "Who is in charge of the mess?",
         "How can I contact the mess committee?",
         "Mess menu",
         "What is the mess menu for today?",
         "What is the mess menu for the week?",
         "Where can I find the mess menu?",
-        "Is the mess menu posted online?",
         "What are the mess timings?",
         "When is the mess open?",
         "When is the mess closed?",
@@ -395,43 +474,16 @@
         "Mess fees",
         "Mess dues",
         "Mess refund",
-        "Can I get a refund for the mess?",
-        "How do I get a refund for the mess?",
-        "Mess holidays",
-        "Is the mess open on holidays?",
-        "Mess closed on holidays",
-        "Mess food during holidays",
+        "Mess closed",
+        "Mess food",
         "Holiday mess menu",
         "Mess timings",
-        "What are the mess timings?",
-        "When is the mess open?",
-        "When is the mess closed?",
-        "Mess opening hours",
-        "Mess closing hours",
-        "Breakfast timings",
-        "Lunch timings",
-        "Dinner timings",
-        "Mess hours",
-        "Food service hours",
-        "When is breakfast served in the mess?",
-        "When is lunch served in the mess?",
-        "When is dinner served in the mess?",
-        "Late night mess",
-        "early morning mess facility?",
-        "Mess timings on holidays",
-        "Are the mess timings different on holidays?",
-        "Holiday mess timings",
-        "Mess timings during exams"
+        "What are the mess timings?"
       ],
       "responses": [
-        "We take mess food quality seriously. If you have any concerns or complaints regarding the food, menu, timings, or any other mess-related issue, please contact the mess committee or the mess warden. ",
-        "You can also provide feedback through the designated feedback system or directly to the mess staff. Your feedback is valuable and helps us improve the mess services.",
-        "The mess timings are generally posted in the mess hall and sometimes on the student portal. \n Typically, breakfast, lunch, and dinner are served during specific hours.  If you have any questions regarding the mess timings, particularly during holidays, exams, or special events, please contact the mess staff or check the notice boards in your hostel. ",
-        "The mess timings are generally posted in the mess hall and sometimes on the student portal. \n Typically, breakfast, lunch, and dinner are served during specific hours.  If you have any questions regarding the mess timings, particularly during holidays, exams, or special events, please contact the mess staff or check the notice boards in your hostel. "
+        "Mess food is available to hostel students on payment of mess advance fees of Rs 25000 per semester. Menu updated each month by hostel students comittee. Breakfast, lunch, and dinner are served from 8:00am - 9:30am , 12:30pm - 2:00pm and 8:00pm - 9:30pm respectively."
       ]
     },
-    
-    
     {
       "tag": "PLACEMENT: placement_support",
       "patterns": [
@@ -488,28 +540,8 @@
       "responses": [
         {
           "type": "text",
-          "text": "T&P Centre, NIT Jalandhar conducts all recruitment related activities of the institute. With a dedicated team of Professors, Student Coordinators and staff members, T&P centre handles the placement/internship procedures. This includes initiating communication with the companies, scheduling and executing the placement processes along with coordination of recruiters and the students. Over the years, Training & Placement Centre has proved its efficiency in meeting the expectations of both the recruiters and the students.",
-          "url": "https://ctp.nitj.ac.in/index_placements"
-        }
-      ]
-    },
-    {
-      "tag": "ADMISSION : international_students",
-      "patterns": [
-        "international students admission",
-        "What is the process for international admissions?",
-        "Are there scholarships for international students?",
-        "What are the visa requirements for studying here?",
-        "International admissions",
-        "International students",
-        "Admissions for international students",
-        "DASA admissions",
-        "dasa"
-      ],
-      "responses": [{
-        "type":"text",
-        "text":"International students can apply for scholarships. Please check our website for specific details and eligibility criteria.  For General Queries: diia@nitj.ac.in.Below is the link provided for the ISC(International Students Cell) please visit the link for further information",
-        "url": "https://nitj.ac.in/diia_U/template.html?id=6776bab1e7fb3208bfbfdc2a&category=newsPage"
+          "text": "The Training and Placement Office (TPO) at our institute is dedicated to providing students with the skills, resources, and opportunities to successfully enter the professional world. \n Placement Highlights  : \n- 95% placement rate \n- 12 LPA average package \n- Internship conversion 85% \n- Highest package of Rs 60LPA secured by multiple students.\n- Significant placements in IT, Core Engineering and consulting sectors. \n- Google, Microsoft, Amazon, Nvidia, Infosys, TCS, Wipro, Deloitte, Accenture among the top companies.",
+          "url": "https://ctp.nitj.ac.in/"
         }
       ]
     },
@@ -523,7 +555,7 @@
         "Extracurricular activities",
         "Clubs and societies",
         "Sports facilities",
-        "Campus events",
+        "societies",
         "Student clubs",
         "Sports teams",
         "Cultural events",
@@ -539,27 +571,17 @@
         "Debating society",
         "Photography club",
         "Gaming club",
-        "Fitness center",
         "Swimming pool",
         "Sports grounds",
         "Annual events",
-        "Fests and competitions",
-        "Seminars and workshops",
-        "Student organizations",
         "How to join clubs",
         "List of clubs",
         "Club activities",
-        "Sports offered",
         "Upcoming events",
         "Past events",
         "Student life",
         "Campus recreation",
         "Activities on campus",
-        "Extra-curricular programs",
-        "Student involvement",
-        "Get involved on campus",
-        "What clubs are available?",
-        "Are there any sports clubs?",
         "What cultural activities are there?",
         "How can I find out about eventsS?",
         "How many clubs are there in the college?",
@@ -569,26 +591,10 @@
         "What clubs can I join?",
         "Clubs available in college",
         "Number of clubs in NITJ",
-        "Technical clubs in college",
-        "Cultural clubs in college",
-        "What are the technical clubs?",
-        "What are the cultural clubs?",
         "Club activities in NITJ",
-        "Student clubs in college",
-        "How many technical clubs are there?",
-        "How many cultural clubs are there?",
-        "Names of technical clubs",
-        "Names of cultural clubs",
-        "Club membership details",
-        "How to join college clubs",
-        "Club registration process",
-        "Are there any technical clubs?",
-        "Are there any cultural clubs?",
         "What is APOGEE club?",
         "What is GDSC club?",
         "What does SOME club do?",
-        "Tell me about StrataBiz",
-        "What is Vortex club?",
         "Photography club details",
         "Movie club in college",
         "Social work clubs",
@@ -606,29 +612,17 @@
         "Green club activities",
         "Media cell in college",
         "Music club details",
-        "NCC in NITJ",
-        "Regional Language club",
-        "Sanskriti club activities",
-        "SARC club details",
-        "Club events in college",
-        "How to participate in club activities",
-        "Club contact details",
-        "Club office location",
-        "Club membership fees",
-        "Club joining deadline",
-        "Club selection process",
-        "Benefits of joining clubs"
+        "NCC",
+        "How to participate in club activities"
       ],
       "responses": [
-        "NITJ offers a variety of clubs for students to join",
-          "There are several technical and cultural clubs. The technical clubs include APOGEE, GDSC - Google Developer Student Club, SOME, StrataBiz, Vortex, Website Development & Management, SARC",
-          "Cultural Clubs: Photography and Movie, Social Works & Rural Activity, Yodha, Yoga & Meditation, Aarogya, Chetna, Dance, Ek Bharat Shrestha Bharat, Fashion & Modelling, Finance Society NITJ, Fine Art Society, Food & Flavour, Green, Media Cell, Music, NCC, Regional Language, Sanskriti.",
-          "You can join these clubs by registering during the club recruitment drives, usually held at the start of the academic year. Contact the respective club coordinators for more details on membership and activities.",
-          "The college has a diverse range of clubs, including technical clubs like APOGEE, GDSC, SOME, StrataBiz, Vortex, Website Development & Management, and SARC, and cultural clubs such as Photography and Movie, Social Works & Rural Activity, Yodha, Yoga & Meditation, Aarogya, Chetna, Dance, Ek Bharat Shrestha Bharat, Fashion & Modelling, Finance Society NITJ, Fine Art Society, Food & Flavour, Green, Media Cell, Music, NCC, Regional Language, and Sanskriti. For more information, reach out to the club offices or check the college website."
+        {
+          "type": "text",
+          "text": "For detailed information please visit",
+          "url": "https://www.nitj.ac.in/admissions/student_life.html"
+        }
       ]
     },
-
-  
     {
       "tag": "ALUMNI : alumni_network",
       "patterns": [
@@ -662,11 +656,12 @@
         "Seniors",
         "Passouts"
       ],
-      "responses": [{
-        "type":"text",
-        "text":"Our alumni network is strong and active, providing valuable connections and mentoring opportunities for current students.You can connect with our alumni through various networking events and the alumni portal on our website.Below is the link provided for the NITJAA(NITJ ALUMNI ASSOCIATION) feel free to visit the given link",
-        "url" :"https://www.nitj.ac.in/alumni/alumni.html"
-      }
+      "responses": [
+        {
+          "type": "text",
+          "text": "Our alumni network is strong and active, providing valuable connections and mentoring opportunities for current students. Below is the link provided for the NITJAA(NITJ ALUMNI ASSOCIATION)",
+          "url": "https://www.nitj.ac.in/alumni/alumni.html"
+        }
       ]
     },
     {
@@ -699,117 +694,51 @@
       ]
     },
     {
-      "tag": "contact_details",
+      "tag": "Phonebook",
       "patterns": [
-        "How can I contact the admissions office?",
-        "What is the contact number for admissions?",
-        "Who can I talk to about admissions?",
-        "Where can I get more information?",
-        "contact",
-        "Contact details",
-        "Contact information",
-        "How to contact",
-        "Contact us",
-        "General contact",
-        "Main contact number",
-        "College contact details",
-        "University contact details",
-        "Contact NIT Jalandhar",
-        "How to contact NIT Jalandhar",
-        "NIT Jalandhar contact information",
-        "NIT Jalandhar contact details",
-        "Contact NITJ",
-        "How do I contact NIT?",
-        "What is the best way to contact NIT?",
-        "Who should I contact at NIT?",
-        "Where is NIT Jalandhar located?",
-        "What is the address of NIT Jalandhar?",
-        "How do I get to NIT Jalandhar?",
-        "NIT Jalandhar location",
-        "NIT Jalandhar address",
-        "NIT Jalandhar map",
-        "Directions to NIT Jalandhar",
-        "How can I find NIT Jalandhar?",
-        "Is there a contact form on the website?"
+        "contact details of important functionaries",
+        "contact details of important functionaries of institute",
+        "email of faculty",
+        "NITJ faculty phonebook",
+        "emails list",
+        "email of director",
+        "Contact details of faculty at NIT Jalandhar",
+        "contact details of faculty",
+        "contact details",
+        "list of contact details",
+        "email of dean",
+        "email of registrar",
+        "email of warden",
+        "contact of director",
+        "contact of dean",
+        "contact of registrar",
+        "contact of warden",
+        "email details",
+        "email",
+        "contact of warden",
+        "contact of director",
+        "contact of registrar",
+        "contact of deans",
+        "contact of DSW"
+
       ],
       "responses": [
         {
           "type": "text",
-          "text": "Dr B R Ambedkar National Institute of Technology Jalandhar,\n G.T Road, Amritsar Bypass, Jalandhar, Punjab, India-144008\n    +91-0181-5037855, 2690301, 2690453, 3082000",
-          "url": "https://www.nitj.ac.in"
+          "text": "Contact Details of Important Functionaries of the Institute:\n- Prof. Binod Kumar Kanaujia \n(Director): director@nitj.ac.in\n- Prof. Ajay Bansal \n(Registrar): registrar@nitj.ac.in \n- Prof. Raman Bedi \n(Dean Academic): da@nitj.ac.in, bedir@nitj.ac.in\n- Prof. Anish Kumar Sachdeva \n(Dean Student Welfare): dsw@nitj.ac.in\n- Prof. S. K. Sinha \n(Dean Faculty Welfare): dfw@nitj.ac.in\n- Prof Rohit Mehra \n(Dean Reasearch & Consultancy) : drc@nitj.ac.in \n- Prof Mamta Khosla \n(Dean Industry & Internation Affairs): diia@nitj.ac.in \n- Dr. Tarun Sehgal \n(Medical Officer) : sehgalt@nitj.ac.in \n- Dr Sitakshi \n(Medical Officer) : bhatias@nitj.ac.in \n- Ms. Daljeet Kaur \n(Principal Scientific Officer Computer Center) : daljeetkaur@nitj.ac.in\n- Mr. Bhupinderjit Singh \n(Senior Scientific Officer Computer Center) : bhupinderdhani@nitj.ac.in \n- Dr Dhanwantari Prakash Tripathi \n(Deputy Librarian Central Library) : tripathidp@nit.jac.in \n- Dr. Vijay Kumar Mishra \n(SAS Officer Physical Education and Sports) mishravk@nitj.ac.in \n- Dr Shailendra Bajpai \n(Chief Warden) : chiefwarden@nitj.ac.in \n- Dr Rajesh Kumar \n(Deputy Chief Warden) : dcw@nitj.ac.in\n For the full list, visit the official phonebook.",
+          "url": "https://www.nitj.ac.in/admin/phonebook.html"
         }
       ]
     },
-    {
-      "tag": "lost_and_found",
-      "patterns": [
-          "Where is the lost and found department?",
-          "How do I report a lost item?",
-          "What is the lost and found process?",
-          "Lost and found in college",
-          "How to find a lost item?",
-          "Lost something on campus",
-          "Found an item on campus",
-          "How to report found items?",
-          "Lost and found contact",
-          "Lost and found office location",
-          "Lost and found department details",
-          "Can I report a lost item?",
-          "How to check for lost items?",
-          "Lost my ID card",
-          "Lost my phone on campus",
-          "Lost my wallet in college",
-          "Lost my laptop",
-          "Lost my books",
-          "Lost my keys",
-          "How to claim a lost item?",
-          "Lost and found procedure",
-          "Who handles lost and found?",
-          "Lost and found staff contact",
-          "Lost and found timings",
-          "When is the lost and found office open?",
-          "How long are lost items kept?",
-          "Lost and found policy",
-          "What happens to unclaimed items?",
-          "Lost and found registration",
-          "How to report a missing item?",
-          "Found someone’s belongings",
-          "How to return found items?",
-          "Lost and found email",
-          "Lost and found phone number",
-          "Is there a lost and found app?",
-          "Lost item reporting process",
-          "How to check if my item was found?",
-          "Lost and found claim process",
-          "Lost and found rules",
-          "What items can be reported to lost and found?",
-          "Lost and found for students",
-          "Lost and found for visitors",
-          "Lost and found deadline",
-          "How to contact lost and found office?",
-          "Lost and found inquiry",
-          "Lost personal belongings",
-          "Found a lost item, what to do?"
-      ],
-      "responses": [
-        {
-          "type":"text",
-          "text": "The Lost and Found department at NITJ is located in the Administrative Block, Ground Floor, near the Student Welfare Office. To report a lost item, visit the office or contact them via email at lostandfound@nitj.ac.in or call the office at [insert phone number]. Found items can be submitted at the same office. The department maintains a record of lost and found items, and you can check for your lost belongings during office hours (9 AM to 5 PM, Monday to Friday). Items are typically held for 30 days before being disposed of or donated. If you’ve lost or found an item on campus, visit the Lost and Found department in the Administrative Block or contact them at lostandfound@nitj.ac.in. To report a lost item, provide details like the item description, date, and location of loss. For found items, hand them over to the office. You can claim your lost item by verifying ownership. The office operates from 9 AM to 5 PM, Monday to Friday, and unclaimed items are retained for 30 days."
-        }
-      ]
-
-  },
-   
-
     {
       "tag": "fallback",
       "patterns": [],
       "responses": [
         {
-        "type": "text",
-        "text": "I can help with admissions, courses, and JOSAA/CSAB queries. Could you ask in a different way?"
-      }
-    ]
+          "type": "text",
+          "text": "I can help with admissions, courses, and JOSAA/CSAB queries. Could you ask in a different way?"
+        }
+      ]
     },
     {
       "tag": "thanks",
@@ -834,8 +763,6 @@
         "Thank you for the details",
         "Thanks for clarifying",
         "Thank you for explaining",
-        "Thank you for your time",
-        "I appreciate you taking the time",
         "I'm so thankful",
         "I'm very thankful",
         "I'm extremely thankful",
@@ -843,12 +770,6 @@
         "Thank you again",
         "Thanks for everything",
         "Thank you for everything",
-        "You've been a great help",
-        "I appreciate your help",
-        "I'm very grateful for your help",
-        "Thanks for your kind assistance",
-        "Thank you for your kind assistance",
-        "I'm very thankful for your kind assistance",
         "You're very kind",
         "You're so kind",
         "You're too kind",
@@ -865,115 +786,6 @@
         }
       ]
     },
-    {
-      "tag": "josaa_csab_overview",
-      "patterns": [
-        "JOSAA counselling.",
-        "CSAB counselling.",
-        "jee main rank",
-        "rank of jee main",
-        "Admission process for Btech after JEE Main",
-        "Admission through JOSSA",
-        "How to apply for B.Tech through JOSAA",
-        "JOSAA counselling process",
-        "What is CSAB?",
-        "CSAB special round",
-        "Difference between JOSAA and CSAB",
-        "Eligibility for JOSAA",
-        "Eligibility for CSAB",
-        "JEE Main cutoff for JOSAA",
-        "JEE Main cutoff for CSAB",
-        "CSAB 2025 schedule",
-        "CSAB dates",
-        "CSAB schedule",
-        "CSAB 2025 schedule",
-        "CSAB counselling dates",
-        "CSAB counselling schedule",
-        "When does CSAB counselling start?",
-        "When does CSAB registration start?",
-        "When is the CSAB seat allotment?",
-        "CSAB seat allotment dates",
-        "CSAB special round dates",
-        "Important dates for special rounds",
-        "CSAB round 1 dates",
-        "CSAB round 2 dates",
-        "CSAB round 3 dates",
-        "CSAB super round dates",
-        "CSAB spot round dates",
-        "CSAB admission dates",
-        "CSAB important dates",
-        "CSAB key dates",
-        "CSAB timeline",
-        "CSAB calendar",
-        "CSAB counselling process",
-        "CSAB registration process",
-        "CSAB seat allotment process",
-        "CSAB special round process",
-        "CSAB admission process",
-        "CSAB eligibility criteria",
-        "CSAB application form",
-        "CSAB application fee",
-        "CSAB participating institutes",
-        "CSAB cut-off",
-        "CSAB previous year cut-off",
-        "CSAB counselling procedure",
-        "When does CSAB counselling start?",
-        "Documents needed for CSAB",
-        "CSAB",
-        "CSAB qualification criteria",
-        "Eligibility for special rounds",
-        "CSAB eligibility",
-        "CSAB eligibility criteria",
-        "CSAB qualification",
-        "CSAB qualification criteria",
-        "Who can apply for CSAB?",
-        "eligible for CSAB?",
-        "Eligibility for CSAB counselling",
-        "Eligibility for CSAB special rounds",
-        "CSAB special round eligibility",
-        "CSAB eligibility requirements",
-        "CSAB eligibility conditions",
-        "CSAB eligibility criteria 2025",
-        "CSAB qualification requirements",
-        "CSAB qualifying criteria",
-        "CSAB admission criteria",
-        "CSAB admission requirements",
-        "CSAB eligibility for",
-        "Eligibility for CSAB",
-        "CSAB round 1 eligibility",
-        "CSAB round 2 eligibility",
-        "CSAB round 3 eligibility",
-        "CSAB super round eligibility",
-        "CSAB spot round eligibility",
-        "JEE main ranking",
-        "Jee advanced",
-        "cutoff for NIT",
-        "cutoff rank",
-        "cutoff score",
-        "cutoff marks for counselling",
-        "Jee main rank below",
-        "at what rank can I get Cse branch?",
-        "At what rank can I get IT branch?",
-        "At what rank can I get ECE branch?",
-        "Branch Cutoff",
-        "Rank vs branch"
-
-
-      ],
-      "responses": [
-        {
-          "type": "text",
-          "text": "JOSAA conducts several rounds of counselling for seat allocation. For detailed information on the process, eligibility, important dates, and more.",
-          "url": "https://josaa.nic.in/"
-        },
-        {
-          "type": "text",
-          "text": "CSAB conducts special rounds of counselling for vacant seats after the JOSAA rounds are completed. For details about eligibility, participating institutes, and the counselling process.",
-          "url": "https://csab.nic.in/"
-        }
-      ]
-    },
-    
     {
       "tag": "greeting",
       "patterns": [
@@ -1035,7 +847,7 @@
       "responses": [
         {
           "type": "text",
-          "text": "The academic calendar for the current year can be found on the official NIT Jalandhar website.",
+          "text": "Below is the academic calendar",
           "url": "https://nitj.ac.in/template/index.html?id=6433e06be7b7ce1ef620fd53?category=notice"
         }
       ]
@@ -1169,8 +981,6 @@
     {
       "tag": "sports_facilities",
       "patterns": [
-        "How do I join a club or society at NIT Jalandhar?",
-        "What sports facilities are available on campus?",
         "Student life at campus",
         "Sports facilities",
         "Athletic facilities",
@@ -1212,7 +1022,6 @@
         "Are the sports facilities open to all students?",
         "What are the timings of the sports facilities?",
         "Are there any fees for using the sports facilities?",
-        "Do I need to book the sports facilities in advance?",
         "How can I join a sports club or team?",
         "What sports clubs are there?",
         "How do I find out about sports clubs?",
@@ -1272,10 +1081,10 @@
         "Improvement exams",
         "What happens if I have a backlog?",
         "Can I clear a backlog?",
-        "Can I clear a backlog through supplementary exams?",
+        "backlog supplementary exams",
         "Can I clear a backlog through re-exams?",
-        "Can I clear a backlog through repeat exams?",
-        "Can I clear a backlog through improvement exams?",
+        "backlog through repeat exams?",
+        "backlog through improvement exams?",
         "How can I clear my backlogs?",
         "What is the process for clearing backlogs?",
         "register for supplementary exams?",
@@ -1306,61 +1115,40 @@
         "information about improvement exams?"
       ],
       "responses": [
-        "If you have a backlog, you will need to clear it in the subsequent semesters. Supplementary exams are available for backlog clearance. For more details, visit the examination section on the official website."
+        {
+          "type": "text",
+          "text": "If you have a backlog, you will need to clear it in the subsequent semesters. Supplementary exams are available for backlog clearance. For more details, visit the student ERP portal",
+          "url": "https://v1.nitj.ac.in/erp/login"
+        }
       ]
     },
     {
-      "tag": "technical_fest_details",
+      "tag": "fest_details",
       "patterns": [
+        "Utkansh fest",
+        "annual fest",
         "Technical fest",
         "Tech fest",
         "Technical festival",
         "Technology festival",
-        "Science and technology fest",
         "NIT Jalandhar technical fest",
         "NITJ tech fest",
         "Techniti",
-        "Techniti fest",
-        "Techniti festival",
-        "Name of technical fest",
-        "Name of tech fest",
-        "Technical fest name",
-        "Tech fest name",
-        "When is the next technical fest being held at NIT Jalandhar?",
-        "When is the next tech fest being held at NIT Jalandhar?",
-        "When is the next Techniti?",
-        "Techniti dates",
-        "Techniti schedule",
-        "Techniti timings",
-        "Techniti event dates",
-        "Techniti event schedule",
-        "Next Techniti",
-        "Upcoming Techniti",
-        "Is there a technical fest this year?",
-        "Is there a tech fest this year?",
-        "Are there any technical fests at NIT Jalandhar?",
-        "Are there any tech fests at NIT Jalandhar?",
-        "Technical fest events",
-        "Tech fest events",
-        "Techniti events",
-        "What kind of events are there at the technical fest?",
-        "What kind of events are there at the tech fest?",
-        "What events are happening at Techniti?",
-        "List of technical fest events",
-        "List of tech fest events",
-        "List of Techniti events",
-        "Technical fest competitions",
-        "Tech fest competitions",
-        "Techniti competitions",
-        "What competitions are there at the technical fest?",
-        "What competitions are there at the tech fest?",
-        "What competitions are happening at Techniti?",
-        "What is the name of the technical fest?"
+        "Utkansh fest",
+        "utkansh",
+        "Utkansh fest of NIT Jalandhar",
+        "culturaal fest",
+        "annual cultural fest"
       ],
       "responses": [
         {
           "type": "text",
-          "text": "The technical fest at NIT Jalandhar is called Techniti. \n TechNITi is the techno-managerial student fest of Dr. B. R. Ambedkar National Institute of Technology (NIT), Jalandhar in Punjab, India. techNITi, the annual fest, has emerged as one of the region’s most sought after event. \n Visit the official fest website for more details.",
+          "text": "The annual cultural fest UTKANSH, which attracts thousands of students across the country to participate in the days of extravaganza comprising of competitions, seminars, symposium and workshops.",
+          "url": "https://www.utkansh.com"
+        },
+        {
+          "type": "text",
+          "text": "The technical fest at NIT Jalandhar is called Techniti. Visit the official fest website for more details.",
           "url": "https://www.nitj.ac.in/clubs/tech_fest.html"
         }
       ]
@@ -1368,46 +1156,20 @@
     {
       "tag": "medical_facility",
       "patterns": [
-        "How do I book a medical appointment at the campus hospital?",
         "Medical appointment",
         "Hospital",
         "healthcare",
         "Medical facilities",
         "College Dispensary",
-        "Doctor's appointment",
-        "Campus hospital appointment",
-        "medical appointment?",
-        "schedule a doctor's appointment?",
-        "make an appointment at the campus hospital?",
-        "Book a medical appointment",
-        "Schedule a doctor's appointment",
-        "Make an appointment at the campus hospital",
-        "Medical appointment booking",
-        "Doctor's appointment scheduling",
-        "Campus hospital appointment booking",
-        "Appointment with doctor",
-        "Appointment with physician",
-        "Appointment at campus clinic",
+        "campus clinic",
         "How to see a doctor on campus",
         "How can I see a doctor at the campus hospital?",
         "Medical clinic appointment",
         "Campus clinic appointment",
-        "Student health services appointment",
-        "Online medical appointment",
-        "Online doctor's appointment",
-        "Campus hospital appointment availability",
         "campus hospital",
-        "Medical appointment contact",
-        "Contact number for medical appointments",
-        "Phone number for campus hospital appointments",
-        "Medical appointment phone number",
-        "Medical appointment urgent care",
-        "Medical appointment emergency",
-        "What should I do in a medical emergency?",
-        "Emergency contact for medical services",
-        "Medical emergency contact number",
-        "Campus hospital emergency number",
-        "Medical appointment FAQs",
+        "Medicines",
+        "health card",
+        "health insurance",
         "Medical services on campus",
         "Student health services",
         "Campus health services",
@@ -1416,9 +1178,7 @@
         "Is there a pharmacy on campus?",
         "Medical insurance for students",
         "Student health insurance",
-        "Does the campus hospital accept my insurance?",
-        "campus hospital?",
-        "Medical records"
+        "health treatment"
       ],
       "responses": [
         "The dispensary is the heartbeat of the institute which provide Treatment for different diseases and also provide first aid to the injured, and also arranges different awareness camp Like cardiac camp, BMD camp etc. In case of medical emergency, the ambulance van is available 24 hours for taking patient(s) to other hospitals for the required treatment."
@@ -1458,41 +1218,6 @@
       ]
     },
     {
-      "tag": "club_joining_first_year",
-      "patterns": [
-        "club",
-        "Society",
-        "Are first-year students allowed to join any club?",
-        "Joining clubs",
-        "Joining student clubs",
-        "How to join clubs",
-        "How to join student clubs",
-        "Club membership",
-        "Becoming a member of a club",
-        "How can I join a club?",
-        "How can I become a member of a club?",
-        "Joining clubs as a first-year student",
-        "Club joining for first years",
-        "Can first-year students join clubs?",
-        "Are there clubs for first-year students?",
-        "What clubs can first-year students join?",
-        "First-year club involvement",
-        "Getting involved in clubs as a first-year student",
-        "Club inductions",
-        "Club orientation",
-        "club inductions held?",
-        "club orientations held?",
-        "club inductions?",
-        "club orientations?",
-        "List of clubs",
-        "Directory of clubs",
-        "Clubs at NIT Jalandhar"
-      ],
-      "responses": [
-        "To join a club, attend the induction sessions held at the beginning of the semester. Check the official website for a list of clubs and their activities."
-      ]
-    },
-    {
       "tag": "attendance_policy",
       "patterns": [
         "attendance policy",
@@ -1505,27 +1230,15 @@
         "What is the attendance policy?",
         "What are the attendance rules?",
         "How much attendance is required?",
-        "What happens if I miss class?",
-        "What is the penalty for low attendance?",
         "Low attendance",
         "less than 75% attendance in a subject?",
         "Attendance shortage",
         "Less than 75% attendance",
         "Attendance below 75%",
-        "What happens if I have less than 75% attendance in a subject?",
-        "What happens if my attendance is below 75%?",
-        "What are the consequences of low attendance?",
-        "What is the penalty for low attendance?",
-        "Can I still take the exam if my attendance is low?",
-        "Will I be debarred from the exam due to low attendance?",
-        "Attendance regulations",
-        "Minimum attendance requirement",
+        "less than 75% attendance in a subject?",
+        "attendance is below 75%?",
+        "low attendance?",
         "Required attendance",
-        "Attendance criteria",
-        "Absence from class",
-        "Class absence",
-        "Missing classes",
-        "Too many absences",
         "Excessive absences",
         "Attendance threshold",
         "Attendance percentage",
@@ -1535,12 +1248,9 @@
         "Attendance calculation"
       ],
       "responses": [
-        "The attendance policy requires students to maintain a minimum of 75% attendance. Medical leave can be granted with proper documentation. Visit the official website for more details on the policy.",
-        "If you have less than 75% attendance, you may be debarred from appearing for the exam."
+        "The attendance policy requires students to maintain a minimum of 75% attendance. Medical leave can be granted with proper documentation. Visit the official website for more details on the policy. \n If you have less than 75% attendance, you may be debarred from appearing for the exam."
       ]
-      
     },
-
     {
       "tag": "ACADEMICS: past_exam_papers_lecture_notes",
       "patterns": [
@@ -1557,7 +1267,11 @@
         "Are past exam papers available?"
       ],
       "responses": [
-        "Past exam papers are available at the ERP portal."
+        {
+          "type": "text",
+          "text": "Past exam papers are available at the ERP portal.",
+          "url": "https://v1.nitj.ac.in/erp/login"
+        }
       ]
     },
     {
@@ -1565,14 +1279,32 @@
       "patterns": [
         "lose my student ID card?",
         "ID Card lost",
+        "id card lost",
         "Identity card lost",
         "Lost ID card"
       ],
-      "responses": [{
-        "type":"text",
-        "text":"If you lose your student ID card, file a FIR, report it to the administration office and apply for a replacement.Below is the link provided for the document that is to be flled when applying for replacement",
-        "url":"http://lib.nitj.ac.in/images/Application%20for%20Duplicate%20ICard.pdf"
-      }
+      "responses": [
+        {
+          "type": "text",
+          "text": "If you lose your student ID card, file a FIR, report it to the administration office and apply for a replacement.Below is the link provided for the document that is to be flled when applying for replacement",
+          "url": "http://lib.nitj.ac.in/images/Application%20for%20Duplicate%20ICard.pdf"
+        }
+      ]
+    },
+    {
+      "tag": "location_nitj",
+      "patterns": [
+        "location",
+        "address of college",
+        "where is nit jalandhar situated",
+        "location of campus"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Dr BR Ambedkar National Institute of Technology Jalandhar\n G.T Road, Amritsar Bypass, Jalandhar, Punjab, India-144008 \n +91-0181-5037855, 2690301, 2690453, 3082000",
+          "url": "https://www.google.com/maps/place/Dr+B+R+Ambedkar+National+Institute+of+Technology+Jalandhar/data=!4m2!3m1!1s0x0:0x5b7633718d17ef33?sa=X&ved=1t:2428&ictx=111"
+        }
       ]
     },
     {
@@ -1588,11 +1320,12 @@
         "someone is harassing me what to do?",
         "Anti ragging committee"
       ],
-      "responses": [{
-        "type":"text",
-        "text":"Ragging incidents can be reported to the student welfare office or the anti-ragging committee. Counseling services are available through the student counseling center. Visit the official website for more details.A link is provided below for the Anti Ragging cell please feel free to visit in such cases.",
-        "url" :"https://www.nitj.ac.in/admissions/antiRagging.html"
-      }
+      "responses": [
+        {
+          "type": "text",
+          "text": "Ragging incidents can be reported to the student welfare office or the anti-ragging committee. Counseling services are available through the student counseling center. Visit the official website for more details.A link is provided below for the Anti Ragging cell please feel free to visit in such cases.",
+          "url": "https://www.nitj.ac.in/admissions/antiRagging.html"
+        }
       ]
     },
     {
@@ -1605,23 +1338,9 @@
         "When is the gym open?",
         "What are the gym timings?",
         "What are the gym hours?",
-        "gym timings for different year students?",
-        "gym timings different for different years?",
         "Do gym timings vary by year?",
         "Gym access",
         "Who can use the gym?",
-        "gym open to all students?",
-        "Gym membership",
-        "How do I get a gym membership?",
-        "Do I need a gym membership?",
-        "Gym rules",
-        "Gym equipment",
-        "equipments in the gym?",
-        "cardio machines in the gym?",
-        "Gym trainers",
-        "Are there gym trainers available?",
-        "personal trainer at the gym?",
-        "gym classes are there?",
         "Gym facilities"
       ],
       "responses": [
@@ -1629,18 +1348,35 @@
       ]
     },
     {
-      "tag": "director_info",
+      "tag": "director_nitj",
       "patterns": [
         "who is director of institute",
         "director",
         "director information",
-        "director of NITJ"
+        "director of NITJ",
+        "who is Director of NIT Jalandhar",
+        "email of director"
       ],
       "responses": [
         {
           "type": "text",
-          "text": "Director, Dr B R Ambedkar National Institute of Technology Jalandhar",
+          "text": "Prof. Binod Kumar Kanaujia \n Director, Dr B R Ambedkar National Institute of Technology Jalandhar \n Email : director@nitj.ac.in",
           "url": "https://www.nitj.ac.in/admin/director.html"
+        }
+      ]
+    },
+    {
+      "tag": "achievements_nitj",
+      "patterns": [
+        "recent achievements",
+        "achievements of nit jalandhar",
+        "achievements",
+        "Achievements by nit"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "url": "https://www.nitj.ac.in/index.html"
         }
       ]
     },
@@ -1648,42 +1384,14 @@
       "tag": "first_year_orientation",
       "patterns": [
         "What is freshers' orientation?",
-        "When is the first-year orientation program?",
-        "What happens during orientation week?",
-        "Is orientation compulsory for freshers?",
-        "How to register for orientation?",
-        "What should I bring to orientation?",
-        "Who conducts the freshers' orientation?",
-        "Where is the orientation venue?",
+        "first year orientation program",
         "freshers orientation",
         "orientation schedule",
         "first year welcome program",
         "new student orientation"
       ],
       "responses": [
-        "Information reguarding the freshers' orientation will be provided by the respective department. Attendance is mandatory. Check your email for the schedule.",
-        "Orientation includes campus tours, faculty introductions, and club inductions."
-      ]
-    },
-    {
-      "tag": "study_materials",
-      "patterns": [
-        "Where to get first year books?",
-        "Is there a book bank?",
-        "How to access study materials?",
-        "Where to find lecture notes?",
-        "study material for freshers",
-        "first year syllabus books",
-        "reference books",
-        "PDF notes",
-        "previous year notes",
-        "where to buy textbooks",
-        "second hand books",
-        "library books availability"
-      ],
-      "responses": [
-        "Check the library for course books. Senior students often share notes - join your department groups.",
-        "Book bank operates in Central Library. Submit ID proof to borrow books for the semester."
+        "Information reguarding the freshers' orientation will be provided by the respective department. Attendance is mandatory. Check your email for the schedule. Orientation includes campus tours, faculty introductions, and club inductions."
       ]
     },
     {
@@ -1691,46 +1399,24 @@
       "patterns": [
         "college bus facility?",
         "What are the bus routes?",
-        "How to get bus pass?",
+        "How to get bus from campus?",
         "transport facility",
         "college buses",
         "bus timings",
         "bus fees",
-        "last bus time",
         "bus stops",
-        "city bus routes",
-        "public transport",
-        "auto stands near college"
+        "campus transport",
+        "public transport"
       ],
-      "responses": [{
-        "type":"text",
-        "text":"College provide bus facility for day scholar students. Bus passes can be issued from the Store department, 2nd floor Central building. Below is the link provided for the bus facilites and the timings.",
-        "url":"https://nitj.ac.in/files/1723121804917-Bus%20timings.pdf"
-      }
-
+      "responses": [
+        {
+          "type": "text",
+          "text": "College provide bus facility for day scholar students. Bus passes can be issued from the Store department, 2nd floor Central building. Below is the link provided for the bus facilites and the timings.",
+          "url": "https://nitj.ac.in/files/1723121804917-Bus%20timings.pdf"
+        }
       ]
     },
     {
-      "tag": "first_year_projects",
-      "patterns": [
-        "Are there projects in first year?",
-        "How to join research projects?",
-        "first year research",
-        "mini projects",
-        "minor projects",
-        "project groups",
-        "project submissions",
-        "project guidelines",
-        "where to find project ideas",
-        "project mentors",
-        "department projects"
-      ],
-      "responses": [
-        "Minor-projects starts from  5th semester ends at 6th semester. Consult your subject professors for guidance.",
-        "Research projects can be joined through faculty members or department notices."
-      ]
-    },
-      {
       "tag": "senior_interaction",
       "patterns": [
         "How to connect with seniors?",
@@ -1740,12 +1426,10 @@
         "department seniors",
         "hostel seniors",
         "senior help",
-        "avoid ragging",
         "formal senior interaction"
       ],
       "responses": [
-        "Attend clubs orientation to meet seniors and connect with them.",
-        "Join official college groups/clubs to interact with seniors safely."
+        "Attend clubs orientation to meet seniors and connect with them."
       ]
     },
     {
@@ -1757,31 +1441,26 @@
         "elective registration deadline",
         "open elective vs department elective",
         "drop an elective",
-        "elective syllabus"
+        "elective"
       ],
       "responses": [
-        "Elective registration opens in ERP Portal before the semester registration. Consult your academic advisor/mentor/seniors before choosing.",
-        "Elective changes allowed till via ERP portal > Academics > Course Registration."
+        "Elective registration opens in ERP Portal before the semester registration. Consult your academic advisor/mentor/seniors before choosing. \n Elective changes allowed till via ERP portal > Academics > Course Registration."
       ]
     },
     {
       "tag": "mental_health",
       "patterns": [
-        "counseling for homesickness",
         "stress management workshop",
         "mental health support",
         "anxiety about studies",
         "depression help campus",
         "student therapist",
-        "confidential counseling",
         "stress management",
         "academic stress",
-        "tension",
-        "tension of low marks"
+        "tension"
       ],
       "responses": [
         "NIT Jalandhar, through its Aarogya Club and other initiatives, promotes mental health and well-being through counseling, workshops, and awareness programs, aiming to foster a culture of physical fitness and mental resilience. "
-
       ]
     },
     {
@@ -1802,92 +1481,50 @@
         "Food quality in canteen"
       ],
       "responses": [
-        
-          
-          "The campus has multiple canteens offering a variety of food options:\n- Campus Cafe near Lecture Theater\n- Night canteen\n- The Snackers\n-Food options include North Indian, South Indian, Chinese and fast food items."
-        
+        "The campus has multiple canteens offering a variety of food options:\n- Campus Cafe near Lecture Theater\n- Night canteen\n- The Snackers\n-Food options include North Indian, South Indian, Chinese and fast food items."
       ]
     },
-        {
-      "tag": "Laundry_facilities",
+    {
+      "tag": "Department_CS",
       "patterns": [
-        "Laundry services in campus",
-        "Where can I wash clothes?",
-        "Laundry facilities",
-        "Washing machine availability",
-        "Is there laundry service?",
-        "Clothes washing options",
-        "Laundromat in college",
-        "How to do laundry in hostel?",
-        "Laundry timings",
-        "Laundry charges",
-        "Automatic washing machines",
-        "Dry cleaning services"
-      ],
-      "responses": [
-        
-         "Laundry facilities available:\n- Common washing machines in each hostel block,two on each floor. "
-        
-      ]
-    },
-        {
-      "tag": "Hostel_facilities",
-      "patterns": [
-        "What hostel facilities are available?",
-        "Hostel amenities",
-        "Living facilities in hostel",
-        "Hostel infrastructure",
-        "What's provided in hostel?",
-        "Hostel water filter",
-        "Hostel geyser availability",
-        "Wifi in hostels",
-        "Hostel washing machine",
-        "Hostel room facilities",
-        "Hostel common room",
-        "Hostel recreation facilities",
-        "Hostel maintenance"
+        "department of cs",
+        "department of computer science",
+        "department faculty of cs",
+        "cse faculty",
+        "cse department",
+        "computer science department faculty",
+        "cse placement statistics",
+        "computer science"
       ],
       "responses": [
         {
           "type": "text",
-          "text": "Hostel facilities include:\n- 24/7 water purifiers on each floor\n- Geysers in bathrooms\n- Common washing machines\n- High-speed wifi\n- Reading rooms\n- Common TV room\n- Indoor games facilities\n- 24/7 electricity and security"
-    
+          "url": "https://departments.nitj.ac.in/dept/cse/home"
         }
       ]
     },
-        {
-      "tag": "Department_info",
+    {
+      "tag": "Department_EC",
       "patterns": [
-        "faculty of department",
-        "Tell me about CSE department",
-        "Computer Science department",
-        "Mechanical Engineering department",
-        "Civil department info",
-        "Electrical department facilities",
-        "ECE department",
-        "Chemical Engineering department",
-        "IT department",
-        "Biotech department",
-        "Instrumentation department",
-        "Textile department",
-        "Industrial Engineering department",
-        "Data Science department",
-        "department faculty",
-        "professor",
-        "Dean",
-        "teacher",
-        "faculty"
+        "department of ece",
+        "department of electronics communication",
+        "department faculty of ec",
+        "ece faculty",
+        "ece department",
+        "electronics department",
+        "ec department placement statistics",
+        "ece department faculty",
+        "electronics communication"
 
       ],
       "responses": [
         {
           "type": "text",
-          "text": "For specific department information, please visit: [Department section in academics section in the college website]",
-          "url":"https://www.nitj.ac.in/"
+          "url": "https://departments.nitj.ac.in/dept/ece/home"
         }
       ]
     },
-        {
+    {
       "tag": "Campus_shops",
       "patterns": [
         "Shops in campus",
@@ -1895,7 +1532,7 @@
         "Stationery shop",
         "Photocopy center",
         "Grocery store in college",
-        "Medical store",
+        "store",
         "Book shop",
         "College stores",
         "Shopping options in campus",
@@ -1904,36 +1541,23 @@
         "Where to buy daily needs?"
       ],
       "responses": [
-        {
-          "type": "text",
-          "text": "Available shops in campus:\n- Stationery and photocopy center\n- College co-operative store\n- Medical store\n- Fruit and juice stalls\n- Snack shops\n- Book store \n\nTimings: 9:00 AM to 8:00 PM"
-    
-        }
+        "Available shops in campus:\n- Stationery and photocopy center\n- College co-operative store\n- Medical store\n- Fruit and juice stalls\n- Snack shops\n- Book store \n\nTimings: 9:00 AM to 8:00 PM"
       ]
     },
-        {
+    {
       "tag": "Exam_information",
       "patterns": [
-        "When are the semester exams?",
-        "Exam schedule",
-        "When will end-sem exams start?",
-        "Mid-sem exam dates",
-        "Exam timetable",
-        "How are exams conducted?",
-        "Exam pattern for first year",
-        "Grading system",
-        "What is the passing criteria?",
-        "Back paper system",
-        "Re-exam process",
+        "How exams conducted?",
+        "Exam pattern",
         "How to prepare for semester exams?",
         "Exam rules and regulations",
         "What if I miss an exam?",
-        "Exam hall rules",
         "How many exams per semester?",
-        "Practical exam schedule",
-        "Viva preparation",
-        "Study material for exams",
-        "Previous year question papers"
+        "examination",
+        "number of exams in semester",
+        "end semester",
+        "mid semester exams",
+        "mid terms exams"
       ],
       "responses": [
         {
@@ -1943,7 +1567,6 @@
         }
       ]
     },
-
     {
       "tag": "Grading_system",
       "patterns": [
@@ -1953,24 +1576,11 @@
         "How are grades calculated?",
         "What is a good CGPA?",
         "How to calculate SGPA?",
-        "Passing marks criteria",
-        "What if I get a D grade?",
-        "Backlog grading system",
-        "How to improve CGPA?",
-        "What is the minimum passing grade?",
-        "Grade points explanation",
-        "Difference between SGPA and CGPA",
-        "How are internal marks added?",
-        "Grading policy for BTech",
-        "What percentage is a B grade?",
-        "How to convert CGPA to percentage?",
-        "Fail grade consequences",
-        "Revaluation process for grades",
-        "How are practical exams graded?"
+        "grading system at NIt Jalandhar",
+        "grading system"
       ],
       "responses": [
-         "Grading System at NITJ (BTech Programs):\n\n- 10-Point Scale:\n  - The detailed information regarding the grading system,CGPA and SGPA is provided in the acedemics section of the college website,please visit it"
-  
+        "Grading System at NITJ (BTech Programs):\n\n- 10-Point Scale:\n  - The detailed information regarding the grading system,CGPA and SGPA is provided in the acedemics section of the college website,please visit it"
       ]
     }
   ]
