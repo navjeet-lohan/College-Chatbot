@@ -62,7 +62,7 @@ class CollegeChatbot:
         print(f"\nDebug: '{text}' -> {intent} (confidence: {confidence:.2f})")  # Debug line
         
         if confidence < self.confidence_threshold:
-            return [{'type': 'text', 'text': "Could you rephrase your question about NITJ?"}]
+            return [{'type': 'text', 'text': "Please visit main NITJ website for more detailed information"}]
         
         responses = self.get_response(intent)
         return responses if responses else [{'type': 'text', 'text': "No response available."}]

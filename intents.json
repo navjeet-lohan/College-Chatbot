@@ -1,94 +1,6 @@
 {
   "intents": [
     {
-      "tag": "ACADEMICS",
-      "patterns": [
-        "Academics",
-        "academics",
-        "academics",
-        "acadmics"
-      ],
-      "responses": [
-        "Btech courses",
-        "Scholarships",
-        "Fee structure",
-        "Academic calender",
-        "Course syllabus",
-        "ERP portal",
-        "Library",
-        "Backlog exams",
-        "Past exam papers",
-        "Supplementary exams",
-        "Academic advisor",
-        "Attendance",
-        "Attendance shortage"
-      ]
-    },
-    {
-      "tag": "ADMISSIONS",
-      "patterns": [
-        "Admission",
-        "admission",
-        "admision"
-      ],
-      "responses": [
-        "B.Tech admissions",
-        "M.Tech admissions",
-        "Msc admissions",
-        "MBA admissions",
-        "International students admission",
-        "JOSAA counselling.",
-        "CSAB counselling."
-      ]
-    },
-    {
-      "tag": "extracurricular",
-      "patterns": [
-        "extracurricular",
-        "extracuricular"
-      ],
-      "responses": [
-        "Extracurricular activities",
-        "Student clubs",
-        "Club inductions",
-        "College fests",
-        "Technical fest"
-      ]
-    },
-    {
-      "tag": "Life at NITJ",
-      "patterns": [
-        "life",
-        "life at NITJ",
-        "life at nit j",
-        "life at NIT jalandhar"
-      ],
-      "responses": [
-        "Campus facilities",
-        "Medical Facilities",
-        "Sports facilities",
-        "Hostel facilities",
-        "Mess food",
-        "Gym access"
-      ]
-    },
-    {
-      "tag": "Other",
-      "patterns": [
-        "other",
-        "more"
-      ],
-      "responses": [
-        "Campus placements",
-        "Placement support",
-        "Alumni network",
-        "Campus security",
-        "Contact NITJ",
-        "ID Card lost",
-        "Anti ragging committee"
-      ]
-    },
-    {
       "tag": "B tech admissions",
       "patterns": [
         "B.Tech admissions",
@@ -281,6 +193,24 @@
       ]
     },
     {
+      "tag": "Admission_Process",
+      "patterns": [
+        "admission process start",
+        "admission process",
+        "admission procedure",
+        "admisison process starting",
+        "admission procedure",
+        "when will admission process"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "",
+          "url": "https://nitj.ac.in/admissions/index.html"
+        }
+      ]
+    },
+    {
       "tag": "fee_structure",
       "patterns": [
         "What is the fee structure?",
@@ -424,32 +354,7 @@
         "How do I apply for hostel accommodation?",
         "What are the hostel facilities?",
         "What amenities are included in the hostel?",
-        "Hostel rooms",
-        "Types of hostel rooms",
-        "Single room",
-        "Double room",
-        "Shared rooms",
-        "Hostel fees",
-        "Hostel charges",
-        "Cost of living in hostel",
-        "Hostel rules",
-        "Hostel regulations",
-        "Hostel policies",
-        "Hostel warden",
-        "Hostel staff",
-        "Hostel contact",
-        "Hostel office",
-        "Hostel location",
-        "Hostel address",
-        "Hostel facilities list",
-        "Guest room in hostel",
-        "Guest accommodation in hostel",
-        "Accommodation for parents",
-        "Accommodation for guests",
-        "How to book guest room in hostel",
-        "Hostel application deadline",
-        "When to apply for hostel",
-        "Hostel allotment"
+        "Hostel rooms"
       ],
       "responses": [
         "Hostel accommodation is available for students. You can apply for it during the admission process. There are Ten Boys Hostels and Three Girls Hostels. ",
@@ -1046,7 +951,14 @@
         "cutoff rank",
         "cutoff score",
         "cutoff marks for counselling",
-        "Jee main rank below"
+        "Jee main rank below",
+        "at what rank can I get Cse branch?",
+        "At what rank can I get IT branch?",
+        "At what rank can I get ECE branch?",
+        "Branch Cutoff",
+        "Rank vs branch"
+
+
       ],
       "responses": [
         {
@@ -1116,7 +1028,9 @@
         "When does the academic year end?",
         "Is the academic calendar available online?",
         "Where can I find the academic calendar?",
-        "Academic year schedule"
+        "Academic year schedule",
+        "Academic calander for odd semester",
+        "Academic calander for even semester"
       ],
       "responses": [
         {
