@@ -94,7 +94,7 @@ def main():
                     elif isinstance(response, dict):
                         print(response.get('text', ''))
                         if 'url' in response:
-                            print(f"More Details: {response['url']}")
+                            print(f"For More Details: {response['url']}")
                 print()  # Add spacing
                 
             except KeyboardInterrupt:

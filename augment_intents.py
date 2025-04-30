@@ -25,7 +25,7 @@ class IntentAugmenter:
         
         results = self.generator(
             prompt,
-            max_length=60,
+            max_length=70,
             num_return_sequences=1,
             temperature=0.75,
             top_k=50
@@ -44,7 +44,7 @@ def main():
         data = json.load(f)
 
     for intent in tqdm(data['intents'], desc="Augmenting Intents"):
-        if len(intent['patterns']) < 20:
+        if len(intent['patterns']) < 70:
             try:
                 new_patterns = augmenter.augment_intent(intent)
                 intent['patterns'].extend(new_patterns)

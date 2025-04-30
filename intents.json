@@ -41,7 +41,7 @@
       ]
     },
     {
-      "tag": "M Sc admissions",
+      "tag": "MSc",
       "patterns": [
         "M Sc admissions",
         "M Sc",
@@ -100,6 +100,7 @@
       "responses": [
         {
           "type": "text",
+          "text":"Below is the link provided for the courses listed in Btech please feelfree to visit",
           "url": "https://www.nitj.ac.in/template/index.html?id=64a532c5e7b4137ef2d3e7d0?category=newpage"
         }
       ]
@@ -117,6 +118,7 @@
       "responses": [
         {
           "type": "text",
+          "text": "Below is the detailed link provided for the admission process please feel free to visit",
           "url": "https://nitj.ac.in/admissions/index.html"
         }
       ]
@@ -149,7 +151,9 @@
         "International students",
         "Admissions for international students",
         "DASA admissions",
-        "dasa"
+        "dasa",
+        "dasa students admission procedure",
+        "admission procedure for international students"
       ],
       "responses": [
         {
@@ -160,7 +164,7 @@
       ]
     },
     {
-      "tag": "NIRF_ranking",
+      "tag": "nirf_ranking",
       "patterns": [
         "NIRF ranking",
         "NIRF ranking of NITJ",
@@ -168,7 +172,11 @@
         "ranking of NIT Jalandhar",
         "NITJ rankings",
         "NITJ rankings and awards",
-        "NIT Jalandhar rankings"
+        "NIT Jalandhar rankings",
+        "nirf ranking of nitj",
+        "nirf ranking of our college",
+        "college nirf ranking",
+        "rank of nitj"
       ],
       "responses": [
         {
@@ -214,6 +222,7 @@
       "responses": [
         {
           "type": "text",
+          "text" :"Below is the link provided for the timetable",
           "url": "https://xceed.nitj.ac.in/timetable"
         }
       ]
@@ -327,7 +336,10 @@
         "jossa round cutoff",
         "cutoff for jossa round",
         "JOSSA round",
-        "JOSSA round process"
+        "JOSSA round process",
+        "jee main rank need for college",
+        "jee main rank required",
+        "rank required"
       ],
       "responses": [
         {
@@ -391,7 +403,7 @@
         "Merit-based scholarships",
         "Need-based scholarships",
         "Academic scholarships",
-        "Sports scholarships",
+        "scholarships",
         "Extracurricular scholarships",
         "Scholarships for [specific program/department]",
         "Scholarships for international students",
@@ -480,8 +492,11 @@
         "Mess timings",
         "What are the mess timings?"
       ],
-      "responses": [
-        "Mess food is available to hostel students on payment of mess advance fees of Rs 25000 per semester. Menu updated each month by hostel students comittee. Breakfast, lunch, and dinner are served from 8:00am - 9:30am , 12:30pm - 2:00pm and 8:00pm - 9:30pm respectively."
+      "responses": [{
+        "type":"text",
+        "text":"Mess food is available to hostel students on payment of mess advance fees of Rs 25000 per semester. Menu updated each month by hostel students comittee. Breakfast, lunch, and dinner are served from 8:00am - 9:30am , 12:30pm - 2:00pm and 8:00pm - 9:30pm respectively.Below is the link provided for mess fee structure",
+        "url":"https://nitj.ac.in/files/1721102363690-Mess%20Fee%20Structure%20UG%202024.pdf"
+      }
       ]
     },
     {
@@ -618,7 +633,7 @@
       "responses": [
         {
           "type": "text",
-          "text": "For detailed information please visit",
+          "text": "For detailed information please visit the student life section of our college website,below is the link provided.",
           "url": "https://www.nitj.ac.in/admissions/student_life.html"
         }
       ]
@@ -1031,6 +1046,7 @@
         "Intra-college sports",
         "Sports tournaments",
         "Sports fest",
+        "table tennis",
         "Are there any sports events on campus?",
         "When are the sports events held?"
       ],
@@ -1308,7 +1324,7 @@
       ]
     },
     {
-      "tag": "bullying_harassment_counseling",
+      "tag": "bullying_harassment",
       "patterns": [
         "How do I report a bullying or harassment incident?",
         "Bullying",
@@ -1317,6 +1333,10 @@
         "teasing",
         "harassment",
         "Ragging",
+        "how to deal with teasing",
+        "how to deal with harrasment",
+        "someone is harrasing me what to do?",
+        "what to do if a senior is taking ragging?",
         "someone is harassing me what to do?",
         "Anti ragging committee"
       ],
@@ -1344,17 +1364,19 @@
         "Gym facilities"
       ],
       "responses": [
-        "Gym at NitJ is well equipped with latest machines for the students .Gym timings vary for different year students;Entry is given after checking the ID card of the perticular student, check the sports complex notice board or the official website for details."
+        "Gym at NitJ is well equipped with latest machines for the students .Gym timings vary for different year students. Entry is given after checking the ID card of the perticular student, check the sports complex notice board or the official website for details."
       ]
     },
     {
-      "tag": "director_nitj",
+      "tag": "College_director",
       "patterns": [
         "who is director of institute",
         "director",
         "director information",
         "director of NITJ",
         "who is Director of NIT Jalandhar",
+        "who is the director of college",
+        "what is the name of the director of college",
         "email of director"
       ],
       "responses": [
@@ -1424,7 +1446,9 @@
         "senior guidance",
         "connect with seniors",
         "department seniors",
-        "hostel seniors",
+        "how to meet with hostel seniors",
+        "how to interact with hostel seniors",
+        "how to meet with  seniors",
         "senior help",
         "formal senior interaction"
       ],
@@ -1453,6 +1477,8 @@
         "stress management workshop",
         "mental health support",
         "anxiety about studies",
+        "how to handle stress related to studies",
+        "how to deal with mental stress",
         "depression help campus",
         "student therapist",
         "stress management",
@@ -1514,7 +1540,9 @@
         "electronics department",
         "ec department placement statistics",
         "ece department faculty",
-        "electronics communication"
+        "electronics communication",
+        "ece department",
+        "deparment of ece"
 
       ],
       "responses": [
