@@ -25,7 +25,7 @@ class IntentAugmenter:
         
         results = self.generator(
             prompt,
-            max_length=70,
+            max_length=90,
             num_return_sequences=1,
             temperature=0.75,
             top_k=50

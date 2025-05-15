@@ -12,7 +12,22 @@
         "What is the admission process for BTech?",
         "How do I apply for Btech?",
         "What are the steps for admission in Btech?",
-        "Admission to B.Tech"
+        "Admission to B.Tech",
+        "What is the process to get admission here?",
+        "Can you help me understand how to apply for admission?",
+        "How do I register for admission?",
+        "What are the eligibility criteria for admission?",
+        "When does the admission process start?",
+        "Where can I find the admission form?",
+        "Can I apply for admission online?",
+        "What is the last date to apply for admission?",
+        "What is the selection process for admission?",
+        "Are admissions open right now?",
+        "How can I check my admission status?",
+        "Do I need to visit the campus for admission?",
+        "Is there a separate quota or category for admission?",
+         "Can I get direct admission without an entrance test?"
+
       ],
       "responses": [
         {
@@ -22,6 +37,50 @@
         }
       ]
     },
+    {
+      "tag": "recent_achievements",
+      "patterns": [
+        "Bro what’s the latest achievement of our college?",
+        "Has NITJ done anything cool recently?",
+        "Any awards NITJ got this year?",
+        "What is NITJ famous for nowadays?",
+        "Did NITJ win something recently?",
+        "Tell me about the recent achievements of NITJ",
+        "Anything big happened in NITJ recently?",
+        "What has our college achieved this year?",
+        "Did any NITJ students get national awards?",
+        "What kind of success has NITJ had recently?",
+        "Any startup or innovation from our college?",
+        "How is NITJ doing in terms of rankings?",
+        "Are we good in NIRF ranking?",
+        "Any student from NITJ went viral or made news?",
+        "Anything inspirational from our seniors or profs?",
+        "Did we win any hackathons or tech fests?",
+        "Has NITJ published any big research papers?",
+        "What’s the most recent thing NITJ is proud of?",
+        "Any latest collab with foreign universities?",
+        "Have we launched any cool projects or startups?",
+        "What are seniors doing that’s making NITJ proud?",
+        "Did we win any cultural fest recently?",
+        "How are we doing in sports competitions?",
+        "Any recognition from the government?",
+        "What’s the buzz around NITJ in 2024?",
+        "Are we doing well compared to other NITs?",
+        "Did NITJ host any big event recently?",
+        "Any alumni who made headlines this year?",
+        "Did NITJ participate in any international events?",
+        "How's NITJ doing in placements this year?",
+        "What makes NITJ shine right now?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "NIT Jalandhar has recently made headlines for its excellent performance in national rankings, innovative student startups, and research contributions. You can explore all updates on the official website or follow @nitjofficial on social media.",
+          "url": "https://www.nitj.ac.in/template/index.html?id=64bf68ff2325112eba21be22?category=newpage"
+        }
+      ]
+    },
+    
     {
       "tag": "M tech admissions",
       "patterns": [
@@ -37,7 +96,7 @@
         "Admission to M.Tech"
       ],
       "responses": [
-        "Admission Process for M Tech programme is as follows: \n 1. Admissions to M. Tech. programme of the Institute shall be carried out through Centralized Counselling for M. Tech./M. Arch./M. Plan. Admissions (CCMT) jointly conducted by various NIT’s. For each programme, eligibility is define base GATE paper."
+        "Admission Process for M Tech programme is as follows: \n 1. Admissions to M. Tech. programme of the Institute shall be carried out through Centralized Counselling for M. Tech./M. Arch./M. Plan. Admissions (CCMT) jointly conducted by various NIT\u2019s. For each programme, eligibility is define base GATE paper."
       ]
     },
     {
@@ -77,13 +136,13 @@
       "responses": [
         {
           "type": "text",
-          "text": " Admission Process for MBA programme is as follows: \n 1. Admissions will be made on the basis of CAT/GMAT/CMAT/MAT/Institute test (70% weightage), Group Discussion (15% weightage), and Interview (15% weightage). At first, the seats will be filled from CAT/GMAT/CMAT/MAT Marks+GD+PI Score. Remaining vacant seats will be filled from Institute’s Test Marks+GD+PI Score.",
+          "text": " Admission Process for MBA programme is as follows: \n 1. Admissions will be made on the basis of CAT/GMAT/CMAT/MAT/Institute test (70% weightage), Group Discussion (15% weightage), and Interview (15% weightage). At first, the seats will be filled from CAT/GMAT/CMAT/MAT Marks+GD+PI Score. Remaining vacant seats will be filled from Institute\u2019s Test Marks+GD+PI Score.",
           "url": "https://www.nitj.ac.in/admissions/index.html"
         }
       ]
     },
     {
-      "tag": "Undergraduate courses_offered",
+      "tag": "Undergraduate_courses_offered",
       "patterns": [
         "Btech courses",
         "Btech programmes",
@@ -95,12 +154,68 @@
         "What courses are available in M.Tech?",
         "Postgraduate courses",
         "M.Tech programs",
-        "Phd programs"
+        "Phd programs",
+        "what are the ug programs offered at nitj?",
+        "courses offered at nitj?",
+        "what are the courses offered at Nitj?",
+        "ug programs offered??",
+        "Mtech programs offered?",
+        "what are the mba programs offered?",
+        "What B.Tech branches are available?",
+      "BTech streams at NITJ?",
+      "Which B.Tech programs are offered?",
+      "Tell me about BTech specializations",
+      "btech courses list please",
+      "how many btech courses are there?",
+      "available btech programs?",
+      "what all can we study in btech?",
+      "Courses in B.Tech CSE?",
+      "Does NIT Jalandhar have ECE in BTech?",
+      "Undergraduate programs at nit jalandhar?",
+      "ug courses in nitj?",
+      "available ug programs?",
+      "ug branches list?",
+      "MTech specializations?",
+      "What are the M.Tech options?",
+      "Does NITJ offer MTech in AI?",
+      "Full list of Mtech courses?",
+      "How many MTech branches are there?",
+      "postgrad courses at nitj?",
+      "Mtech courses available?",
+      "M.Tech after B.Tech options?",
+      "What are the PG courses?",
+      "MBA options at NITJ?",
+      "mba kaunsa course hai nitj me?",
+      "Is MBA offered at NIT Jalandhar?",
+      "How many MBA programs does NITJ have?",
+      "Do they have business courses?",
+      "Any management courses in NITJ?",
+      "Is there a course in finance or HR?",
+      "PhD branches in NITJ?",
+      "Which departments offer Ph.D.?",
+      "Ph.D. programs list please?",
+      "I want to do PhD at nitj",
+      "doctoral programs available?",
+      "What courses can I do after M.Tech?",
+      "Research courses at nitj?",
+      "Full list of nitj courses?",
+      "What all courses are there in nitj?",
+      "How many degrees does nitj offer?",
+      "does nitj have integrated courses?",
+      "5 year dual degree programs?",
+      "what are the academic programs at nit jalandhar?",
+      "nitj ka course structure kya hai?",
+      "All engineering courses at NITJ?",
+      "Non-tech programs at NITJ?",
+      "Is there design or humanities program?",
+      "nitj offers which ug and pg courses?",
+      "List of courses at nitj"
       ],
       "responses": [
         {
           "type": "text",
-          "text":"Below is the link provided for the courses listed in Btech please feelfree to visit",
+          "text": "Below is the link provided for the courses listed under NITJ please feelfree to visit",
+
           "url": "https://www.nitj.ac.in/template/index.html?id=64a532c5e7b4137ef2d3e7d0?category=newpage"
         }
       ]
@@ -153,16 +268,302 @@
         "DASA admissions",
         "dasa",
         "dasa students admission procedure",
-        "admission procedure for international students"
+        "admission procedure for international students",
+        "what is dasa admission process?",
+    "dasa admission nit jalandhar",
+    "how to apply through dasa?",
+    "dasa scheme apply steps",
+    "dasa quota nitj",
+    "dasa eligibility nitj",
+    "minimum marks for dasa",
+    "sat score needed for dasa",
+    "how much sat needed for dasa",
+    "how dasa works?",
+    "dasa kaise apply kare",
+    "dasa registration start kab hota?",
+    "last date for dasa apply?",
+    "who can apply in dasa quota?",
+    "can nri students apply through dasa?",
+    "can foreign students use dasa?",
+    "dasa portal open date?",
+    "dasa site link?",
+    "how to register for dasa scheme?",
+    "how international student take admission via dasa?",
+    "is jee required for dasa?",
+    "is sat compulsory for dasa?",
+    "how much sat score for nitj dasa?",
+    "dasa nitj cutoff sat",
+    "fee for dasa quota",
+    "dasa fee structure nitj",
+    "dasa counselling process",
+    "when dasa counselling starts?",
+    "how dasa seat allotment happen?",
+    "dasa seat matrix nit jalandhar",
+    "is hostel available under dasa?",
+    "do dasa students get hostel?",
+    "dasa students allowed in fest?",
+    "dasa contact number nitj",
+    "dasa email id for help",
+    "foreign admission nitj dasa",
+    "dasa vs normal admission",
+    "dasa quota details nit jalandhar",
+    "which countries allowed under dasa?",
+    "apply nitj from uae via dasa",
+    "apply nitj from saudi via dasa",
+    "how to join nitj from nepal through dasa?",
+    "i’m nri how to take admission in nitj?",
+    "dasa help please",
+    "dasa application issues",
+    "dasa portal problem",
+    "how indian born abroad apply dasa?",
+    "dasa for oci students?",
+    "dasa for pio students?",
+    "can oci apply through dasa?",
+    "visa requirement for dasa students?",
+    "documents needed for dasa admission",
+    "what is the age limit for dasa?",
+    "dasa brochure 2025",
+    "nitj dasa quota seats",
+    "how many seats in dasa nitj?",
+    "can i get cs through dasa?",
+    "how to get good branch in dasa?",
+    "branch cutoff for dasa at nitj",
+    "is scholarship available in dasa?",
+    "scholarships for dasa students?",
+    "what are dasa advantages?",
+    "what is disadvantage of dasa?",
+    "who manage dasa in nitj?",
+    "dasa contact person nitj",
+    "foreign quota nit jalandhar",
+    "international students admission via dasa",
+    "i from abroad want admission in nitj",
+    "dasa nitj details please",
+    "how dasa admission different?",
+    "nri admission nitj under dasa"
+
       ],
       "responses": [
         {
           "type": "text",
-          "text": "International students can apply for scholarships. Please check our website for specific details and eligibility criteria. For queries write to isac@nitj.ac.in",
+          "text": "Below is the link provieded for all the information related to admissions regarding international students,DASA students,please feel free to visit the link",
           "url": "https://nitj.ac.in/diia_U/template.html?id=6776bab1e7fb3208bfbfdc2a&category=newsPage"
         }
       ]
     },
+    {
+      "tag": "missed_midsem",
+      "patterns": [
+        "What should I do if I missed my mid semester exam?",
+        "I missed my midsem, what now?",
+        "What happens if I miss the midsem?",
+        "Can I give the midsem later?",
+        "I missed my mid sem exam accidentally",
+        "Missed midsem by mistake, help",
+        "Forgot midsem date, what can I do?",
+        "Is there a re-exam for midsem?",
+        "Will I fail if I miss midsem?",
+        "Can I give makeup midsem?",
+        "Missed exam due to health, can I retake?",
+        "What to do after missing mid semester?",
+        "Missed midsem due to medical emergency",
+        "Procedure after missing midsem exam?",
+        "Can I apply for a re-midsem?",
+        "Any chance for re-exam midsem?",
+        "Whom should I talk to if I miss midsem?",
+        "Missed midsem. Should I email professor?",
+        "Can I talk to faculty for missing midsem?",
+        "Will I lose marks if I miss midsem?",
+        "Missed internal exam, help",
+        "I missed my class test, same as midsem?",
+        "Missed my internal exam, what now?",
+        "Can I still pass if I missed midsem?",
+        "How to request for re midsem?",
+        "Re midsem possible?",
+        "Can professor allow me for re midsem?",
+        "How to explain missing midsem to professor?",
+        "Missed midsem due to travel delay",
+        "Is there a policy for missed midsem?",
+        "I forgot the midsem, what should I do?",
+        "How do I inform about missing midsem?",
+        "Should I contact HOD for missed midsem?",
+        "Will midsem marks be zero if missed?",
+        "Any way to make up for missed midsem?",
+        "Can I write an application for missing midsem?",
+        "What is the next step if I missed midsem?",
+        "Can I get another chance if I missed midsem?",
+        "Is makeup test allowed for midsem?",
+        "How to appeal for a missed midsem?",
+        "Can I reschedule my midsem?",
+        "I missed my exam due to illness",
+        "I missed my midsem, can I still score well?",
+        "Can I get grace marks if I miss midsem?",
+        "Is attendance affected if I miss midsem?",
+        "What happens if I miss just one midsem?",
+        "Can I speak to my department about a missed midsem?",
+        "Can I still graduate if I miss midsem?",
+        "Is there any chance to recover marks after missing midsem?",
+        "Will there be a retest for midsem?",
+        "Can I request for re-exam if I miss midsem?",
+        "I was sick, missed midsem. What to do?",
+        "Will I get a second chance for midsem?",
+        "Missed midsem due to personal reasons, what to do?",
+        "Steps to take after missing midsem",
+        "I had an emergency and missed my exam",
+        "Can I apply for makeup exam if I miss midsem?",
+        "Is there any formal way to inform about missed midsem?",
+        "Can missing one midsem affect my final grade?",
+        "What are the rules if someone misses a midsem exam?",
+        "Do professors allow makeup midsems?",
+        "I missed the midsem today, what’s the process now?",
+        "Missed my paper today, what are my options?",
+        "What is the official process if a midsem is missed?"
+      ],
+      "response":[{"type": "text",
+      "text":"If you missed your mid-semester exam, it's important to inform your course instructor or department as soon as possible. Depending on the reason (like medical emergencies), you may be allowed to apply for a re-exam or makeup test.Form forup exams are available on the website after the completion of mid semester examinations. Make sure to provide valid documentation if required (such as a medical certificate). Contact your class coordinator or HOD for further guidance."
+    }]
+    },
+    {
+      "tag": "nitj_pwd_related_queries",
+      "patterns": [
+        
+        "What is the PwD reservation policy at NIT Jalandhar?",
+        "How much percentage is reserved for PwD students in NITJ?",
+        "Is there any support for PwD students during admission?",
+        "What documents are required for PwD category admission?",
+        "Are PwD students eligible for fee concession or scholarship at NITJ?",
+        "Does NITJ have accessible classrooms and buildings for PwD students?",
+        "Is there a helpdesk or contact for PwD-related admission support?",
+        "How can I claim PwD reservation during the admission process?",
+        "Are there any hostel facilities for physically challenged students?",
+        "What facilities are available at NITJ for disabled students?",
+        "Can a PwD student request a scribe or writer during exams?",
+        "Does NITJ provide any transport support for PwD students inside the campus?",
+        "Are extra time or special accommodations given during exams for PwD students?",
+        "Is there any special quota for PwD in branch change at NITJ?",
+        "Can I apply for a laptop or device under PwD student welfare?",
+        "Are ramps and elevators available for wheelchair users on campus?",
+        "Who do I contact for PwD certificate verification in college?",
+        "Are scholarships available for visually impaired students?",
+        "What is the admission criteria for PwD students in NIT Jalandhar?",
+        "Is a disability certificate mandatory for claiming PwD benefits?",
+        "Can I get medical assistance on campus as a PwD student?",
+        "Do PwD students get any priority in hostel allotment?",
+        "Are sign language interpreters or support staff available?",
+        "Is the NITJ campus friendly for students with disabilities?",
+        "Does NITJ conduct any orientation or special counseling for PwD students?",
+        "What is the procedure to update my category to PwD after admission?",
+        "How to get PwD concession in tuition fees at NIT Jalandhar?",
+        "Are there any mentors or support groups for PwD students?",
+        "Is the canteen or mess area accessible to PwD students?",
+        "How can a PwD student raise grievances or complaints?",
+        "Are there any PwD exclusive scholarships provided by NITJ or MHRD?",
+    
+        
+        "pwd quota nitj",
+        "nitj pwd seats",
+        "reservation for disabled students",
+        "disabled student help nitj",
+        "support for handicapped admission",
+        "pwd facility college",
+        "ramp or lift for disabled",
+        "hostel for pwd",
+        "exam help pwd students",
+        "is scrib allowed for pwd",
+        "time relaxation for disabled",
+        "any benefits for pwd",
+        "pwd certi required?",
+        "fee waive for pwd student?",
+        "is nitj wheelchair friendly",
+        "pwd category helpdesk",
+        "nitj have pwd scholar?",
+        "special support pwd",
+        "pwd transport help",
+        "pwd hostel seat priority?",
+        "disability quota rules",
+        "nitj disabled student support",
+        "pwd fee ka help",
+        "campus accessible for disabled?",
+        "who help pwd student nitj",
+        "any special treatment for pwd?",
+        "pwd laptop scheme?",
+        "pwd student guide please",
+        "nitj pwd policy",
+        "disability certi needed?",
+        "pwd branch change allowed?",
+        "specially abled student support",
+        "how many pwd seats nitj",
+        "pwd doc upload process",
+        "pwd scholar form nitj",
+        "can i get extra time in exam",
+        "nitj medical help pwd",
+        "support team for pwd?",
+        "wheelchair student help nitj",
+        "sign lang help nitj?",
+        "is nitj inclusive for pwd",
+        "What facilities are available for PwD students at NITJ?",
+    "Does NITJ have special rooms for disabled students in hostels?",
+    "Are there accessible washrooms for PwD students?",
+    "Is the hostel accessible for wheelchair users?",
+    "Do hostels have ramps and lifts for physically disabled students?",
+    "Are there special hostel accommodations for PwD students?",
+    "Do PwD students get ground floor hostel rooms?",
+    "Are there dedicated hostel rooms for PwD candidates?",
+    "Is there an elevator in academic and hostel buildings for disabled students?",
+    "Can a disabled student stay alone or get help in hostel?",
+    "Is NITJ wheelchair friendly?",
+    "Is campus movement easy for students with disabilities?",
+    "What support does the college offer for mobility-impaired students?",
+    "Are the classrooms accessible for wheelchair users?",
+    "Is there assistance for visually impaired students at NITJ?",
+    "Does NITJ provide scribes for exams to PwD students?",
+    "Is there help available during exams for PwD candidates?",
+    "Can I get a scribe if I have a disability?",
+    "How can I apply for a scribe or extra time in exams?",
+    "Do disabled students get extra time in exams?",
+    "Are there separate seating arrangements for PwD students during exams?",
+    "Are toilets in hostels PwD friendly?",
+    "Is there a special facility for hearing-impaired students?",
+    "Is support provided in labs for disabled students?",
+    "Does NITJ follow AICTE norms for PwD student facilities?",
+    "How do I request special facilities as a PwD student?",
+    "Is there a form to request accessible rooms in hostel?",
+    "Do I need to show disability certificate to get hostel facility?",
+    "What is the hostel fee structure for PwD students?",
+    "Do PwD students get hostel fee concession?",
+    "Can I get assistance in classrooms due to disability?",
+    "Is there a disability cell or officer I can contact?",
+    "Does NITJ have a disability support office?",
+    "Whom to contact for PwD accommodation support?",
+    "Do PwD students get priority during hostel allotment?",
+    "How can I apply for PwD benefits at NITJ?",
+    "Does NITJ provide personal assistant or caretaker for PwD?",
+    "Are there handrails or tactile floors in campus?",
+    "Do students with leg disabilities get special parking?",
+    "Can I use mobility scooter inside NITJ campus?",
+    "Does the mess have accessible seating for PwD?",
+    "Can I stay off-campus due to my disability?",
+    "Can I request medical support or nurse help due to my disability?",
+    "I have partial vision loss. Is there support at NITJ?",
+    "Is there any mentor assigned for PwD students?",
+    "Is there a medical room accessible to wheelchair users?",
+    "Will I face any issues in practical labs as a disabled student?",
+    "Is NITJ inclusive for disabled students?",
+    "Are staff trained to handle PwD student needs?",
+    "I have back injury. Can I avoid stairs in college?",
+    "How is classroom seating arranged for PwD students?",
+    "Are ramps available everywhere in NITJ?",
+    "Does NITJ ensure barrier-free movement for PwD?",
+    "Can disabled students take part in fests and events?",
+    "Is there extra transport or shuttle for PwD inside campus?",
+    "Can I attend lectures online due to mobility issue?",
+    "Are emergency alarms and notices accessible for hearing impaired?",
+    "I’m on crutches. How do I attend labs and lectures?",
+    "Does the library provide help for visually impaired students?",
+    "Are braille materials or screen readers available at NITJ?"
+      ],
+      "response": "NIT Jalandhar provides reservation, facilities, and academic support for PwD (Persons with Disabilities) students. A valid disability certificate is required to claim reservation and related benefits.\n\n✅ PwD students are eligible for a reserved quota during admission.\n✅ Facilities like accessible classrooms, ramps, elevators, hostel accommodations, exam writers/scribes, and extra time are available.\n✅ Fee concessions and scholarships may apply based on eligibility.\n✅ For help, students can reach out to the admission office or the Student Welfare section for PwD-specific queries.\n\nMake sure to upload the correct documents during JoSAA/CSAB and stay in touch with official NITJ communication channels for updated support and assistance."
+    },
+    
     {
       "tag": "nirf_ranking",
       "patterns": [
@@ -217,12 +618,51 @@
         "time table for classes",
         "ranking of NIT Jalandhar",
         "students time table",
-        "Time table"
+        "Time table",
+        "Where can I find my class timetable?",
+        "Show me the timetable for first year CSE",
+        "Time table for ECE second year please",
+        "What's the schedule for third year Mechanical?",
+        "Can you tell me my class timings?",
+        "When will the new timetable be released?",
+        "Is the timetable out yet?",
+        "Where is the class schedule for IT department?",
+        "What is the timetable for Civil 4th year?",
+        "Where can I get the updated timetable?",
+        "Show the class timetable for second year ECE",
+        "Upload the timetable for Biotechnology branch",
+        "When are the classes for CSE first year?",
+        "Provide the timetable link for Chemistry department",
+        "Is the timetable available for Chemical Engineering students?",
+        "Where do I find the Civil Engineering timetable?",
+        "Give me the Mechanical Engineering timetable",
+        "Where can I check the Electrical Engineering class schedule?",
+        "Show me the class timings for Humanities and Management department",
+        "What is the class timetable for Industrial and Production Engineering?",
+        "Where is the Information Technology timetable?",
+        "What's the timetable for Instrumentation and Control Engineering?",
+        "How can I access the Mathematics and Computing timetable?",
+        "Timetable for Physics department students?",
+        "Can I get the Textile Technology timetable for 2nd year?",
+        "How do I get the updated timetable for Civil Engineering?",
+        "What is the class schedule for 3rd year in Electrical Engineering?",
+        "Where do I check the timetable for Chemical Engineering?",
+        "What time does the Humanities and Management department start classes?",
+        "Timetable for first year Industrial and Production Engineering?",
+        "What is the class timing for 2nd year Mathematics and Computing?",
+        "When are the classes for Textile Technology?",
+        "Show me the updated timetable for Physics department students",
+        "When is the next batch for Information Technology classes?",
+        "Where is the Civil Engineering department's timetable?",
+        "Where can I check the schedule for Biotechnology students?",
+        "Timetable for Electrical Engineering first year?",
+        "What is the schedule for the Mechanical Engineering classes?",
+        "Where can I download the updated class timetable for Textile Technology?"
       ],
       "responses": [
         {
           "type": "text",
-          "text" :"Below is the link provided for the timetable",
+          "text": "Below is the link provided for the timetable",
           "url": "https://xceed.nitj.ac.in/timetable"
         }
       ]
@@ -242,7 +682,6 @@
         "Difference between JOSAA and CSAB",
         "Eligibility for JOSAA",
         "Eligibility for CSAB",
-        "cutoff for CSAB",
         "CSAB 2025 schedule",
         "CSAB dates",
         "CSAB schedule",
@@ -339,11 +778,61 @@
         "JOSSA round process",
         "jee main rank need for college",
         "jee main rank required",
-        "rank required"
+        "rank required",
+        "What is the opening rank for CSE at NITJ?",
+        "Closing rank of Computer Science branch in nitj?",
+        "Opening and closing ranks for ECE branch at nit jalandhar?",
+        "What was last year's closing rank for IT?",
+        "JoSAA cutoff for Civil Engineering in NIT Jalandhar?",
+        "what rank is needed for electrical engineering in nitj?",
+        "jee rank required for mechanical at nit jalandhar?",
+        "what is the cutoff rank for biotech at nitj?",
+        "which round does ECE close in jossa?",
+        "what's the round 1 opening rank for chemical engineering?",
+        "last round closing rank for cse nitj?",
+        "can i get IT branch in nitj with 30k rank?",
+        "minimum rank required to get CS in NIT Jalandhar?",
+        "maximum rank for CS admission at nitj?",
+        "does 50k rank get me mechanical engineering at nitj?",
+        "CS branch ka opening aur closing rank kya hai?",
+        "tell me OR and CR for NITJ CSE branch",
+        "i want to know closing rank for EC in jossa round 6",
+        "jeemain rank for getting admission in nitj cs?",
+        "jossa round 3 cutoff for CSE nit jalandhar?",
+        "rank vs branch for nitj?",
+        "computer science ke liye kitna rank chahiye?",
+        "cutoff rank for nitj all branches?",
+        "round-wise cutoff of nitj branches?",
+        "jee rank for admission to nit jalandhar?",
+        "branch wise cutoff of nitj?",
+        "open category rank for CSE at NIT Jalandhar?",
+        "rank range for ECE in nitj?",
+        "chemical branch opening and closing rank?",
+        "round 1 to round 6 rank details for nitj?",
+        "category wise rank cutoff nitj?",
+        "closing cutoff for btech in nit jalandhar?",
+        "general category closing rank for mechanical at nitj?",
+        "rank cutoff for civil in nit jalandhar?",
+        "nitj ke liye konsa rank chahiye?",
+        "can i get nitj at 40k?",
+        "jee mains closing rank for CS nit j?",
+        "what is the expected closing rank for CSE this year?",
+        "cutoff rank for nitj branches 2024?",
+        "rank range for different branches nit jalandhar?",
+        "OR-CR table for nitj?",
+        "what was last year's cutoff trend in nitj?",
+        "admission cutoff ranks for nitj?",
+        "jee main cutoff for nit jalandhar in jossa?",
+        "branch wise jossa cutoff of nitj?",
+        "cse ki opening rank kya thi nit jalandhar?",
+        "is 25k enough for nitj IT branch?",
+        "jossa rank analysis for nitj branches?"
+      
       ],
       "responses": [
         {
           "type": "text",
+          "text" :"Below is the link provided to check the opening and clossing rank for a perticular branch,feel free to visit",
           "url": "https://josaa.nic.in/or-cr/"
         }
       ]
@@ -379,8 +868,10 @@
         "Fee receipt download",
         "Fee related queries"
       ],
-      "responses": [
-        "NIT Jalandhar BTech fees is INR 5 lakh. This is the tuition fee for all the BTech specialisations. Apart from the tuition fees, candidates also have to pay Hostel Charges and One-time Payable Security Fees. Candidates are advised to visit the official website for more details about fees. \n Students have to pay their semester fee only through online mode (using Netbanking, Debit/Credit Card) by login to NITJ ERP System."
+      "responses": [{"type":"text",
+       "text":"NIT Jalandhar BTech fees is INR 5 lakh. This is the tuition fee for all the BTech specialisations. Apart from the tuition fees, candidates also have to pay Hostel Charges and One-time Payable Security Fees. Candidates are advised to visit the official website for more details about fees. \n Students have to pay their semester fee only through online mode (using Netbanking, Debit/Credit Card) by login to NITJ ERP System.",
+       "url" :"https://nitj.ac.in/files/1712224591292-Fee%20Structure%20for%20B.Tech.pdf"
+      }
       ]
     },
     {
@@ -492,11 +983,12 @@
         "Mess timings",
         "What are the mess timings?"
       ],
-      "responses": [{
-        "type":"text",
-        "text":"Mess food is available to hostel students on payment of mess advance fees of Rs 25000 per semester. Menu updated each month by hostel students comittee. Breakfast, lunch, and dinner are served from 8:00am - 9:30am , 12:30pm - 2:00pm and 8:00pm - 9:30pm respectively.Below is the link provided for mess fee structure",
-        "url":"https://nitj.ac.in/files/1721102363690-Mess%20Fee%20Structure%20UG%202024.pdf"
-      }
+      "responses": [
+        {
+          "type": "text",
+          "text": "Mess food is available to hostel students on payment of mess advance fees of Rs 25000 per semester. Menu updated each month by hostel students comittee. Breakfast, lunch, and dinner are served from 8:00am - 9:30am , 12:30pm - 2:00pm and 8:00pm - 9:30pm respectively.Below is the link provided for mess fee structure",
+          "url": "https://nitj.ac.in/files/1721102363690-Mess%20Fee%20Structure%20UG%202024.pdf"
+        }
       ]
     },
     {
@@ -509,6 +1001,10 @@
         "Placement support",
         "training and placement officce",
         "TPO",
+        "tpo",
+        "TpO",
+        "tPo",
+        "TPo",
         "Placement process",
         "Placement opportunities",
         "Campus placements",
@@ -551,15 +1047,660 @@
         "Placement team",
         "placement cell",
         "placement support is offered?"
+        
+
       ],
       "responses": [
         {
           "type": "text",
-          "text": "The Training and Placement Office (TPO) at our institute is dedicated to providing students with the skills, resources, and opportunities to successfully enter the professional world. \n Placement Highlights  : \n- 95% placement rate \n- 12 LPA average package \n- Internship conversion 85% \n- Highest package of Rs 60LPA secured by multiple students.\n- Significant placements in IT, Core Engineering and consulting sectors. \n- Google, Microsoft, Amazon, Nvidia, Infosys, TCS, Wipro, Deloitte, Accenture among the top companies.",
+          "text": "The Training and Placement Office (TPO) at our institute 2nd floor snackers building, is dedicated to providing students with the skills, resources, and opportunities to successfully enter the professional world. \n Placement Highlights  : \n- 95% placement rate \n- 12 LPA average package \n- Internship conversion 85% \n- Highest package of Rs 60LPA secured by multiple students.\n- Significant placements in IT, Core Engineering and consulting sectors. \n- Google, Microsoft, Amazon, Nvidia, Infosys, TCS, Wipro, Deloitte, Accenture among the top companies.",
           "url": "https://ctp.nitj.ac.in/"
         }
       ]
     },
+    {
+      "tag": "Internships",
+      "patterns": [
+        "How do I apply for an internship?",
+        "Where can I find internships?",
+        "Any internship opportunities?",
+        "How to get summer internship?",
+        "Can I do internship in 2nd year?",
+        "Internship how to get?",
+        "I want internship",
+        "When do we get internship?",
+        "What is the process for internship?",
+        "Is internship compulsory?",
+        "Companies offering internships?",
+        "Will I get paid in internship?",
+        "Is there any stipend in internship?",
+        "How to make resume for internship?",
+        "Can I do online internship?",
+        "Are remote internships available?",
+        "Do I need skills for internship?",
+        "How to apply for internship?",
+        "How to get selected in internship?",
+        "What are benefits of internship?",
+        "Any good internship sites?",
+        "Is internship important?",
+        "Can first year students apply for internships?",
+        "Do we get internship certificates?",
+        "What is the duration of internships?",
+        "Who to contact for internship?",
+        "Any help for internship applications?",
+        "Does college help in internships?",
+        "How to prepare for internship interview?",
+        "Is there any internship for electronics students?",
+        "Any internship for CS students?",
+        "Can international students do internship?",
+        "I want remote internship",
+        "Tell me about internship process",
+        "Can I apply without experience?",
+        "What's the benefit of internship?",
+        "How to find good internships?",
+        "Where do we get internship?",
+        "Internship available now?",
+        "Any internships going on?",
+        "Do I need a resume for internship?",
+        "How to get internship with no experience?",
+        "Are internships paid or unpaid?",
+        "Can I do internship after exams?",
+        "Best time to apply for internship?",
+        "Do all companies offer internships?",
+        "Do I need recommendation for internship?",
+        "How do companies select for internship?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Internships can be found through college placement cells, portals like Internshala, LinkedIn, and company websites. To apply, prepare a resume and check eligibility. For help with the process, contact your placement coordinator or visit the college T&P portal.",
+          "url": "https://ctp.nitj.ac.in/index_internship"
+        }
+      ]
+    },
+    
+    {
+      "tag": "Placement_offers_selection",
+      "patterns": [
+        "How many students were placed?",
+        "What is the placement record of NITJ?",
+        "How many students got placed in 2024?",
+        "Placement stats for 2025?",
+        "How are placements at NITJ?",
+        "What's the average package in 2024?",
+        "How are the CSE placements this year?",
+        "How many got placed from ECE department?",
+        "What are the placement numbers for 2024 batch?",
+        "Any company hired students in bulk?",
+        "Which company gave the highest package?",
+        "How many offers were made in 2025?",
+        "Tell me about the top recruiters in 2024",
+        "What’s the placement scenario for electrical this year?",
+        "Is placement good for mechanical students?",
+        "What are the placement stats for IT department?",
+        "How’s the placement for biotech at NITJ?",
+        "Who got the highest placement in 2024?",
+        "Which departments have 100% placement?",
+        "How many PPOs were offered this year?",
+        "Are placements better in 2025 compared to 2024?",
+        "How many students got more than 10 LPA?",
+        "How’s the placement going for final year students?",
+        "What is the median salary offered this year?",
+        "Did foreign companies visit for placements?",
+        "Is Amazon or Google hiring from NITJ?",
+        "How many core companies came in 2024?",
+        "Is placement good for civil engineering?",
+        "Tell me about MBA or MS offers from this year’s batch",
+        "Are placements over or still ongoing?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Placements at NIT Jalandhar have been strong in recent years. For 2024,  students were placed with top companies like Amazon, Infosys, and Deloitte. For more department-wise stats, check the placement cell page.",
+          "url": "https://ctp.nitj.ac.in/index_placements"
+        }
+      ]
+    },
+    {
+      "tag": "deans_contact",
+      "patterns": [
+        "How can I contact the Dean of Academics?",
+        "What is the contact information for the Dean of Academics?",
+        "How do I reach the Dean of Academics?",
+        "Who is the Dean of Academics at NIT Jalandhar?",
+        "How to contact the Dean of Student Welfare?",
+        "What is the contact information for the Dean of Student Welfare?",
+        "How do I reach the Dean of Student Welfare?",
+        "Who is the Dean of Student Welfare?",
+        "How can I contact the Dean of Faculty Welfare?",
+        "What is the contact information for the Dean of Faculty Welfare?",
+        "How do I reach the Dean of Faculty Welfare?",
+        "Who is the Dean of Faculty Welfare?",
+        "How do I contact the Dean of Planning & Development?",
+        "What is the contact information for the Dean of Planning & Development?",
+        "How can I contact the Dean of Planning & Development?",
+        "Who is the Dean of Planning & Development?",
+        "How do I contact the Dean of Research & Consultancy?",
+        "What is the contact information for the Dean of Research & Consultancy?",
+        "How can I contact the Dean of Research & Consultancy?",
+        "Who is the Dean of Research & Consultancy?",
+        "How do I contact the Dean of Industry and International Affairs?",
+        "What is the contact information for the Dean of Industry and International Affairs?",
+        "How can I contact the Dean of Industry and International Affairs?",
+        "Who is the Dean of Industry and International Affairs?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "For contacting the Deans, here is the information:\n\n- **Dean of Academics**: dean.academics@nitj.ac.in\n- **Dean of Student Welfare**: dean.studentwelfare@nitj.ac.in\n- **Dean of Faculty Welfare**: dean.facultywelfare@nitj.ac.in\n- **Dean of Planning & Development**: dean.planning@nitj.ac.in\n- **Dean of Research & Consultancy**: dean.research@nitj.ac.in\n- **Dean of Industry and International Affairs**: dean.industry.international@nitj.ac.in\n\nYou can also reach out to their offices through the official NIT Jalandhar website for any further details.",
+          "url" :"https://www.nitj.ac.in/admin/phonebook.html"
+        }
+      ]
+    },
+    
+      {
+        "tag": "hod_biotechnology",
+        "patterns": [
+          "Who is the HOD of Biotechnology?",
+          "What is the contact email of the Biotechnology HOD?",
+          "How can I contact the HOD of Biotechnology department?",
+          "Where can I find the Biotechnology HOD's office details?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "You can find the HOD of Biotechnology and their contact details on the Department of Biotechnology page.",
+            "url": "https://departments.nitj.ac.in/dept/biotech/home"
+          }
+        ]
+      },
+      {
+        "tag": "hod_chemistry",
+        "patterns": [
+          "Who is the HOD of Chemistry?",
+          "How do I contact the Chemistry HOD?",
+          "What is the email address of the Chemistry department HOD?",
+          "Where can I find details of the Chemistry HOD?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Visit the Department of Chemistry page to see the HOD’s name and contact information.",
+            "url": "https://departments.nitj.ac.in/dept/chemistry/home"
+          }
+        ]
+      },
+      {
+        "tag": "hod_chemical_engineering",
+        "patterns": [
+          "Who is the HOD of Chemical Engineering?",
+          "How can I reach the Chemical Engineering HOD?",
+          "What is the contact email for the Chemical Engineering HOD?",
+          "Where is the Chemical Engineering HOD office?",
+          "hod of chemical?",
+          "hod of chemical enieering?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "The HOD of Chemical Engineering and their contact details are listed on the Chemical Engineering department page.",
+            "url": "https://departments.nitj.ac.in/dept/chemical/home"
+          }
+        ]
+      },
+      {
+        "tag": "hod_civil_engineering",
+        "patterns": [
+          "Who is the HOD of Civil Engineering?",
+          "How do I contact the Civil Engineering HOD?",
+          "What’s the office number of the Civil Engineering HOD?",
+          "Where can I find Civil Engineering HOD details?",
+          "hod of civil?",
+          "hod of civil engineering?"
+
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "You can view the Civil Engineering HOD’s name and contact info on the Civil Engineering department page.",
+            "url": "https://departments.nitj.ac.in/dept/ce/faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_cse",
+        "patterns": [
+          "Who is the HOD of Computer Science and Engineering?",
+          "How can I contact the CSE HOD?",
+          "What is the email of the CSE HOD?",
+          "Where is the CSE HOD’s office located?",
+          "cse hod",
+          "hod of cse",
+          "hod of compter science?",
+          "Hod of cse"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Find the CSE HOD’s contact details on the Computer Science and Engineering department page.",
+            "url": "https://departments.nitj.ac.in/dept/cse/faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_ece",
+        "patterns": [
+          "Who is the HOD of Electronics and Communication Engineering?",
+          "How do I reach the ECE HOD?",
+          "What is the ECE HOD’s email address?",
+          "Where can I find the ECE HOD contact info?",
+          "who is hod of ece??",
+          "hod of ece?",
+          "Hod of ece?",
+          "ece hod"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "The ECE department page lists the HOD’s name and contact information.",
+            "url": "https://departments.nitj.ac.in/dept/ece/Faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_electrical_engineering",
+        "patterns": [
+          "Who is the HOD of Electrical Engineering?",
+          "How to contact the EE HOD?",
+          "What’s the email of the Electrical Engineering HOD?",
+          "Where is the EE HOD office?",
+          "Hod of ee?",
+          "hod of ee?",
+          "Hod of electrical?",
+          "hod of electrical?"
+
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Visit the Electrical Engineering department page for the HOD’s contact details.",
+            "url": "https://departments.nitj.ac.in/dept/ee/Faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_humanities_management",
+        "patterns": [
+          "Who is the HOD of Humanities and Management?",
+          "How can I contact the H&M HOD?",
+          "What is the email for the Humanities and Management HOD?",
+          "Where do I find the H&M HOD’s office details?",
+          "hod of humanities?",
+          "Hod of management?",
+          "management Hod?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "The Humanities and Management department page provides the HOD’s name and contact information.",
+            "url": "https://departments.nitj.ac.in/dept/hm/Faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_industrial_production_engineering",
+        "patterns": [
+          "Who is the HOD of Industrial and Production Engineering?",
+          "How do I contact the IPE HOD?",
+          "What’s the email of the IPE HOD?",
+          "Where can I find IPE HOD contact info?",
+          "hod of ip?",
+          "hod of Ip?",
+          "Hod of Ipe?"
+
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Find the IPE HOD’s contact details on the Industrial and Production Engineering department page.",
+            "url": "https://departments.nitj.ac.in/dept/ipe/Faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_it",
+        "patterns": [
+          "Who is the HOD of Information Technology?",
+          "How can I reach the IT HOD?",
+          "What is the email of the IT HOD?",
+          "Where is the IT HOD office?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "The Information Technology department page lists the HOD’s name and contact details.",
+            "url": "https://departments.nitj.ac.in/dept/it/faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_ice",
+        "patterns": [
+          "Who is the HOD of Instrumentation and Control Engineering?",
+          "How do I contact the ICE HOD?",
+          "What is the email of the ICE HOD?",
+          "Where can I find ICE HOD contact info?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Visit the Instrumentation and Control Engineering page to see the HOD’s contact information.",
+            "url": "https://departments.nitj.ac.in/dept/ice/Faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_math_computing",
+        "patterns": [
+          "Who is the HOD of Mathematics and Computing?",
+          "How can I contact the M&C HOD?",
+          "What is the email of the Mathematics and Computing HOD?",
+          "Where is the M&C HOD office?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "The Mathematics and Computing department page provides the HOD’s name and contact details.",
+            "url": "https://departments.nitj.ac.in/dept/ma/Faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_mechanical_engineering",
+        "patterns": [
+          "Who is the HOD of Mechanical Engineering?",
+          "How do I reach the ME HOD?",
+          "What’s the email address of the ME HOD?",
+          "Where can I find Mechanical Engineering HOD details?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Check the Mechanical Engineering department page for the HOD’s contact information.",
+            "url": "https://departments.nitj.ac.in/dept/me/faculty"
+          }
+        ]
+      },
+      {
+        "tag": "hod_physics",
+        "patterns": [
+          "Who is the HOD of Physics?",
+          "How can I contact the Physics HOD?",
+          "What is the email of the Physics HOD?",
+          "Where is the Physics HOD’s office?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "Visit the Physics department page to see the HOD’s name and contact details.",
+            "url": "https://departments.nitj.ac.in/dept/physics/home"
+          }
+        ]
+      },
+      {
+        "tag": "hod_textile_technology",
+        "patterns": [
+          "Who is the HOD of Textile Technology?",
+          "How do I contact the Textile Technology HOD?",
+          "What’s the email of the Textile Technology HOD?",
+          "Where can I find Textile Technology HOD details?"
+        ],
+        "responses": [
+          {
+            "type": "text",
+            "text": "The Textile Technology department page lists the HOD’s name and contact information.",
+            "url": "https://departments.nitj.ac.in/dept/tt/Faculty"
+          }
+        ]
+      },
+    
+    {
+      "tag": "stay_during_vacation",
+      "patterns": [
+        "Can I stay in the hostel during the vacation?",
+        "Is it allowed to stay in the hostel during holidays?",
+        "Can I remain in the hostel when college is on vacation?",
+        "Can first-year students stay in the hostel during the semester break?",
+        "Are hostel rooms open during the vacation?",
+        "Can I stay in the hostel during the winter break?",
+        "Can I stay in the hostel during the summer break?",
+        "Is there any permission needed to stay in the hostel during holidays?",
+        "How can I stay in the hostel during vacations?",
+        "Can I extend my stay in the hostel after the semester ends?",
+        "Is it possible to stay in the hostel during the break?",
+        "Are hostel facilities available during vacations?",
+        "What is the process to stay in the hostel during vacation?",
+        "Can I stay in the hostel if I don’t go home during the break?",
+        "Is there any extra fee to stay in the hostel during vacations?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes, it is possible to stay in the hostel during vacations, but prior permission from the hostel authorities is required. You may need to submit a request and, in some cases, pay an additional fee for extended stay during the break. Please contact your hostel warden or the hostel office for more details and the application process."
+        }
+      ]
+    },
+    {
+      "tag": "reading_research_publications",
+      "patterns": [
+        "How can I read research publications as a student?",
+        "Where can I access the research papers published by NITJ faculty?",
+        "How do I start reading research papers?",
+        "Is there a portal for students to read NITJ publications?",
+        "Can I access IEEE or Springer papers through college?",
+        "How to find research work done in my department?",
+        "Are NITJ thesis or dissertations publicly accessible?",
+        "What platforms are available to read technical papers?",
+        "Does the central library provide access to research journals?",
+        "How to use NITJ’s digital library to read publications?",
+        "Can I download research papers for free as an NITJ student?",
+        "Where do I find the latest research publications from NITJ?",
+        "admission helpline?",
+    "admission number?",
+    "call for admission?",
+    "admission contact?",
+    "who to call for admission?",
+    "email for admission?",
+    "talk to admission office?",
+    "admission query contact?",
+    "phone number for admission?",
+    "contact nitj admission?",
+    "where admission office?",
+    "need admission help!",
+    "help me admission!",
+    "admission support number?",
+    "someone help admission?",
+    "call nitj admission?",
+    "admission issues contact?",
+    "email nitj admission?",
+    "whatsapp admission?",
+    "nitj admission help?",
+    "how talk admission dept?",
+    "talk to someone admission?",
+    "contact for admission problem?",
+    "i have admission doubt",
+    "how contact nitj for admission?",
+    "call for admission queries?",
+    "anyone help admission?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "You can explore research publications by NITJ faculty and students via the [Institute Research Portal](https://www.nitj.ac.in/research/publications) or use the Central Library’s digital resources for access to journals like IEEE, Springer, ScienceDirect, etc.",
+          "url" : "https://nitj.ac.in/research/research_publications.html"
+        }
+      ]
+    },
+    {
+      "tag": "admission_helpline",
+      "patterns": [
+        "What is the admission helpline number?",
+        "How can I contact the NITJ admission cell?",
+        "Is there an email for admission-related queries?",
+        "Whom should I contact for help with admission?",
+        "Is there any admission support number for students?",
+        "Can I talk to someone regarding admission issues?",
+        "Is there a dedicated team for admission queries?",
+        "Admission helpline contact details please",
+        "Who to reach out to for admission problems?",
+        "Help me contact the admission office",
+        "Where do I call for admission-related assistance?",
+        "Does NITJ have an admission enquiry number?",
+        "What is the official contact number for admissions?",
+        "How do I get in touch with the admission department?",
+        "I need help with admission, is there a helpline?",
+        "Where can I raise my doubts about the admission process?",
+        "How to resolve issues related to admission?",
+        "Can I visit the admission office in person?",
+        "Where is the admission office located?",
+        "Is there any contact for admission grievances?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "For admission-related queries, you can contact the NITJ admission helpline at [Insert Helpline Number] or email at [Insert Admission Email]. For more details, visit the official NITJ admission page.",
+          "url" :"https://www.nitj.ac.in/admissions/contactDetails.html"
+        }
+      ]
+    },
+    
+    
+    {
+      "tag": "registrar_hours",
+      "patterns": [
+        "What are the office hours of the registrar?",
+        "When is the registrar available?",
+        "Can I meet the registrar right now?",
+        "When does the registrar come to office?",
+        "How to meet the registrar?",
+        "Is the registrar available today?",
+        "Timing of registrar's office?",
+        "Where can I find the registrar?",
+        "Is registrar sir in college today?",
+        "Registrar office open kab hoti hai?",
+        "When is the best time to visit the registrar?",
+        "Can I meet the registrar after lunch?",
+        "Registrar ki lunch break kab hoti hai?",
+        "Kya registrar weekend pe milte hai?",
+        "Will the registrar be free in evening?",
+        "How do I book an appointment with registrar?",
+        "What’s the schedule of the registrar?",
+        "Can I just walk into registrar office?",
+        "How long does the registrar stay in office?",
+        "Registrar bhaiya se kaise milu?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "The Registrar is usually available during working hours on weekdays, typically from 9:00 AM to 5:30 PM, with a lunch break in between. For specific appointments or confirmations, it's best to contact the administrative office first.",
+          "url": "https://www.nitj.ac.in/admin/registrar.html"
+        }
+      ]
+    },
+    {
+      "tag": "director_office",
+      "patterns": [
+        "How can I meet the Director?",
+        "What are the office hours of the Director?",
+        "Is the Director in college today?",
+        "When can I visit the Director’s office?",
+        "Can students meet the Director?",
+        "Where is the Director’s office?",
+        "How to get an appointment with the Director?",
+        "Kya Director sir se mil sakte hai?",
+        "Director kab free hote hai?",
+        "What is the timing of Director’s office?",
+        "Do I need permission to meet the Director?",
+        "Is the Director available in evening?",
+        "Can first year students meet the Director?",
+        "Director sir se baat kaise karein?",
+        "Do we need reason to visit Director’s office?",
+        "Director office kis block mein hai?",
+        "I want to share an idea with the Director. How?",
+        "Can I send a mail to Director sir?",
+        "How to raise a complaint to the Director?",
+        "Is the Director friendly with students?",
+        "office hours of the director",
+        "office hours of the Director?",
+        "office hour of the director"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "The Director's office is usually open during official working hours (9:00 AM – 5:30 PM, weekdays). For any meeting, it’s best to take a prior appointment through the administrative office or email.",
+          "url": "https://www.nitj.ac.in/admin/director.html"
+        }
+      ]
+    },
+    {
+      "tag": "reset_nitj_email_password",
+      "patterns": [
+        "How can I reset my NITJ email password?",
+        "What steps do I need to follow to reset my NITJ email password?",
+        "I forgot my NITJ email password, can you help me reset it?",
+        "Can you guide me on how to reset my password for NITJ email?",
+        "How do I change my NITJ email password?",
+        "What is the process to recover my NITJ email account if I forgot my password?",
+        "I am unable to access my NITJ email, how can I reset the password?",
+        "What should I do if I forget the password to my NITJ email account?",
+        "Can I recover my NITJ email password online? What’s the process?",
+        "How do I reset my NITJ email password after forgetting it?",
+        "Is there a password recovery option for NITJ email?",
+        "Can I change my NITJ email password through the official portal?",
+        "What are the steps to follow to reset my NITJ email password?",
+        "How can I recover my NITJ email password using my student ID?",
+        "Where can I go to reset my NITJ email password if I cannot remember it?",
+        "What to do if I’ve lost my NITJ email password? Can I reset it?",
+        "What is the password reset link for my NITJ email?",
+        "How long does it take to reset the password for NITJ email?",
+        "Can you explain the password reset procedure for NITJ email?",
+        "Do I need to contact IT support to reset my NITJ email password?",
+        "I cannot access my NITJ email, how can I recover or reset the password?",
+        "reset nitj email pwd",
+        "forgot nitj mail pwd",
+        "reset email password nitj",
+        "nitj email login issue",
+        "email password lost nitj",
+        "cant login nitj email",
+        "nitj mail password change",
+        "help me reset nitj email",
+        "nitj email forgot pwd",
+        "nitj mail recovery",
+        "mine nitj mail pwd lost",
+        "reset my nitj mail now",
+        "lost nitj email login",
+        "forget nitj email pass",
+        "need new nitj email password",
+        "nitj email not working",
+        "help reset nitj mail pass",
+        "nitj email account locked",
+        "how to get nitj email back",
+        "nitj email pwd plz",
+        "nitj email pass recover",
+        "nitj mail reset link",
+        "cant remember nitj email pwd"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "To reset your NITJ email password, please visit the official NITJ IT support portal and follow the password recovery instructions. You will need your student ID and registered mobile number or alternate email for verification. If you face any issues, contact the IT helpdesk at ithelp@nitj.ac.in.",
+          "url": "https://v1.nitj.ac.in/erp/forgot_password"
+        }
+      ]
+    },
+    
+    
+    
     {
       "tag": "extracurricular_activities",
       "patterns": [
@@ -734,8 +1875,12 @@
         "contact of director",
         "contact of registrar",
         "contact of deans",
-        "contact of DSW"
-
+        "contact of DSW",
+        "how to contact medical officer?",
+        "how to contact Medical Officer?",
+        "how to contact clerk?",
+        "how to contact hostel wardern",
+        "how to deans?"
       ],
       "responses": [
         {
@@ -857,7 +2002,44 @@
         "Where can I find the academic calendar?",
         "Academic year schedule",
         "Academic calander for odd semester",
-        "Academic calander for even semester"
+        "Academic calander for even semester",
+        "When will the mid-term exams be held?",
+        "How long is the winter break?",
+        "When is the summer vacation?",
+        "What are the dates for the upcoming holidays?",
+        "When is the next public holiday in the academic calendar?",
+        "What is the schedule for the summer semester?",
+        "Can I get the exam schedule for the current semester?",
+        "When is the final exam period for this year?",
+        "What are the important dates for this academic year?",
+        "When does the next academic session begin?",
+        "What is the holiday list for this academic year?",
+        "Is the academic calendar available for download?",
+        "Where can I find the semester-wise schedule?",
+        "When is the upcoming semester break?",
+        "What dates are the semester breaks for this year?",
+        "Is there a gap between semesters this year?",
+        "What dates are the winter and summer vacations?",
+        "What is the end date for the current semester?",
+        "When does the registration for the next semester begin?",
+        "Are there any holidays during the next semester?",
+        "How many holidays are there during the current semester?",
+        "When is the next session of exams?",
+        "Is there any holiday between mid-term and final exams?",
+        "What is the schedule for the holiday season?",
+        "Where can I find a list of the upcoming term breaks?",
+        "How many terms are there in the academic year?",
+        "When is the orientation program for the new academic year?",
+        "Is there a gap between odd and even semester?",
+        "When are the inter-semester holidays this year?",
+        "What dates are fixed for registration and classes?",
+        "Is there a break before or after the exams?",
+        "When does the orientation for new students start?",
+        "How many long weekends are there in this academic year?",
+        "When is the next winter session?",
+        "Is there a mid-semester break?",
+        "Can I check the academic schedule for the upcoming year?",
+        "What are the dates for university convocations?"
       ],
       "responses": [
         {
@@ -867,6 +2049,187 @@
         }
       ]
     },
+    {
+      "tag": "hostel_leave_application",
+      "patterns": [
+        "How do I apply for hostel leave?",
+        "What is the procedure to get hostel leave?",
+        "Where can I apply for hostel leave?",
+        "I want to request hostel leave",
+        "Hostel leave application process",
+        "How to submit a hostel leave form?",
+        "Where do I find the hostel leave form?",
+        "What documents are needed for hostel leave?",
+        "Do I need permission for hostel leave?",
+        "How many days in advance to apply for hostel leave?",
+        "Can I apply for weekend hostel leave?",
+        "Is online hostel leave application available?",
+        "How to get approval for hostel leave?",
+        "Whom should I contact for hostel leave?",
+        "How to download the hostel leave form?",
+        "What is the deadline to apply for hostel leave?",
+        "How to cancel my hostel leave request?",
+        "Can I extend my hostel leave?",
+        "How to check status of hostel leave application?",
+        "Do I have to meet the warden for hostel leave?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "To apply for hostel leave, you need to contact your hostel attendent and ask for leave form and fill your detials and leave will be alloted."
+        }
+      ]
+    },
+    {
+      "tag": "hostel_authorities_contact",
+      "patterns": [
+        "How do I contact my hostel warden?",
+        "Where can I find the hostel office phone number?",
+        "Whom should I reach out to for hostel issues?",
+        "Contact details for hostel authorities",
+        "How to get in touch with the hostel superintendent?",
+        "Who is the hostel in-charge and how can I contact them?",
+        "Email address of my hostel warden",
+        "Phone number of the hostel mess manager",
+        "How do I report a problem in my hostel room?",
+        "Who handles hostel complaints and how to contact?",
+        "How can I reach the hostel office after hours?",
+        "Contact information for the chief warden",
+        "How do I email the hostel administration?",
+        "Who is the deputy warden and what’s their number?",
+        "Where do I go for urgent hostel assistance?",
+        "How to call the girls’ hostel warden?",
+        "Contact the boys’ hostel superintendent",
+        "How do I get the hostel emergency contact?",
+        "How can I message the hostel wardens?",
+        "Where do I find the hostel office extension number?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "You can contact your hostel warden or superintendent via the NITJ ERP portal under ‘Hostel → Contact Details’. For urgent issues, call the Chief Warden  or email warden.office@nitj.ac.in. Each hostel’s specific warden details are listed on the hostel notice board and ERP directory.",
+          "url" :"https://www.nitj.ac.in/lifeAtNitj/hostel.html"
+        }
+      ]
+    },
+    {
+      "tag": "counselling_start",
+      "patterns": [
+        "When does counselling start?",
+        "When will the counselling process begin?",
+        "What is the start date for counselling?",
+        "When does JOSAA counselling start?",
+        "When will CSAB counselling open?",
+        "When can I register for counselling?",
+        "When does seat allocation counselling begin?",
+        "When does the admissions counselling start?",
+        "When will the online counselling portal open?",
+        "What date does counselling begin?",
+        "When does counselling for 2024 admissions start?",
+        "When does counselling for 2025 batch start?",
+        "When will the counselling sessions kick off?",
+        "When is the counselling scheduled to start?",
+        "When does the first round of counselling begin?",
+        "When will the special counselling rounds start?",
+        "When will the counselling registration open?",
+        "When does the central counselling process start?",
+        "When do counselling registrations close?",
+        "When does the counselling timeline begin?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Counselling for admissions typically begins shortly after the results are declared. For the latest dates and registration opening, please check the official counselling portal (JOSAA or CSAB) or visit the NITJ admissions page."
+        }
+      ]
+    },
+    {
+      "tag": "latest_notices",
+      "patterns": [
+        
+        "Where can I find the latest official notices from NIT Jalandhar?",
+        "How do I check the recent announcements or notices made by the institute?",
+        "Is there any webpage or portal where NITJ posts all the important notices?",
+        "Can someone tell me where the notices related to exams, holidays, or events are uploaded?",
+        "Where are the latest college circulars or news updates posted for students?",
+        "Where can I regularly check for updates from the administration or departments?",
+        "How do I stay informed about the latest events or academic changes in NITJ?",
+        "What is the link for the NIT Jalandhar online notice board?",
+        "I missed some announcements recently. Where can I find the past notices?",
+        "Where does NITJ usually post urgent announcements for students?",
+        "How can I find the recent circulars about examinations or class schedules?",
+        "Where to check NITJ notifications regarding hostel, academics, or placements?",
+        "What’s the official platform where all recent student notices are published?",
+        "How can I keep track of college notices if I’m not regularly checking my email?",
+        "Is there a section on the website dedicated to NITJ student updates and notices?",
+        "Where do I go to check for important NITJ academic or admin notices?",
+        "Where to look for any changes in class timetable or college events?",
+        "Where can I check for today’s notices if I was absent from class?",
+        "Can I access the official college announcements on my phone or mobile device?",
+        "Is there a notice section for upcoming events and college fests at NITJ?",
+        
+        
+        "where is notice board of nitj",
+        "latest nitj notices",
+        "recent updates nitj",
+        "where to see notices",
+        "notice board link nitj",
+        "how to see notices",
+        "i want recent notices",
+        "missed some notices",
+        "check circulars where",
+        "notice section nitj",
+        "college updates pls",
+        "see noticeboard",
+        "how to know notices",
+        "is there update",
+        "update section",
+        "latest info nitj",
+        "notices today",
+        "notices posted where",
+        "exam notice link",
+        "placement notice page",
+        "hostel notice where",
+        "daily updates where",
+        "notices online",
+        "check notice fast",
+        "missed update",
+        "notices now",
+        "all updates page",
+        "link of notice",
+        "notice pls",
+        "where is all updates",
+        "college notice where",
+        "online notice nitj",
+        "notice board where bro",
+        "update mila kya",
+        "recent notice check",
+        "latest circulars pls",
+        "how to track notice",
+        "event notice link",
+        "announcement page?",
+        "any new notice?",
+        "where to find updates",
+        "bro notice kaha hai",
+        "plz send notice link"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Below is the link provided for the latest notices and updates feel free to visit.",
+          "url" : "https://www.nitj.ac.in/admin/notices.html"
+        }
+      ]
+
+    },
+    
+    
+    
+    
+    
+    
+    
+    
     {
       "tag": "course_syllabus_results",
       "patterns": [
@@ -1154,7 +2517,95 @@
         "utkansh",
         "Utkansh fest of NIT Jalandhar",
         "culturaal fest",
-        "annual cultural fest"
+        "annual cultural fest",
+        "Utkansh fest of NIT Jalandhar",
+        "cultural fest",
+        "annual cultural fest",
+        "what is Utkansh fest?",
+        "what happens in Utkansh at NITJ?",
+        "when is Utkansh held at NIT Jalandhar?",
+        "what events are there in Techniti?",
+        "does NIT Jalandhar host a cultural fest?",
+        "what's the name of NITJ annual fest?",
+        "is there a technical festival at NITJ?",
+        "details of tech fest at nit jalandhar",
+        "describe Utkansh",
+        "describe Techniti",
+        "cultural events of NITJ?",
+        "how can I participate in Utkansh?",
+        "how can I take part in the tech fest?",
+        "does NITJ organize Techniti?",
+        "festivals in NIT Jalandhar",
+        "how to register for Utkansh?",
+        "how to register for Techniti?",
+        "what's the schedule for Utkansh?",
+        "what's the schedule for Techniti?",
+        "is Utkansh open to other colleges?",
+        "is Techniti open to outside students?",
+        "which month is Utkansh celebrated?",
+        "which month does Techniti happen?",
+        "tell me about the annual fests in NITJ",
+        "do we have both technical and cultural fests?",
+        "when is nit jalandhar's annual fest?",
+        "events under Utkansh?",
+        "events under Techniti?",
+        "where to find Utkansh event list?",
+        "where to find Techniti event details?",
+        "can anyone join Utkansh?",
+        "can anyone join Techniti?",
+        "is Techniti compulsory for students?",
+        "does NITJ conduct any tech events?",
+        "fest names of nit jalandhar?",
+        "student fests at NIT Jalandhar?",
+        "annual events NITJ hosts?",
+        "Can you tell me what the Utkansh fest is all about at NIT Jalandhar?",
+        "What types of events take place during the Techniti tech fest at NIT Jalandhar?",
+        "When is the Utkansh cultural fest usually organized by NITJ every year?",
+        "Is the Techniti fest open to students from other colleges too?",
+        "Where can I find the official schedule and list of events for Utkansh?",
+        "How can I participate in Utkansh events if I’m not from NIT Jalandhar?",
+        "Could you give me a detailed overview of the Utkansh fest at NITJ?",
+        "When will the Techniti fest be held this year at NIT Jalandhar?",
+        "Is there any online registration for the Techniti tech fest at NIT Jalandhar?",
+        "What kind of competitions are there in the Utkansh cultural fest?",
+        "How can I register for events in Utkansh or Techniti?",
+        "Are there any workshops or technical events included in Techniti?",
+        "Can I attend Utkansh events if I am from another college?",
+        "What’s the process for registering for the Utkansh fest at NIT Jalandhar?",
+        "Is Utkansh open for alumni or just current students of NIT Jalandhar?",
+        "What is the main theme of the Techniti tech fest this year?",
+        "Does the Utkansh fest at NIT Jalandhar have any celebrity performances?",
+        "Are there any hackathons or coding competitions during Techniti?",
+        "Where can I check the list of performers for the cultural fest Utkansh?",
+        "How can I get more information about events happening at Techniti?",
+        "Is Utkansh open for students from all departments of NIT Jalandhar?",
+        "What’s the schedule for cultural programs during Utkansh?",
+        "Does Techniti feature competitions like robotics or coding challenges?",
+        "How can I volunteer for Utkansh or Techniti at NIT Jalandhar?",
+        "What events or activities are included under the technical fest Techniti?",
+        "When are the registrations opening for Utkansh or Techniti?",
+        "Is there any participation fee for attending Utkansh events?",
+        "Can I showcase my startup or project at Techniti fest?",
+        "Are there any specific requirements to participate in Utkansh or Techniti?",
+        "How do I get the schedule and full list of events for Techniti?",
+        "Can people from outside NIT Jalandhar attend the Utkansh fest?",
+        "What is the annual theme for Utkansh fest at NIT Jalandhar?",
+        "Is there a guest speaker session at the Techniti tech fest?",
+        "Can we register for multiple events during Utkansh?",
+        "What is the registration deadline for participating in Techniti?",
+        "Does Techniti include both technical and cultural events?",
+        "Is there a performance stage for music and dance at Utkansh?",
+        "What events are available for students interested in coding during Techniti?",
+        "Can I participate in Utkansh even if I am a first-year student?",
+        "What is the process for organizing events for Techniti or Utkansh?",
+        "How can I find a list of winners from last year’s Techniti or Utkansh?",
+        "How can I get involved in the tech workshops happening at Techniti?",
+        "Does Utkansh include competitions in photography or art?",
+        "Are there any registration instructions for participants in Utkansh?",
+        "Can we get certificates for participating in Techniti or Utkansh?",
+        "What’s the maximum number of events a person can participate in during Utkansh?",
+        "How long does each event last during the Utkansh or Techniti fests?",
+        "Are food stalls available at the Utkansh or Techniti fests?"
       ],
       "responses": [
         {
@@ -1169,6 +2620,138 @@
         }
       ]
     },
+    {
+      "tag": "branches_offered",
+      "patterns": [
+        "What branches are offered at NITJ?",
+        "List all B.Tech branches at NIT Jalandhar",
+        "Which engineering disciplines does NITJ have?",
+        "Tell me the UG branches in NITJ",
+        "What undergraduate programs are available?",
+        "Which B.Tech streams can I study at NITJ?",
+        "NITJ branch list",
+        "Show me all courses in engineering at NIT Jalandhar",
+        "All engineering branches of NITJ",
+        "Which branches does NIT Jalandhar offer?",
+        "Undergraduate engineering programs at NITJ",
+        "What specializations are there in B.Tech?",
+        "BTech branch options at NITJ",
+        "What streams can I pick for B.Tech at NIT Jalandhar?",
+        "Give me the list of engineering branches",
+        "CSE, ECE, ME, CE—are these all offered?",
+        "Does NITJ offer IT branch?",
+        "Is Biotech offered at NITJ?",
+        "What departments are there in NITJ engineering?",
+        "Which disciplines can I enroll in for B.Tech?",
+        "What are the core engineering branches at NITJ?",
+        "Tell me about mechanical, civil, electrical at NITJ",
+        "Does NITJ have Chemical Engineering?",
+        "List of all NITJ B.Tech specializations",
+        "Which branches can first-year students choose?",
+        "What are the streams available for freshers?",
+        "Which majors does NITJ offer in engineering?",
+        "Engineering branch catalog NITJ",
+        "Branch offerings for B.Tech 2025 at NITJ",
+        "What academic programs in engineering does NIT Jalandhar run?",
+        "All UG specializations at NITJ",
+        "Do they have Instrumentation and Control?",
+        "What about Industrial Production branch?",
+        "What’s the full list of engineering fields at NITJ?",
+        "Which branches are open for admission?",
+        "What engineering options are on the table?",
+        "Show me every branch you have",
+        "What courses does NITJ’s engineering dept. offer?",
+        "All technology branches at NITJ",
+        "Which B.Tech courses are active now?",
+        "Can I see a list of available majors?",
+        "Engineering disciplines list",
+        "What are the program offerings in engineering?",
+        "What different fields of engineering at NIT Jalandhar?",
+        "What specializations exist under UG engineering?",
+        "Which engineering programs can I apply for?",
+        "Name all B.Tech branches at NITJ",
+        "Detail all engineering majors here",
+        "How many branches does NITJ have?",
+        "Engineering branch directory NITJ",
+        "List tech branches at NITJ",
+        "What departments are part of the engineering faculty?",
+        "Which engineering areas are taught here?",
+        "Tell me all streams in B.Tech at NitJ"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "NIT Jalandhar offers the following B.Tech branches: Civil Engineering, Mechanical Engineering, Electrical Engineering, Electronics & Communication Engineering, Computer Science & Engineering, Information Technology, Chemical Engineering, Biotechnology, Instrumentation & Control Engineering, Industrial & Production Engineering, and Mathematics & Computing. For more details, visit the official branches page.",
+          "url": "https://www.nitj.ac.in/academics/branches.html"
+        }
+      ]
+    },
+    {
+      "tag": "department_electives",
+      "patterns": [
+        "What department electives are available?",
+        "What electives can I choose for my department?",
+        "List of department electives offered",
+        "Which electives are available for CSE students?",
+        "Are there electives for electrical engineering?",
+        "Elective options for civil engineering students",
+        "Can I select electives in computer science?",
+        "What are the available electives for mechanical engineering?",
+        "Show me the electives in the IT department",
+        "Which electives are available in the electronics department?",
+        "Department elective list NIT Jalandhar",
+        "What electives are there for Biotechnology students?",
+        "Tell me about the electives for engineering students",
+        "Can I choose electives in the first year?",
+        "Which electives can I pick in the second year?",
+        "Are there any electives in the electrical engineering department?",
+        "What electives are available in the electronics and communication department?",
+        "Electives in the civil engineering department",
+        "Can I choose electives in my branch?",
+        "What are the options for electives in computer science?",
+        "Is there a list of department electives for me?",
+        "What electives can I take for my engineering degree?",
+        "Are elective courses available for B.Tech students?",
+        "Can I select electives for my course?",
+        "What elective courses are available in the mechanical engineering department?",
+        "Department elective offerings for all branches",
+        "What are the elective courses in NITJ?",
+        "Departmental elective courses list",
+        "Do engineering students get to choose electives?",
+        "Elective options for computer science and engineering",
+        "Are there electives for electrical engineers?",
+        "Which electives should I select for my department?",
+        "What elective subjects are offered?",
+        "Which electives can civil engineering students choose?",
+        "List all electives available in each department",
+        "Which department offers electives in data science?",
+        "What elective subjects are there for the IT department?",
+        "What electives does the mechanical engineering department offer?",
+        "Are there electives for the chemical engineering department?",
+        "Tell me all the elective options for my department",
+        "Do students have the freedom to choose electives in NITJ?",
+        "What courses can I choose as department electives?",
+        "Department electives for first-year students",
+        "What electives are available in the civil department?",
+        "Can I take an elective in the third year?",
+        "What electives are offered in the electrical department?",
+        "Is it possible to choose electives in civil engineering?",
+        "Are electives part of the course?",
+        "Can you show me electives offered in electrical engineering?",
+        "Are department electives a part of the B.Tech program?",
+        "Which branch electives can I select?",
+        "Department electives for computer science",
+        "Are there electives for IT students?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "The department electives available at NIT Jalandhar vary by department. Some popular electives include advanced programming, data science, artificial intelligence, machine learning, network security, embedded systems, and more. You can select electives based on your department and interests. For a complete list, please refer to the course catalog on the official NIT Jalandhar website."
+        }
+      ]
+    },
+    
+    
     {
       "tag": "medical_facility",
       "patterns": [
@@ -1313,8 +2896,32 @@
         "location",
         "address of college",
         "where is nit jalandhar situated",
-        "location of campus"
-      ],
+        "location of campus",
+        "How do I reach NITJ?",
+        "What is the best way to get to NIT Jalandhar?",
+        "Can you tell me how to reach NITJ from the airport?",
+        "How can I get to NIT Jalandhar by bus?",
+        "What is the nearest railway station to NITJ?",
+        "How far is NITJ from Jalandhar railway station?",
+        "Is there a direct bus to NIT Jalandhar from the airport?",
+        "What is the distance from Jalandhar city to NITJ?",
+        "Can I take a taxi from Jalandhar to NITJ?",
+        "How do I reach NITJ from Ludhiana?",
+        "What are the transportation options to NIT Jalandhar?",
+        "How do I get to NITJ from the nearest metro station?",
+        "What is the address of NIT Jalandhar?",
+        "Is there a pickup facility from the railway station to NITJ?",
+        "How can I travel from the bus stand to NITJ?",
+        "What is the best route to NIT Jalandhar by road?",
+        "How long does it take to reach NITJ from the Jalandhar bus station?",
+        "Can I reach NITJ directly from Delhi by bus or train?",
+        "What is the easiest way for a first-time student to reach NITJ?",
+        "Can I use Google Maps to navigate to NIT Jalandhar?",
+        "How do I reach the NITJ campus from the nearest airport?",
+        "Where can I find public transport to NIT Jalandhar?",
+        "How can I get a cab from Jalandhar to NITJ?",
+        "What are the local transportation facilities available near NITJ?"
+          ],
       "responses": [
         {
           "type": "text",
@@ -1377,7 +2984,27 @@
         "who is Director of NIT Jalandhar",
         "who is the director of college",
         "what is the name of the director of college",
-        "email of director"
+        "email of director",
+        "Can you tell me who is the current director of NIT Jalandhar?",
+        "Who holds the position of director at NIT Jalandhar currently?",
+        "What is the name of the director of NIT Jalandhar as of now?",
+        "Could you provide the contact details or email address of the director of NIT Jalandhar?",
+        "How can I reach the director of NIT Jalandhar for official matters?",
+        "I am looking for the director's name of NIT Jalandhar, could you help?",
+        "What is the official email ID of the director of NIT Jalandhar for contacting him/her?",
+        "Could you share some information regarding the current director of NIT Jalandhar?",
+        "Who is the head or director of NIT Jalandhar and how do I contact them?",
+        "Can you provide me with the name and contact details of the director of NITJ?",
+        "How can I email the director of NIT Jalandhar for an academic inquiry?",
+        "What are the responsibilities of the director of NIT Jalandhar?",
+        "Can I get the profile of the director of NIT Jalandhar, including their educational background?",
+        "Is there any way to directly communicate with the director of NIT Jalandhar for student-related queries?",
+        "What is the role of the director in NIT Jalandhar and how can students reach out to them?",
+        "Could you tell me more about the qualifications and background of the current director of NIT Jalandhar?",
+        "Who is responsible for making key academic decisions at NIT Jalandhar? Is it the director?",
+        "Where can I find more information about the director of NIT Jalandhar and their responsibilities?",
+        "What is the official contact information for the director of NIT Jalandhar if I need to get in touch?",
+        "How can students reach the director of NIT Jalandhar if they have important queries or concerns?"
       ],
       "responses": [
         {
@@ -1457,7 +3084,7 @@
       ]
     },
     {
-      "tag": "elective_choices",
+      "tag": "open_elective_choices",
       "patterns": [
         "how to choose electives",
         "change my elective course",
@@ -1465,7 +3092,64 @@
         "elective registration deadline",
         "open elective vs department elective",
         "drop an elective",
-        "elective"
+        "elective",
+        "What are open electives?",
+        "What open electives are available?",
+        "Which open electives can I choose?",
+        "List of open electives available",
+        "Are there open electives for engineering students?",
+        "What are the available open electives in NITJ?",
+        "Can I take open electives from other departments?",
+        "What open electives can be taken by all branches?",
+        "Which open electives can B.Tech students choose?",
+        "Are open electives available for first-year students?",
+        "Can I select open electives for my course?",
+        "What are the open electives for computer science students?",
+        "Tell me about the open electives in NIT Jalandhar",
+        "Are there open electives in NITJ for non-engineering students?",
+        "Can I choose open electives from other fields?",
+        "What are the options for open electives in NITJ?",
+        "What subjects are included in open electives?",
+        "Can I choose open electives outside my department?",
+        "Which open electives are available in the second year?",
+        "Are open electives offered for the first-year students?",
+        "How many open electives are offered in NITJ?",
+        "What are the open electives for mechanical engineering students?",
+        "Is it possible to take open electives from other departments?",
+        "What open electives are available for civil engineering students?",
+        "Are open electives available for postgraduate students?",
+        "What is the list of open electives available for students?",
+        "Can I take an open elective in the third year?",
+        "What are the open electives for electrical engineering students?",
+        "Can I select open electives based on my interests?",
+        "What kind of open electives are available for students?",
+        "Can I pick open electives from any department?",
+        "Which departments offer open electives?",
+        "Are there any open electives for students in all fields?",
+        "Can I take an open elective in the third semester?",
+        "What open electives can I take for my B.Tech degree?",
+        "Are open electives available for undergraduate students?",
+        "Which open electives are available for master’s students?",
+        "Are there any language-based open electives?",
+        "Can I choose open electives related to entrepreneurship?",
+        "Which open electives are available in data science?",
+        "What are the open electives in artificial intelligence?",
+        "Can I take an open elective in machine learning?",
+        "Are there open electives related to business and management?",
+        "Can I choose electives in areas like economics and finance?",
+        "Are open electives related to ethics and social studies available?",
+        "What are the humanities-based open electives?",
+        "What are the electives available in the field of technology?",
+        "Can I take an open elective in software engineering?",
+        "Which open electives can be chosen in the final year?",
+        "What open electives are available in the electronics department?",
+        "Can I pick an open elective related to environmental studies?",
+        "What are the open electives for students interested in arts?",
+        "Are there any open electives available for students in the humanities?",
+        "Can I take an open elective in psychology or sociology?",
+        "What are the open electives in computer applications?",
+        "Are open electives offered in subjects like law and political science?",
+        "Which subjects are considered open electives in NITJ?"
       ],
       "responses": [
         "Elective registration opens in ERP Portal before the semester registration. Consult your academic advisor/mentor/seniors before choosing. \n Elective changes allowed till via ERP portal > Academics > Course Registration."
@@ -1489,6 +3173,142 @@
         "NIT Jalandhar, through its Aarogya Club and other initiatives, promotes mental health and well-being through counseling, workshops, and awareness programs, aiming to foster a culture of physical fitness and mental resilience. "
       ]
     },
+    {
+      "tag": "branch_change",
+      "patterns": [
+        "How to change branch at NITJ?",
+        "branch change process",
+        "Can I change my branch?",
+        "I want to shift branch",
+        "Branch shifting rules",
+        "How do I apply for branch change?",
+        "Process for branch transfer",
+        "Branch transfer procedure",
+        "Is branch change possible?",
+        "Change from CSE to ECE",
+        "Shift from ECE to ME",
+        "I need branch change form",
+        "Where is branch change form?",
+        "Branch change eligibility",
+        "Can I move to another branch?",
+        "How can I switch branch?",
+        "What are branch change criteria?",
+        "Criteria for branch change",
+        "Dates for branch change",
+        "When does branch change happen?",
+        "In which year can I apply for branch change?",
+        "Can first years apply for branch change?",
+        "Second year branch change possible?",
+        "CGPA required for branch change",
+        "Minimum GPA for branch transfer",
+        "Branch change cutoff CGPA",
+        "Seat availability for branch change",
+        "How many seats for branch change?",
+        "When are branch change results out?",
+        "Branch change deadline",
+        "Who approves branch change?",
+        "Branch change counseling dates",
+        "Branch change counseling process",
+        "Need branch change counseling info",
+        "Where to submit branch change request?",
+        "Branch change online or offline?",
+        "Is branch transfer online?",
+        "Online branch change application",
+        "Offline branch change procedure",
+        "What documents for branch change?",
+        "Document list for branch transfer",
+        "Is there fee for branch change?",
+        "Branch change charges?",
+        "How long for branch change process?",
+        "When will branch change results come?",
+        "Branch change merit list",
+        "Tips for branch transfer",
+        "Advice for branch change application",
+        "Any quota for branch transfer?",
+        "Is branch change open to all?",
+        "Can lateral entry students change branch?",
+        "branch change CGPA criteria NITJ",
+        "branch change schedule",
+        "branch change notification date",
+        "branch change form link",
+        "branch change what documents?",
+        "branch change last date",
+        "branch change sem when?",
+        "branch change after which sem?",
+        "branch change semester rule",
+        "branch change fill form online",
+        "branch change counseling round",
+        "branch change category wise seats",
+        "branch change vacancy list",
+        "Could you explain the complete process for requesting a branch change at NIT Jalandhar?",
+        "What are the exact eligibility criteria and minimum CGPA required for branch transfer?",
+        "In which semester and academic year is branch change permitted for B.Tech students?",
+        "Where can I find the official notification and dates for branch change applications?",
+        "How do I download and submit the branch change form online at the NITJ portal?",
+        "What supporting documents (transcripts, approvals) are needed for branch change?",
+        "Is there a deadline or cutoff date after which branch change requests won’t be accepted?",
+        "How many seats are typically available for branch change in each department?",
+        "Can first-year students apply for branch change, or is it restricted to second-year onwards?",
+        "Is the branch change process conducted online only, or do I need to visit the registrar’s office?",
+        "What is the role of departmental counseling in the branch transfer decision?",
+        "How does seat availability and category quota affect my chances of branch change?",
+        "When will the branch change counseling schedule and merit list be published?",
+        "What happens if I miss the branch change application deadline?",
+        "Can I withdraw my branch change request after submission, and what is the procedure?",
+        "Are there any fees or charges associated with applying for branch change?",
+        "How long does it take from application to final approval of a branch change?",
+        "Can lateral entry students participate in the same branch transfer process?",
+        "Is there a minimum attendance requirement to be eligible for branch change?",
+        "How do I check the status of my branch change application on the student portal?",
+        "What is the minimum CGPA cutoff historically for successful branch transfers?",
+        "Are merit lists for branch change published department-wise or overall?",
+        "How many rounds of counseling are there for branch change, and when do they occur?",
+        "Who is the approving authority for branch transfer requests at NITJ?",
+        "Can I apply for branch change more than once if my first request is rejected?",
+        "What should I do if I do not receive any communication after applying for branch change?",
+        "Does branch change require recommendation from my current department?",
+        "Is there a written test or interview as part of the branch change evaluation?",
+        "What is the policy if multiple students have the same CGPA and want the same branch?",
+        "Are branch change seats reserved for specific categories like SC/ST/OBC?",
+        "Can international students apply for branch change under the same rules?",
+        "How will branch change affect my course registration and timetable?",
+        "What happens to my existing backlog or arrears if I change branch?",
+        "Can I change branch after completing my second semester exams?",
+        "Is there an appeal process if my branch change request is denied?",
+        "What are the academic implications of shifting from a high-demand branch?",
+        "Do I need to inform my current project guide or supervisor before branch change?",
+        "How will branch change impact my lab assignments and group projects?",
+        "Can I choose more than one preferred branch in the application?",
+        "Is there any counseling fee or processing fee for branch change?",
+        "Which office or official email should I contact for branch change queries?",
+        "Does branch change require clearance from the training & placement office?",
+        "How is the branch change merit list calculated if CGPAs are tied?",
+        "Are open electives affected if I switch to a new branch mid-course?",
+        "What is the timeline for fee adjustment after branch transfer?",
+        "Will my hostel room or accommodation status change after branch change?",
+        "Is branch change possible mid-semester or only before semester registration?",
+        "What resources or academic support are available for students who change branch?",
+        "How do I prepare for the branch change counseling session?",
+        "Does branch change require parental or guardian approval?",
+        "What happens to my attendance record when I move to a new department?",
+        "Are scholarships or financial aid affected by branch transfer?",
+        "How can I find historical data on past branch change cutoffs?",
+        "Is there a maximum number of students allowed to change into one branch?",
+        "What are the consequences if I fail to join the new branch after approval?",
+        "Can I change branch if I already have a backlog in my current branch?",
+        "How often does NITJ conduct branch change exercises each year?",
+        "Are digital signatures required for the branch change application?",
+        "What is the official website link for branch change guidelines at NITJ?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Branch change at NIT Jalandhar is offered once a year after your first semester results. Eligibility is based on CGPA, seat availability, and department counseling. You must fill out the branch change form (available online), upload required documents (transcript, approval letter), and submit by the deadline. Counseling dates and detailed criteria (minimum CGPA, number of seats) are published on the official portal.",
+          "url": "https://v1.nitj.ac.in/nitj_files/links/Rule_for_branch_change_39051.pdf"
+        }
+      ]
+    },
+    
     {
       "tag": "Canteen_facilities",
       "patterns": [
@@ -1543,12 +3363,43 @@
         "electronics communication",
         "ece department",
         "deparment of ece"
-
       ],
       "responses": [
         {
           "type": "text",
           "url": "https://departments.nitj.ac.in/dept/ece/home"
+        }
+      ]
+    },
+    {
+      "tag": "Department_EC_faculty",
+      "patterns": [
+        "Dr Mamta Khosla",
+        "Dr Indu Saini",
+        "Dr Neetu Sood",
+        "Dr BS Saini",
+        "Dr Arunk Khosla",
+        "Dr Ashish Raman",
+        "Dr Balwinder Raj",
+        "Dr Deepti Kakkar",
+        "Dr Ramesh Sunkaria",
+        "Dr Manjeet Singh",
+        "Dr Nitesh Kashyap",
+        "Dr Aijaz Mehdi Zaidi",
+        "Dr Kundan Kumar",
+        "Dr Rohit Singh",
+        "Dr Bodile Roshan",
+        "Dr Sukhwinder Singh",
+        "Dr Sateesh Awasthi",
+        "Dr Pawan Kumar Verma",
+        "Dr Tarun Chaudhary",
+        "Dr Ashutosh Kar",
+        "Dr Arun Khosla"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "url": "https://departments.nitj.ac.in/dept/ece/Faculty"
         }
       ]
     },
@@ -1610,6 +3461,563 @@
       "responses": [
         "Grading System at NITJ (BTech Programs):\n\n- 10-Point Scale:\n  - The detailed information regarding the grading system,CGPA and SGPA is provided in the acedemics section of the college website,please visit it"
       ]
+    },
+   
+
+
+    {
+      "tag": "hostel_facilities",
+      "patterns": [
+        "What is the mess fee for this semester?",
+        "Is there a gym in the hostels?",
+        "How many students share one hostel room?",
+        "Where is the girls hostel office?",
+        "Can I stay on campus during vacation?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Hostel and facilities-related queries are addressed on the hostel section of the website.",
+          "url": "https://www.nitj.ac.in/lifeAtNitj/hostel.html"
+        }
+      ]
+    },
+    {
+      "tag": "hostel_allotment",
+      "patterns": [
+        "How are hostels allotted in NITJ?",
+        "What is the process of hostel allotment?",
+        "How to apply for hostel at NIT Jalandhar?",
+        "Is hostel allotment done online or offline?",
+        "When does hostel allotment begin?",
+        "How do I get hostel after admission?",
+        "Is hostel given automatically after admission?",
+        "Is there a separate form for hostel?",
+        "Do we need to apply separately for hostel?",
+        "When will I get hostel allotment confirmation?",
+        "What is the deadline for hostel application?",
+        "What documents are required for hostel allotment?",
+        "Do all students get hostel at NITJ?",
+        "Can I choose my roommate in NITJ hostel?",
+        "Is hostel mandatory for first year students?",
+        "How many people are there in one room in hostel?",
+        "Are hostels allotted based on JEE rank?",
+        "Can I get a single room in hostel?",
+        "Do I need to go to campus for hostel allotment?",
+        "How to check my hostel status?",
+        "Is there a portal for hostel application?",
+        "Where do I fill the hostel form?",
+        "Can I apply for hostel online?",
+        "What is hostel allotment criteria?",
+        "Is hostel given on first come first serve?",
+        "How are hostels distributed to freshers?",
+        "Can I change my hostel after allotment?",
+        "Is hostel allotment branch wise?",
+        "Are hostels co-ed?",
+        "Which hostel is given to first year students?",
+        "Do M.Tech students get hostel?",
+        "Do MBA students get hostel rooms?",
+        "Are PhD scholars eligible for hostel?",
+        "What happens if I miss hostel application deadline?",
+        "Is there a hostel fee separate from admission?",
+        "How will I know which hostel I got?",
+        "Is hostel seat confirmation needed?",
+        "Can I decline hostel after allotment?",
+        "Is there any preference system for hostel?",
+        "Is hostel provided to international students?",
+        "Do I have to upload documents for hostel?",
+        "Will I get hostel confirmation by email?",
+        "Are hostels inside the NITJ campus?",
+        "Can I share a room with my friend?",
+        "Is AC facility available in hostel rooms?",
+        "What if I don’t want hostel?",
+        "Who is eligible for hostel at NIT Jalandhar?",
+        "Are all hostels same in NITJ?",
+        "What is the fee structure for hostel?",
+        "What to do after hostel allotment is received?",
+        ""
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Hostel allotment at NIT Jalandhar is usually done online after your admission is confirmed. You need to fill out the hostel application form, which is released by the hostel office. Allotment is based on factors like year of study, availability, and eligibility. For latest updates, refer to the official NITJ website or hostel portal.",
+          "url": "https://www.nitj.ac.in/template/index.html?id=66b2155270badb0d8d3d7c7c?category=newpage"
+        }
+      ]
+    },
+    {
+      "tag": "contact_warden",
+      "patterns": [
+        "contact warden",
+        "how to contact hostel warden",
+        "warden number",
+        "what's the warden's contact info?",
+        "need to call warden",
+        "hostel warden phone number",
+        "email id of hostel warden",
+        "how can I talk to the warden?",
+        "where can I find warden contact?",
+        "who is the warden of hostel?",
+        "give me warden number",
+        "can I call the warden?",
+        "I want to contact hostel warden",
+        "warden contact info NITJ",
+        "contact number of NITJ warden",
+        "how to reach out to hostel warden?",
+        "I lost warden number",
+        "who do I call for hostel issues?",
+        "whom to contact for hostel problems?",
+        "warden mail id please",
+        "where to get hostel warden details?",
+        "urgent contact warden",
+        "I want to speak to hostel warden",
+        "how to get warden contact details?",
+        "any contact of hostel warden?",
+        "warden contact link?",
+        "phone number hostel warden",
+        "can I message hostel warden?",
+        "how to contact warden for complaint?",
+        "what's the official mail of hostel warden?",
+        "tell me the name of hostel warden",
+        "warden helpline",
+        "contact info for girls hostel warden",
+        "contact info for boys hostel warden",
+        "how to approach warden?",
+        "reach hostel warden quickly",
+        "need warden contact urgently",
+        "need help from hostel warden",
+        "contact person for hostel issues",
+        "warden ka contact?",
+        "who is hostel incharge?",
+        "who manages the hostel?",
+        "who is responsible for hostel?",
+        "hostel warden email and phone",
+        "how can I get warden's mobile number?",
+        "please provide warden's contact info",
+        "who is the girls hostel warden?",
+        "who is the boys hostel warden?",
+        "warden contact nit jalandhar"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "To contact the hostel warden, you can find their official phone number and email address on the NIT Jalandhar hostel website. Each hostel has a designated warden with specific contact details. Here's the link:",
+          "url": "https://www.nitj.ac.in/admin/hostels.html"
+        }
+      ]
+    },
+    {
+      "tag": "stay_on_campus_during_vacations",
+      "patterns": [
+        "Can I stay on campus during the vacations?",
+        "Is it allowed to stay on campus during university holidays?",
+        "Can students stay in hostels during breaks or vacations?",
+        "Are students allowed to remain on campus during the vacation period?",
+        "Is it possible to stay on the NITJ campus during the holidays?",
+        "Can I stay on campus during the semester break?",
+        "Are hostels open during the vacation period for students to stay?",
+        "Can I continue staying in the hostel during vacations at NIT Jalandhar?",
+        "Can international students stay on campus during breaks?",
+        "What is the process for staying on campus during the vacations?",
+        "Is staying on campus during the vacation period permitted at NIT Jalandhar?",
+        "Can students stay in hostels during the winter break?",
+        "What are the guidelines for staying on campus during vacations?",
+        "Are there any specific permissions required to stay on campus during holidays?",
+        "How can I request to stay on campus during the vacation period?",
+        "Can I stay in the hostel over the summer vacation at NITJ?",
+        "Is staying in the hostel allowed during the semester break at NITJ?",
+        "Can I get permission to stay on campus during the vacation period?",
+        "Is there a process for students to stay on campus when the semester is over?",
+        "Are there any restrictions on staying in the hostel during holidays?",
+        "How to apply for staying on campus during university vacations?",
+        "Can I live on campus during the vacation breaks?",
+        "Can undergraduates stay on campus during the summer holidays?",
+        "Is the campus open for students during the winter break?",
+        "Can I stay in the NITJ hostel if I want to during the break?",
+        "Will the hostel remain open during vacations for students who need to stay?",
+        "How do I stay on campus if I don’t have any place to go during vacations?",
+        "What are the rules for staying in the hostel over vacations?",
+        "What are the charges for staying on campus during the holidays?",
+        "Can I stay on campus during the semester break, and are there any fees for it?",
+        "Is it possible to stay in the hostel during the university holidays if I have permission?",
+        "Is there an official procedure for staying in the hostel during vacation periods?",
+        "Can I remain on campus if I want to during the semester break?",
+        "Are there any facilities available for students staying on campus during vacations?",
+        "Can I stay in my hostel room during university holidays?",
+        "Is there a designated place for students to stay on campus during breaks?",
+        "Do I need special approval to stay in the hostel during vacations?",
+        "Are there any conditions for staying on campus during the holidays?",
+        "stay campus vacay?",
+        "can i stay campus break?",
+        "stay on campus vac?",
+        "stay hostel vac?",
+        "i stay campus holiday?",
+        "campus stay during vac?",
+        "can stay hostel holidays?",
+        "stay hostel vacay?",
+        "stay campus holidays?",
+        "i want stay campus break?",
+        "stay vac hostel?",
+        "campus stay break?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes, students are allowed to stay on campus during vacations. However, you must seek prior permission from the hostel authorities and follow any guidelines set by the institute. Make sure to apply well in advance and follow the process for accommodation during breaks. For more details, you can contact the hostel office."
+        }
+      ]
+    },
+    {
+      "tag": "nitj_social_media_handles",
+      "patterns": [
+        
+        "What are the official social media handles of NIT Jalandhar?",
+        "Where can I find the social media pages of NITJ?",
+        "Does NITJ have official accounts on social platforms like Instagram or Facebook?",
+        "Can you tell me all the social media platforms where NITJ is active?",
+        "Is there a place where I can get a list of all NIT Jalandhar’s social media handles?",
+        "Where do I follow NITJ for official updates on social media?",
+        "Can you give me the social media usernames of NIT Jalandhar?",
+        "What are the names of NITJ's accounts on YouTube, Instagram, Facebook, and LinkedIn?",
+        "Where can I follow NITJ online for news, events, and updates?",
+        "Are there verified NITJ social media accounts I can follow?",
+        "How do I find NITJ on various social networks?",
+        "Is NIT Jalandhar active on social media? If yes, where?",
+        "Give me the links or usernames of NITJ’s social handles.",
+        "Can I get all the official NITJ social media profiles in one place?",
+        "I want to stay connected through social platforms. What are NITJ's handles?",
+        "Where does NIT Jalandhar post updates on social media?",
+        
+        
+        "nitj social media",
+        "socials of nitj",
+        "where is nitj insta",
+        "facebook of nitj?",
+        "linkedin of college",
+        "give social handles",
+        "all social handle nitj",
+        "insta id nitj",
+        "youtube nitj link",
+        "nitj ka social",
+        "social handle bta do",
+        "plz share nitj socials",
+        "college socials kaha hai",
+        "twitter handle nitj?",
+        "college ka fb id?",
+        "give me all handles",
+        "official social links?",
+        "social media kaha milta",
+        "social account list",
+        "nitj socials plz",
+        "plz send nitj insta",
+        "fb insta nitj",
+        "give handles fast",
+        "btao socials plz",
+        "handle of nitj",
+        "is there any social page of nitj",
+        "all social platform nitj",
+        "full list of social media",
+        "where to follow nitj",
+        "social media id of nitj"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes, NITJ has an official Instagram page where you can find updates on events, fests, and campus life. 📸 Follow us at @nitjofficial.",
+          "url": "https://www.instagram.com/nitjofficial/?hl=en"
+        }
+      ]
+      
+    },
+    
+    
+    
+    
+ 
+    {
+      "tag": "instagram",
+      "patterns": [
+        "What is the Instagram handle of NITJ?",
+        "Is there an Instagram page for NITJ?",
+        "NITJ insta handle?",
+        "Can I follow NITJ on Instagram?",
+        "NITJ Instagram page",
+        "Does NIT Jalandhar have an Instagram?",
+        "Where can I find NITJ photos?",
+        "Any Instagram for college events?",
+        "Official Instagram of NITJ",
+        "NITJ Instagram link"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes, NITJ has an official Instagram page where you can find updates on events, fests, and campus life. 📸 Follow us at @nitjofficial.",
+          "url": "https://www.instagram.com/nitjofficial/?hl=en"
+          
+        }
+      ]
+    },
+    {
+      "tag": "facebook",
+      "patterns": [
+        "What is the Facebook page of NITJ?",
+        "Does NIT Jalandhar have a Facebook page?",
+        "Official Facebook link of NITJ?",
+        "Where can I find college updates on Facebook?",
+        "NITJ Facebook profile",
+        "Facebook handle of NIT Jalandhar",
+        "College Facebook page"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes, NITJ has an official Facebook page where you can find updates, event info, and community posts.",
+          "url": "https://www.facebook.com/NITJofficial/"
+        }
+      ]
+    },
+    {
+      "tag": "social_linkedin",
+      "patterns": [
+        "What is the official LinkedIn page of NIT Jalandhar?",
+        "Where can I find NITJ on LinkedIn?",
+        "Does NITJ have a LinkedIn profile?",
+        "Can you share the LinkedIn link of the college?",
+        "Is there an official NITJ LinkedIn account?",
+        "Where can I follow NITJ updates on LinkedIn?",
+        "How to connect with NITJ alumni on LinkedIn?",
+        "LinkedIn handle of NITJ?",
+        "Share the LinkedIn page for NIT Jalandhar",
+        "How can I find professors of NITJ on LinkedIn?",
+        "How to join the NITJ LinkedIn group?",
+        "Are there department pages of NITJ on LinkedIn?",
+        "Can I find placements info of NITJ on LinkedIn?",
+        "How to search for NITJ student community on LinkedIn?",
+        "Any LinkedIn group for NITJ first years?",
+        "How can I explore NITJ achievements on LinkedIn?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "You can visit NIT Jalandhar’s official LinkedIn page It features updates, achievements, and more.",
+          "url" : "https://www.linkedin.com/school/dr-b-r-ambedkar-national-institute-of-technology-jalandhar-official/posts/?feedView=all"
+        }
+      ]
+    },
+    {
+      "tag": "social_youtube",
+      "patterns": [
+        "What is the official YouTube channel of NIT Jalandhar?",
+        "Where can I watch NITJ videos?",
+        "Does NITJ have a YouTube channel?",
+        "Share the YouTube link of NIT Jalandhar",
+        "Where can I find NITJ webinars or lectures?",
+        "Are events of NITJ uploaded on YouTube?",
+        "How to watch NITJ convocation online?",
+        "Where can I see past cultural fest videos of NITJ?",
+        "NITJ official YouTube channel?",
+        "Is there a YouTube channel for NITJ departments?",
+        "Can I find NITJ placement talks on YouTube?",
+        "Does NITJ upload seminars and workshops on YouTube?",
+        "How to find NITJ orientation video?",
+        "Any YouTube channel for NITJ students?",
+        "Where to see the latest videos from NITJ?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "You can explore NIT Jalandhar’s official videos and updates on their YouTube channel. It features lectures, events, and more.",
+
+          "url" : "https://www.youtube.com/@nitjofficial"
+        }
+      ]
+    },
+    
+    
+    {
+      "tag": "phd_queries",
+      "patterns": [
+        "How can I apply for PhD at NITJ?",
+        "What is the procedure for PhD admission at NITJ?",
+        "When does PhD admission open?",
+        "What are the eligibility criteria for PhD at NIT Jalandhar?",
+        "Does NITJ offer PhD in Computer Science?",
+        "Does NITJ have a PhD in ECE?",
+        "Can I do a PhD after MTech?",
+        "Is GATE mandatory for PhD?",
+        "Can I do PhD without GATE at NITJ?",
+        "What is the stipend for PhD students?",
+        "How much is the monthly fellowship?",
+        "Is there a written test for PhD?",
+        "How tough is the PhD interview?",
+        "Do I need to find a supervisor before applying?",
+        "How long does a PhD take at NITJ?",
+        "Is there a part-time PhD program?",
+        "Can working professionals apply for part-time PhD?",
+        "What documents are needed for PhD application?",
+        "Can international students apply for PhD at NITJ?",
+        "What is the last date to apply for PhD?",
+        "Which departments are offering PhD right now?",
+        "What are the research areas for PhD?",
+        "How can I contact a faculty member for PhD guidance?",
+        "Is there an age limit for PhD admission?",
+        "Can I do a PhD while doing a job?",
+        "Is hostel facility available for PhD scholars?",
+        "How is the research environment at NITJ?",
+        "Is it compulsory to publish papers during PhD?",
+        "Are there any PhD seats under sponsored category?",
+        "Are there self-financed PhD seats?",
+        "Can I change my research area later?",
+        "How are the placement opportunities after PhD at NITJ?",
+        "Can I apply for PhD in January session?",
+        "Do PhD students get leaves or vacations?",
+        "Where can I find previous year PhD entrance papers?",
+        "What is the selection process for PhD?",
+        "Is an interview mandatory for all candidates?",
+        "Can I switch from full-time to part-time PhD?",
+        "Can I stay off-campus during my PhD?",
+        "Can BTech students apply directly to PhD?",
+        "Where do I upload my PhD application documents?",
+        "Is the application portal open now for PhD?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "You can find complete details about PhD admissions at NIT Jalandhar, including eligibility, application process, important dates, research areas, and FAQs on the official PhD portal.",
+          "url": "https://www.nitj.ac.in/phd_admissions"
+        }
+      ]
+    },
+    {
+      "tag": "minor_degree",
+      "patterns": [
+        "What is a minor degree?",
+        "Does NITJ offer minor degrees?",
+        "What minor degrees are available at NITJ?",
+        "Which branches can take a minor in AI?",
+        "Can I take a minor in CSE if I'm from ECE?",
+        "How to apply for a minor degree at NITJ?",
+        "When can I apply for a minor degree?",
+        "Is there a GPA requirement for minor degree?",
+        "How many students are selected for minor?",
+        "Is minor degree compulsory?",
+        "What are the benefits of doing a minor degree?",
+        "Can I drop a minor degree later?",
+        "Can I take more than one minor?",
+        "What’s the duration of a minor program?",
+        "Will my minor show on the degree certificate?",
+        "Is attendance counted separately for minor subjects?",
+        "Are minor classes held on weekends?",
+        "Are there extra credits for minor subjects?",
+        "Will I get hostel leave for minor classes?",
+        "How many credits do I need to complete a minor?",
+        "Is there a separate exam for minor degree?",
+        "Can I do minor in a branch outside my department?",
+        "What if I fail a minor subject?",
+        "Will minor subjects affect my CGPA?",
+        "Can I do a minor in management or economics?",
+        "Do I need permission from HOD for minor degree?",
+        "What is the minor in AI and ML about?",
+        "Is there a minor degree in Data Science?",
+        "Do first year students get to choose a minor?",
+        "Are minor degrees available in offline mode only?",
+        "Is it possible to cancel my minor degree later?",
+        "What is the syllabus of minor degree in CSE?",
+        "Where can I find the minor degree brochure?",
+        "Can I switch my minor after enrolling?",
+        "What if I can’t manage both core and minor subjects?",
+        "Will companies value the minor degree during placements?",
+        "Is there any counselling for choosing a minor?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "NITJ offers minor degrees in various disciplines like CSE, AI-ML, and more. You can apply as per the institute guidelines after meeting the eligibility criteria. To know more about available minors, rules, credits, and application process, check the official minor degree portal.",
+          "url": "https://www.nitj.ac.in/minor_degree"
+        }
+      ]
+    },
+    {
+      "tag": "labs_info",
+      "patterns": [
+        "What labs are there in NITJ?",
+        "Does CSE department have labs?",
+        "Where are the AI and ML labs located?",
+        "Are there electronics labs in ECE?",
+        "Is there a mechanical workshop in NITJ?",
+        "Can I visit the labs in first year?",
+        "What kind of experiments are done in labs?",
+        "Are lab sessions compulsory?",
+        "How are lab marks calculated?",
+        "Do we have computer labs in every department?",
+        "Who takes the lab sessions?",
+        "What equipment is available in physics lab?",
+        "Is there a chemistry lab for first-year students?",
+        "Do we have a robotics lab at NITJ?",
+        "Is there any IoT or embedded systems lab?",
+        "Are the labs air-conditioned?",
+        "Can we access labs after class hours?",
+        "Are software tools provided in labs?",
+        "How many students per group in labs?",
+        "Do we need to write lab records?",
+        "Are labs only for core subjects?",
+        "Is there a dedicated data science lab?",
+        "Where can I find the lab schedule?",
+        "Are there safety rules in labs?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes, NITJ has well-equipped labs across all departments — including Computer Labs, AI/ML Labs, IoT Labs, Chemistry & Physics Labs, Electronics Labs, Mechanical Workshops, and more. Lab sessions are scheduled as part of your course and are essential for hands-on learning.",
+          "url": "https://www.nitj.ac.in/department"
+        }
+      ]
+    },
+    {
+      "tag": "workshops_info",
+      "patterns": [
+        "What are workshops in college?",
+        "Does NITJ conduct workshops?",
+        "Are there any workshops for first year students?",
+        "What is mechanical workshop in first year?",
+        "Do we have to attend workshop classes?",
+        "Are there electronics or soldering workshops?",
+        "Is workshop compulsory in first semester?",
+        "Who conducts the workshops?",
+        "What do we learn in mechanical workshop?",
+        "What are some technical workshops in NITJ?",
+        "Is there any coding workshop for beginners?",
+        "How do I register for workshops at NITJ?",
+        "Are workshops held during weekends?",
+        "Is there any workshop on robotics?",
+        "Can I attend workshops from other departments?",
+        "Do we get certificates for workshops?",
+        "Are workshops free or paid?",
+        "Where are workshops conducted in NITJ?",
+        "Do we need to bring our own tools for workshops?",
+        "How long is the mechanical workshop course?",
+        "Is workshop part of internal marks?",
+        "What if I miss a workshop session?",
+        "Is there a safety dress code for workshops?",
+        "Can I join design thinking or innovation workshops?",
+        "Are there industry experts in NITJ workshops?",
+        "Is there a drone workshop at NITJ?",
+        "Can first years join the drone workshop?",
+        "How do I sign up for a drone workshop?",
+        "What will I learn in a drone workshop?",
+        "Are drone parts provided in the workshop?",
+        "When is the next drone workshop scheduled?"
+      ],
+      "responses": [
+        {
+          "type": "text",
+          "text": "Yes! NITJ runs a variety of hands-on workshops for first-year students — from mechanical fitting and electronics soldering to coding bootcamps, robotics, **and even drone-building workshops**. In the drone workshop you’ll learn about frame assembly, flight controls, and basic flight testing. All parts and safety gear are provided, and you’ll get a participation certificate at the end.Below is the link provided for upcomming workshops",
+          "url": "https://www.nitj.ac.in/research/upcoming_workshops.html"
+        }
+      ]
     }
+    
+    
+
   ]
 }
